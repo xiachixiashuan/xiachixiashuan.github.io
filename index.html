@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>xiachixiashuan</title>
+</head>
+<body>
+  <h1>Welcome to xiachixiashuan</h1>
+  <p>This blog is powered by GitHub Pages + Jekyll.</p>
+  <p>Latest posts:</p>
+  <ul>
+    {% for post in site.posts limit:5 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> — {{ post.date | date: "%Y-%m-%d" }}</li>
+    {% endfor %}
+  </ul>
+</body>
+</html>

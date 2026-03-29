@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="post-page">
+    <a href="{{ '/' | relative_url }}" class="back-link">&larr; 返回首页</a>
+
+    <header class="post-page-header">
+      <h1>{{ page.title }}</h1>
+      <div class="post-page-meta">
+        <span>{{ page.date | date: "%Y-%m-%d" }}</span>
+        {% if page.categories.size > 0 %}
+          <span>&middot;</span>
+          <span>{{ page.categories | join: " / " }}</span>
+        {% endif %}
+      </div>
+    </header>
+
+    <article class="post-content">
+      {{ content }}
+    </article>
+  </div>
+</div>

@@ -1,17 +1,29 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-  <meta charset="UTF-8">
-  <title>xiachixiashuan</title>
-</head>
-<body>
-  <h1>Welcome to xiachixiashuan</h1>
-  <p>This blog is powered by GitHub Pages + Jekyll.</p>
-  <p>Latest posts:</p>
-  <ul>
-    {% for post in site.posts limit:5 %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a> — {{ post.date | date: "%Y-%m-%d" }}</li>
+---
+layout: home
+---
+<!-- Hero -->
+<section class="hero">
+  <div class="hero-tag"><span class="dot"></span> AI Research & Tech Blog</div>
+  <h1>xiachixiashuan</h1>
+  <p class="hero-description">探索 AI 前沿技术，记录研究与思考。<br>关注图像生成、视频生成与多模态模型。</p>
+  <div class="hero-divider"></div>
+</section>
+
+<!-- Posts -->
+<section>
+  <h2 class="section-title">最新文章</h2>
+  <div class="posts-grid">
+    {% for post in site.posts %}
+    <a href="{{ post.url | relative_url }}" class="post-card">
+      <div class="post-meta">
+        <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+        {% for cat in post.categories limit:1 %}
+        <span class="post-category">{{ cat }}</span>
+        {% endfor %}
+      </div>
+      <h3 class="post-title">{{ post.title }}</h3>
+      <span class="post-arrow">&rarr;</span>
+    </a>
     {% endfor %}
-  </ul>
-</body>
-</html>
+  </div>
+</section>

@@ -511,6 +511,56 @@ body::before {
   text-decoration-color: var(--cyan);
 }
 
+/* --- Table of Contents --- */
+.post-toc {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px 24px;
+  margin-bottom: 2em;
+}
+
+.post-toc .toc-title {
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--accent-light);
+  font-family: var(--font-mono);
+  margin-bottom: 12px;
+}
+
+.post-toc .toc-title::before {
+  content: '// ';
+  color: var(--text-muted);
+}
+
+.post-toc ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.post-toc li {
+  margin-bottom: 6px;
+}
+
+.post-toc li.toc-sub {
+  padding-left: 1.2em;
+}
+
+.post-toc a {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  text-decoration: none;
+  transition: color var(--transition);
+  line-height: 1.6;
+}
+
+.post-toc a:hover {
+  color: var(--cyan);
+}
+
 .back-link {
   display: inline-flex;
   align-items: center;

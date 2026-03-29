@@ -17,7 +17,27 @@ layout: default
     </header>
 
     <article class="post-content">
+      <nav id="toc" class="post-toc"></nav>
       {{ content }}
     </article>
   </div>
 </div>
+
+<script>
+(function() {
+  var article = document.querySelector('.post-content');
+  var toc = document.getElementById('toc');
+  var headings = article.querySelectorAll('h2, h3');
+  if (headings.length < 2) { toc.style.display = 'none'; return; }
+
+  var html = '<div class="toc-title">目录</div><ul>';
+  headings.forEach(function(h, i) {
+    var id = 'heading-' + i;
+    h.id = id;
+    var cls = h.tagName === 'H3' ? ' class="toc-sub"' : '';
+    html += '<li' + cls + '><a href="#' + id + '">' + h.textContent + '</a></li>';
+  });
+  html += '</ul>';
+  toc.innerHTML = html;
+})();
+</script>

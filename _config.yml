@@ -1,4 +1,6 @@
 title: xiachixiashuan
 markdown: kramdown
+timezone: Asia/Shanghai
+future: true
 plugins:
   - jekyll-seo-tag

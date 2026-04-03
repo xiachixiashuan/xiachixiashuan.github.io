@@ -1,0 +1,25 @@
+{
+  "name": "xiachixiashuan.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiachixiashuan/xiachixiashuan.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/xiachixiashuan/xiachixiashuan.github.io/issues"
+  },
+  "homepage": "https://github.com/xiachixiashuan/xiachixiashuan.github.io#readme",
+  "dependencies": {
+    "marked": "^17.0.5",
+    "playwright": "^1.59.1"
+  }
+}

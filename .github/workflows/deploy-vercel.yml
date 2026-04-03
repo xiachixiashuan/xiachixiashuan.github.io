@@ -21,23 +21,12 @@ jobs:
       - name: Install Vercel CLI
         run: npm i -g vercel
 
-      - name: Create Vercel Output
-        run: |
-          mkdir -p .vercel/output
-          echo '{"projectId":"${{ secrets.VERCEL_PROJECT_ID }}","orgId":"${{ secrets.VERCEL_ORG_ID }}"}' > .vercel/project.json
-          cp -r _site .vercel/output/static
-          echo '{"version":3}' > .vercel/output/config.json
-
-      - name: Verify Output
-        run: |
-          ls -la .vercel/
-          ls -la .vercel/output/
-          cat .vercel/project.json
-          cat .vercel/output/config.json
-          ls .vercel/output/static/ | head -20
-
       - name: Deploy to Vercel
-        run: vercel deploy --prebuilt --prod --token="${{ secrets.VERCEL_TOKEN }}"
-        env:
-          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+        run: |
+          DEPLOY_DIR=$(mktemp -d)
+          mkdir -p "$DEPLOY_DIR/.vercel/output"
+          echo '{"projectId":"${{ secrets.VERCEL_PROJECT_ID }}","orgId":"${{ secrets.VERCEL_ORG_ID }}"}' > "$DEPLOY_DIR/.vercel/project.json"
+          cp -r _site "$DEPLOY_DIR/.vercel/output/static"
+          echo '{"version":3}' > "$DEPLOY_DIR/.vercel/output/config.json"
+          cd "$DEPLOY_DIR"
+          vercel deploy --prebuilt --prod --token="${{ secrets.VERCEL_TOKEN }}"

@@ -1,0 +1,29 @@
+name: Telegram Notify
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - '.telegram-outbox/latest.txt'
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Send message
+        env:
+          TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -z "$TOKEN" ] || [ -z "$CHAT_ID" ]; then
+            echo "Missing TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID secret"
+            exit 1
+          fi
+          MESSAGE=$(cat .telegram-outbox/latest.txt)
+          curl -sS -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${CHAT_ID}" \
+            --data-urlencode "text=${MESSAGE}" \
+            --data-urlencode "disable_web_page_preview=true" \
+            | tee /tmp/resp.json
+          grep -q '"ok":true' /tmp/resp.json

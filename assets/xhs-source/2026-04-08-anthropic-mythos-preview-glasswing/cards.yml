@@ -1,0 +1,77 @@
+date: "2026-04-08"
+cover:
+  emoji: "🚨"
+  title_line1: "Claude Mythos"
+  title_line2: "强到不敢发布"
+  subtitle_lines:
+    - "Anthropic 最强网络安全模型来了"
+    - "却不开放 API 不进 Claude.ai"
+    - "只给 12 家巨头做防御实验"
+  tags:
+    - Anthropic
+    - Claude
+    - AI安全
+    - 网络安全
+    - 前沿模型
+  footer: "AI 速递 · 2026-04-08"
+
+items:
+  - number: "01"
+    section_title: "新闻要点 · 谁能用"
+    section_en: "WHO CAN ACCESS"
+    section_emoji: "📣"
+    repo: "Project Glasswing"
+    meta: "🔒 12 家创始成员 · $100M 使用额度"
+    bullets:
+      - icon: "🏢"
+        title: "巨头联盟"
+        desc: "AWS Apple Google 微软英伟达等"
+      - icon: "🛡️"
+        title: "Linux 基金会入伙"
+        desc: "关键开源项目维护者获准入"
+      - icon: "🚫"
+        title: "不开放 API"
+        desc: "不进 Claude.ai 不上 Bedrock"
+      - icon: "💰"
+        title: "$100M 额度"
+        desc: "Anthropic 赞助研究预览期"
+
+  - number: "02"
+    section_title: "它到底强在哪"
+    section_en: "BENCHMARK NUMBERS"
+    section_emoji: "📊"
+    repo: "CyberGym 评测"
+    meta: "⭐ 远超 Claude Opus 4.6 · 关键数字"
+    bullets:
+      - icon: "🎯"
+        title: "595 次 tier1/2"
+        desc: "Opus 4.6 只有 150-175 次"
+      - icon: "🔥"
+        title: "Firefox 181 次利用"
+        desc: "Opus 数百次尝试仅成功 2 次"
+      - icon: "🕵️"
+        title: "17 年 FreeBSD 洞"
+        desc: "自主发现并利用远程代码执行"
+      - icon: "💸"
+        title: "$1000 挖内核漏洞"
+        desc: "半天跑完一条完整利用链"
+
+  - number: "03"
+    section_title: "争议与信号"
+    section_en: "WHY IT MATTERS"
+    section_emoji: "⚡"
+    repo: "行业反应"
+    meta: "🤔 支持 vs 质疑 · 对开发者的 3 个信号"
+    bullets:
+      - icon: "✅"
+        title: "Simon Willison 支持"
+        desc: "只给守方是必要的系统性防御"
+      - icon: "❓"
+        title: "Aikido 反驳炒作"
+        desc: "称真实攻击场景被过度渲染"
+      - icon: "📈"
+        title: "漏洞经济学改写"
+        desc: "千元半天即可产出内核 exploit"
+      - icon: "🚨"
+        title: "AI 安全不再理论"
+        desc: "所有团队都要重估威胁模型"

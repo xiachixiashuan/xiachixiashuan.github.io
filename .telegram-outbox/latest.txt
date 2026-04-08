@@ -1,0 +1,23 @@
+📈 GitHub 周榜 Top5 | 2026-04-08
+
+1. safishamsi/graphify ⭐6.9k
+   把代码库变成可查询知识图谱的 AI 助手技能扩展
+   https://github.com/safishamsi/graphify
+
+2. ultraworkers/claw-code-parity ⭐6.6k
+   claw-code 的 Rust 移植版，迁移期间维持功能等价
+   https://github.com/ultraworkers/claw-code-parity
+
+3. JuliusBrussee/caveman ⭐5.9k
+   用原始人语法压缩 65% token 的 Claude Code 技能
+   https://github.com/JuliusBrussee/caveman
+
+4. kevinrgu/autoagent ⭐3.8k
+   自主 agent 工程脚手架，无需人工干预完成多步编程任务
+   https://github.com/kevinrgu/autoagent
+
+5. alchaincyf/nuwa-skill ⭐2.5k
+   从任意人物公开内容中蒸馏思维模式的 AI 技能文件
+   https://github.com/alchaincyf/nuwa-skill
+
+👉 完整版已发布到博客

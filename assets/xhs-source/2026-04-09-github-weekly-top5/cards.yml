@@ -1,0 +1,67 @@
+date: "2026-04-09"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-04-09"
+items:
+  - number: "01"
+    section_title: "AI光标教学伴侣"
+    section_en: "AI Cursor Buddy"
+    section_emoji: "🖱️"
+    repo: "farzaa/clicky"
+    meta: "⭐ 2.2k · Swift · Mac 专属 AI 老师"
+    bullets:
+      - { icon: "👁️", title: "实时看屏幕", desc: "能看你当前屏幕内容实时理解上下文" }
+      - { icon: "🗣️", title: "语音对话", desc: "直接和 AI 说话无需打字输入" }
+      - { icon: "👆", title: "指向元素", desc: "能指向屏幕具体位置像真人老师" }
+      - { icon: "🔓", title: "完全开源", desc: "自接 API 密钥免费无限制使用" }
+  - number: "02"
+    section_title: "鞭打Claude神器"
+    section_en: "Whip Slow Claude"
+    section_emoji: "🪅"
+    repo: "GitFrog1111/badclaude"
+    meta: "⭐ 1.5k · HTML · 趣味开发工具"
+    bullets:
+      - { icon: "😤", title: "一键发中断", desc: "点击鞭子触发 Ctrl-C 打断卡顿 AI" }
+      - { icon: "💬", title: "鼓励消息", desc: "中断后随机发 5 种积极鼓励语句" }
+      - { icon: "🎯", title: "托盘操作", desc: "系统托盘驻留随时点击超方便" }
+      - { icon: "😂", title: "幽默路线图", desc: "计划记录抽打次数供机器人参考" }
+  - number: "03"
+    section_title: "内存尾延迟克星"
+    section_en: "Tail Latency Slayer"
+    section_emoji: "⚡"
+    repo: "LaurieWired/tailslayer"
+    meta: "⭐ 1.4k · C++ · 高性能底层库"
+    bullets:
+      - { icon: "📉", title: "削平长尾延迟", desc: "专攻 P99 延迟比均值高数倍的问题" }
+      - { icon: "🚀", title: "预取优化", desc: "通过智能预取策略加速内存访问" }
+      - { icon: "🎮", title: "适用广泛", desc: "数据库游戏引擎实时系统均可用" }
+      - { icon: "🔧", title: "零开销抽象", desc: "C++ 原生无运行时额外负担" }
+  - number: "04"
+    section_title: "推特书签本地化"
+    section_en: "Twitter Bookmark CLI"
+    section_emoji: "🔖"
+    repo: "afar1/fieldtheory-cli"
+    meta: "⭐ 1.3k · TypeScript · Mac CLI 工具"
+    bullets:
+      - { icon: "📥", title: "全量同步", desc: "一键拉取所有 X/Twitter 书签到本地" }
+      - { icon: "💾", title: "离线存储", desc: "数据本地化不依赖平台随时可访问" }
+      - { icon: "🔍", title: "可全文检索", desc: "本地存储支持快速全文检索书签" }
+      - { icon: "🆓", title: "完全免费", desc: "开源无需订阅任何付费服务" }
+  - number: "05"
+    section_title: "AI技能包合集"
+    section_en: "AI Skills Collection"
+    section_emoji: "🧰"
+    repo: "KKKKhazix/khazix-skills"
+    meta: "⭐ 1.2k · YAML/MD · Claude 技能合集"
+    bullets:
+      - { icon: "🧠", title: "实战沉淀", desc: "作者真实使用中提炼的高质量技能" }
+      - { icon: "⚙️", title: "工作流封装", desc: "比提示词更强能封装完整业务逻辑" }
+      - { icon: "📦", title: "即开即用", desc: "拿来即用无需从零设计工作流" }
+      - { icon: "🌐", title: "中文友好", desc: "专为中文开发者场景优化设计" }

@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-04-09
+📈 GitHub 周榜 Top5 | 2026-04-10
 
-1. farzaa/clicky ⭐2.2k
-   Mac AI 光标伴侣，能看屏幕说话指元素，像真人老师一样辅导你
-   https://github.com/farzaa/clicky
+1. alchaincyf/zhangxuefeng-skill ⭐1.9k
+   AI 蒸馏张雪峰认知框架，高考志愿/考研/职业规划实战 Skill
+   https://github.com/alchaincyf/zhangxuefeng-skill
 
-2. GitFrog1111/badclaude ⭐1.5k
-   Claude 太慢时一键鞭打，发 Ctrl-C 中断并附鼓励消息的趣味工具
-   https://github.com/GitFrog1111/badclaude
+2. fikrikarim/parlor ⭐1.2k
+   本机实时多模态 AI，Gemma 4 驱动，语音+视觉全离线无需 API Key
+   https://github.com/fikrikarim/parlor
 
-3. LaurieWired/tailslayer ⭐1.4k
-   C++ 库，通过预取优化降低内存读取尾延迟，高性能系统必备
-   https://github.com/LaurieWired/tailslayer
+3. alchaincyf/hermes-agent-orange-book ⭐1.1k
+   Hermes Agent 中文橙皮书，Nous Research 开源 Agent 框架实战指南
+   https://github.com/alchaincyf/hermes-agent-orange-book
 
-4. afar1/fieldtheory-cli ⭐1.3k
-   免费开源 CLI，本地同步存储全部 X/Twitter 书签，Mac 专属工具
-   https://github.com/afar1/fieldtheory-cli
+4. mattmireles/gemma-tuner-multimodal ⭐1.0k
+   苹果芯片 Gemma 4 多模态微调，音频+图像+文本，Metal 加速
+   https://github.com/mattmireles/gemma-tuner-multimodal
 
-5. KKKKhazix/khazix-skills ⭐1.2k
-   数字生命卡兹克开源的 AI Skills 合集，即拿即用提升 AI 工作流
-   https://github.com/KKKKhazix/khazix-skills
+5. Houseofmvps/codesight ⭐755
+   通用 AI 上下文生成器，兼容 Claude Code/Cursor/Copilot，每次省数千 token
+   https://github.com/Houseofmvps/codesight
 
 👉 完整版已发布到博客

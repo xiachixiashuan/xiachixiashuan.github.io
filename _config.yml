@@ -4,3 +4,18 @@ timezone: Asia/Shanghai
 future: true
 plugins:
   - jekyll-seo-tag
+
+# Giscus comments (GitHub Discussions powered)
+giscus:
+  repo: xiachixiashuan/xiachixiashuan.github.io
+  repo_id: R_kgDORs8quA
+  category: Announcements
+  category_id: DIC_kwDORs8quM4C6mRd
+  mapping: pathname
+  strict: "0"
+  reactions_enabled: "1"
+  emit_metadata: "0"
+  input_position: bottom
+  theme: dark_dimmed
+  lang: zh-CN
+  loading: lazy

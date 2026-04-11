@@ -576,6 +576,42 @@ body::before {
   color: var(--accent-light);
 }
 
+/* --- Comments (Giscus) --- */
+.post-comments {
+  margin-top: 64px;
+  padding-top: 48px;
+  border-top: 1px solid var(--border);
+}
+
+.post-comments-header {
+  margin-bottom: 24px;
+}
+
+.post-comments-header h2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  letter-spacing: -0.01em;
+  margin-bottom: 8px;
+}
+
+.post-comments-hint {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+  font-family: var(--font-mono);
+}
+
+.giscus,
+.giscus-frame {
+  width: 100%;
+}
+
+.giscus-frame {
+  border: none;
+  color-scheme: normal;
+}
+
 /* --- Footer --- */
 .site-footer {
   margin-top: auto;

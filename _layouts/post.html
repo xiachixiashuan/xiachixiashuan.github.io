@@ -20,6 +20,16 @@ layout: default
       <nav id="toc" class="post-toc"></nav>
       {{ content }}
     </article>
+
+    {% if site.giscus %}
+    <section class="post-comments">
+      <div class="post-comments-header">
+        <h2>评论与反应</h2>
+        <p class="post-comments-hint">点击表情给这篇文章留个反应，或用 GitHub 账号留言。所有评论同步到仓库的 Discussions。</p>
+      </div>
+      <div class="giscus"></div>
+    </section>
+    {% endif %}
   </div>
 </div>
 
@@ -41,3 +51,22 @@ layout: default
   toc.innerHTML = html;
 })();
 </script>
+
+{% if site.giscus %}
+<script src="https://giscus.app/client.js"
+        data-repo="{{ site.giscus.repo }}"
+        data-repo-id="{{ site.giscus.repo_id }}"
+        data-category="{{ site.giscus.category }}"
+        data-category-id="{{ site.giscus.category_id }}"
+        data-mapping="{{ site.giscus.mapping }}"
+        data-strict="{{ site.giscus.strict }}"
+        data-reactions-enabled="{{ site.giscus.reactions_enabled }}"
+        data-emit-metadata="{{ site.giscus.emit_metadata }}"
+        data-input-position="{{ site.giscus.input_position }}"
+        data-theme="{{ site.giscus.theme }}"
+        data-lang="{{ site.giscus.lang }}"
+        data-loading="{{ site.giscus.loading }}"
+        crossorigin="anonymous"
+        async>
+</script>
+{% endif %}

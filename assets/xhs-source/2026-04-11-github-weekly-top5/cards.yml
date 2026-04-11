@@ -1,0 +1,71 @@
+date: "2026-04-11"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-04-11"
+items:
+  - number: "01"
+    section_title: "人格蒸馏 Skills 导航"
+    section_en: "Persona Distill Skills Awesome List"
+    section_emoji: "🧬"
+    repo: "xixu-me/awesome-persona-distill-skills"
+    meta: "⭐ 2.8k · JavaScript · 最全人格蒸馏 Skills 合集"
+    bullets:
+      - { icon: "📚", title: "收录最全", desc: "汇聚同事/女娲/前任等各类人格 Skill" }
+      - { icon: "🔗", title: "导航入口", desc: "按人物/关系/方法论三维分类索引" }
+      - { icon: "🌐", title: "社区共建", desc: "开放 PR 欢迎全球开发者提交 Skill" }
+      - { icon: "🚀", title: "快速接入", desc: "每条 Skill 附使用说明和接入示例" }
+
+  - number: "02"
+    section_title: "Agent 大脑操作系统"
+    section_en: "Opinionated Agent Brain for Hermes"
+    section_emoji: "🧠"
+    repo: "garrytan/gbrain"
+    meta: "⭐ 2.5k · TypeScript · Hermes Agent 推理调度层"
+    bullets:
+      - { icon: "⚙️", title: "固执己见", desc: "内置高质量推理规划与任务调度逻辑" }
+      - { icon: "🔧", title: "即插即用", desc: "专为 OpenClaw/Hermes 框架深度适配" }
+      - { icon: "📐", title: "结构清晰", desc: "TypeScript 实现，类型安全易于扩展" }
+      - { icon: "💡", title: "哲学驱动", desc: "给模型装操作系统而非放任自由发挥" }
+
+  - number: "03"
+    section_title: "童锦程思维 Skill"
+    section_en: "Tong Jincheng Perspective Skill"
+    section_emoji: "💬"
+    repo: "hotcoffeeshake/tong-jincheng-skill"
+    meta: "⭐ 1.5k · Skill 配置 · 深情祖师爷视角分析器"
+    bullets:
+      - { icon: "❤️", title: "情感分析", desc: "用深情视角拆解感情与人际关系" }
+      - { icon: "🎯", title: "风格蒸馏", desc: "完整复刻童锦程决策框架与表达 DNA" }
+      - { icon: "🔮", title: "商业洞察", desc: "从感情延伸至商业判断与人性分析" }
+      - { icon: "🧪", title: "生态验证", desc: "证明 Skill 在非技术创作方向的潜力" }
+
+  - number: "04"
+    section_title: "Claude 用量透明看板"
+    section_en: "Local Claude Usage Dashboard"
+    section_emoji: "📊"
+    repo: "phuryn/claude-usage"
+    meta: "⭐ 0.8k · Python · Claude Code 费用追踪工具"
+    bullets:
+      - { icon: "💰", title: "费用追踪", desc: "实时展示 Token 消耗与会话花销" }
+      - { icon: "📈", title: "进度可视", desc: "Pro/Max 用户可查看精确用量进度条" }
+      - { icon: "🔒", title: "完全本地", desc: "数据不上传，隐私安全有保障" }
+      - { icon: "🛠️", title: "轻量易用", desc: "Python 实现，一行命令启动看板" }
+
+  - number: "05"
+    section_title: "灵动岛 AI 状态面板"
+    section_en: "AI Coding Status in Dynamic Island"
+    section_emoji: "🏝️"
+    repo: "wxtsky/CodeIsland"
+    meta: "⭐ 0.8k · Swift · macOS 灵动岛 AI 编程状态"
+    bullets:
+      - { icon: "🍎", title: "灵动岛", desc: "将 AI Agent 状态嵌入 macOS 缺口区域" }
+      - { icon: "⚡", title: "实时感知", desc: "Claude/Cursor 等工具状态实时同步" }
+      - { icon: "🎨", title: "颜值在线", desc: "原生 Swift 实现，流畅贴合系统风格" }
+      - { icon: "🧘", title: "不破心流", desc: "无需切屏即可随时掌握 Agent 动态" }

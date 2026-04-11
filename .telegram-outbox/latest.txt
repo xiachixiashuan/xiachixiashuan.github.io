@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-04-10
+📈 GitHub 周榜 Top5 | 2026-04-11
 
-1. alchaincyf/zhangxuefeng-skill ⭐1.9k
-   AI 蒸馏张雪峰认知框架，高考志愿/考研/职业规划实战 Skill
-   https://github.com/alchaincyf/zhangxuefeng-skill
+1. xixu-me/awesome-persona-distill-skills ⭐2.8k
+   最全人格蒸馏 Skills 导航，汇聚同事/女娲/前任等各类 Agent Skill
+   https://github.com/xixu-me/awesome-persona-distill-skills
 
-2. fikrikarim/parlor ⭐1.2k
-   本机实时多模态 AI，Gemma 4 驱动，语音+视觉全离线无需 API Key
-   https://github.com/fikrikarim/parlor
+2. garrytan/gbrain ⭐2.5k
+   为 Hermes Agent 设计的固执己见 Agent 大脑，内置高质量推理调度逻辑
+   https://github.com/garrytan/gbrain
 
-3. alchaincyf/hermes-agent-orange-book ⭐1.1k
-   Hermes Agent 中文橙皮书，Nous Research 开源 Agent 框架实战指南
-   https://github.com/alchaincyf/hermes-agent-orange-book
+3. hotcoffeeshake/tong-jincheng-skill ⭐1.5k
+   将深情祖师爷童锦程的思维框架蒸馏为可调用 Skill，分析人际关系
+   https://github.com/hotcoffeeshake/tong-jincheng-skill
 
-4. mattmireles/gemma-tuner-multimodal ⭐1.0k
-   苹果芯片 Gemma 4 多模态微调，音频+图像+文本，Metal 加速
-   https://github.com/mattmireles/gemma-tuner-multimodal
+4. phuryn/claude-usage ⭐0.8k
+   Claude Code 本地用量看板，追踪 Token 消耗、费用与会话历史
+   https://github.com/phuryn/claude-usage
 
-5. Houseofmvps/codesight ⭐755
-   通用 AI 上下文生成器，兼容 Claude Code/Cursor/Copilot，每次省数千 token
-   https://github.com/Houseofmvps/codesight
+5. wxtsky/CodeIsland ⭐0.8k
+   将 AI 编程 Agent 状态嵌入 macOS 灵动岛，实时感知不打断心流
+   https://github.com/wxtsky/CodeIsland
 
 👉 完整版已发布到博客

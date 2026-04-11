@@ -18,4 +18,4 @@ giscus:
   input_position: bottom
   theme: dark_dimmed
   lang: zh-CN
-  loading: lazy
+  loading: eager

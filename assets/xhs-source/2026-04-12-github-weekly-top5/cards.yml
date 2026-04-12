@@ -1,0 +1,71 @@
+date: "2026-04-12"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-04-12"
+items:
+  - number: "01"
+    section_title: "AI技术图表生成神器"
+    section_en: "SVG Diagram Generator"
+    section_emoji: "🎨"
+    repo: "yizhiyanhua-ai/fireworks-tech-graph"
+    meta: "⭐ 967 · Shell · 一键生成架构图"
+    bullets:
+      - { icon: "🧠", title: "8种图表类型", desc: "流程图时序图架构图全覆盖" }
+      - { icon: "🎭", title: "5套视觉风格", desc: "适配不同场景的美观样式" }
+      - { icon: "🤖", title: "AI领域深度", desc: "内置Agent架构专业知识库" }
+      - { icon: "🛠️", title: "SVG/PNG输出", desc: "生产级图表直接交付使用" }
+
+  - number: "02"
+    section_title: "高转化引导流程设计"
+    section_en: "App Onboarding Skill"
+    section_emoji: "📱"
+    repo: "adamlyttleapps/claude-skill-app-onboarding-questionnaire"
+    meta: "⭐ 740 · Skill · 订阅转化最佳实践"
+    bullets:
+      - { icon: "💰", title: "转化率优先", desc: "参考头部订阅App成熟模式" }
+      - { icon: "📋", title: "问卷式引导", desc: "个性化路径提升用户留存" }
+      - { icon: "🏆", title: "对标三巨头", desc: "Headspace Noom Mob经验融合" }
+      - { icon: "⚡", title: "快速生成", desc: "Claude Code一键输出完整流程" }
+
+  - number: "03"
+    section_title: "文档自动生成知识库"
+    section_en: "LLM Wiki Builder"
+    section_emoji: "📚"
+    repo: "nashsu/llm_wiki"
+    meta: "⭐ 718 · TypeScript · 跨平台桌面应用"
+    bullets:
+      - { icon: "🗂️", title: "持久化Wiki", desc: "增量构建不重复召回文档" }
+      - { icon: "🔗", title: "知识互联", desc: "自动生成文档间关联图谱" }
+      - { icon: "🚀", title: "超越RAG", desc: "告别每次从头检索的低效" }
+      - { icon: "💻", title: "跨平台支持", desc: "Mac Windows Linux全兼容" }
+
+  - number: "04"
+    section_title: "人格蒸馏技能合集"
+    section_en: "Persona Distill Skills"
+    section_emoji: "🎭"
+    repo: "tmstack/awesome-persona-skills"
+    meta: "⭐ 664 · Skill · 角色扮演技能库"
+    bullets:
+      - { icon: "👥", title: "多种人格角色", desc: "同事老板前任自我全收录" }
+      - { icon: "🌌", title: "永生与女娲", desc: "哲学向创意角色深度模拟" }
+      - { icon: "💬", title: "情感陪伴", desc: "AI模拟真实人际关系视角" }
+      - { icon: "✍️", title: "创作辅助", desc: "角色写作剧本创意新利器" }
+
+  - number: "05"
+    section_title: "OAuth注册自动化插件"
+    section_en: "OpenAI OAuth Extension"
+    section_emoji: "🔐"
+    repo: "QLHazyCoder/codex-oauth-automation-extension"
+    meta: "⭐ 651 · JavaScript · Chrome扩展"
+    bullets:
+      - { icon: "🤖", title: "全流程自动化", desc: "注册验证回调一气呵成" }
+      - { icon: "🔑", title: "验证码获取", desc: "自动处理OAuth验证环节" }
+      - { icon: "🔄", title: "自动恢复", desc: "异常中断后智能续接流程" }
+      - { icon: "🧩", title: "Chrome插件", desc: "轻量易装无需繁琐配置" }

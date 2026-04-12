@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-04-11
+📈 GitHub 周榜 Top5 | 2026-04-12
 
-1. xixu-me/awesome-persona-distill-skills ⭐2.8k
-   最全人格蒸馏 Skills 导航，汇聚同事/女娲/前任等各类 Agent Skill
-   https://github.com/xixu-me/awesome-persona-distill-skills
+1. yizhiyanhua-ai/fireworks-tech-graph ⭐967
+   Claude Code技能，自动生成SVG/PNG技术架构图，8种图表类型5套风格
+   https://github.com/yizhiyanhua-ai/fireworks-tech-graph
 
-2. garrytan/gbrain ⭐2.5k
-   为 Hermes Agent 设计的固执己见 Agent 大脑，内置高质量推理调度逻辑
-   https://github.com/garrytan/gbrain
+2. adamlyttleapps/claude-skill-app-onboarding-questionnaire ⭐740
+   AI设计高转化问卷式App引导流程，对标Headspace/Noom最佳实践
+   https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire
 
-3. hotcoffeeshake/tong-jincheng-skill ⭐1.5k
-   将深情祖师爷童锦程的思维框架蒸馏为可调用 Skill，分析人际关系
-   https://github.com/hotcoffeeshake/tong-jincheng-skill
+3. nashsu/llm_wiki ⭐718
+   跨平台桌面App，将文档增量构建为持久化互联Wiki知识库，超越传统RAG
+   https://github.com/nashsu/llm_wiki
 
-4. phuryn/claude-usage ⭐0.8k
-   Claude Code 本地用量看板，追踪 Token 消耗、费用与会话历史
-   https://github.com/phuryn/claude-usage
+4. tmstack/awesome-persona-skills ⭐664
+   同事/老板/前任/女娲等人格蒸馏Skill合集，AI深度模拟各种角色视角
+   https://github.com/tmstack/awesome-persona-skills
 
-5. wxtsky/CodeIsland ⭐0.8k
-   将 AI 编程 Agent 状态嵌入 macOS 灵动岛，实时感知不打断心流
-   https://github.com/wxtsky/CodeIsland
+5. QLHazyCoder/codex-oauth-automation-extension ⭐651
+   Chrome扩展，OpenAI OAuth注册+验证码获取+CPA回调全流程自动化
+   https://github.com/QLHazyCoder/codex-oauth-automation-extension
 
 👉 完整版已发布到博客

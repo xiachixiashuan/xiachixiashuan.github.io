@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-04-12
+📈 GitHub 周榜 Top5 | 2026-04-13
 
-1. yizhiyanhua-ai/fireworks-tech-graph ⭐967
-   Claude Code技能，自动生成SVG/PNG技术架构图，8种图表类型5套风格
-   https://github.com/yizhiyanhua-ai/fireworks-tech-graph
+1. joeynyc/hermes-hudui ⭐701
+   Hermes AI 代理 Web 监控仪表盘，实时可视化代理意识状态与记忆链路
+   https://github.com/joeynyc/hermes-hudui
 
-2. adamlyttleapps/claude-skill-app-onboarding-questionnaire ⭐740
-   AI设计高转化问卷式App引导流程，对标Headspace/Noom最佳实践
-   https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire
+2. obdev/littlesnitch-linux ⭐601
+   Little Snitch 正式登陆 Linux，Rust 构建进程级网络监控防火墙
+   https://github.com/obdev/littlesnitch-linux
 
-3. nashsu/llm_wiki ⭐718
-   跨平台桌面App，将文档增量构建为持久化互联Wiki知识库，超越传统RAG
-   https://github.com/nashsu/llm_wiki
+3. whwangovo/pyre-code ⭐579
+   自托管 ML 刷题平台，68 道核心实现题覆盖 RLHF/扩散/注意力
+   https://github.com/whwangovo/pyre-code
 
-4. tmstack/awesome-persona-skills ⭐664
-   同事/老板/前任/女娲等人格蒸馏Skill合集，AI深度模拟各种角色视角
-   https://github.com/tmstack/awesome-persona-skills
+4. AMAP-ML/SkillClaw ⭐437
+   AI 技能自进化框架，代理自主运行评估迭代形成闭环进化回路
+   https://github.com/AMAP-ML/SkillClaw
 
-5. QLHazyCoder/codex-oauth-automation-extension ⭐651
-   Chrome扩展，OpenAI OAuth注册+验证码获取+CPA回调全流程自动化
-   https://github.com/QLHazyCoder/codex-oauth-automation-extension
+5. hexiecs/talk-normal ⭐317
+   系统提示词集合，让任何 LLM 彻底去除 AI 腔说人话
+   https://github.com/hexiecs/talk-normal
 
 👉 完整版已发布到博客

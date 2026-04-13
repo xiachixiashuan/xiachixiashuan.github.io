@@ -1,0 +1,71 @@
+date: "2026-04-13"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-04-13"
+items:
+  - number: "01"
+    section_title: "AI 代理意识监控界面"
+    section_en: "Hermes Agent Web Monitor"
+    section_emoji: "🧠"
+    repo: "joeynyc/hermes-hudui"
+    meta: "⭐ 701 · Python · 实时可视化 AI 代理状态"
+    bullets:
+      - { icon: "👁️", title: "意识监控", desc: "实时追踪 Hermes AI 代理运行与记忆状态" }
+      - { icon: "🔗", title: "任务链路", desc: "可视化代理执行链路让黑箱变透明" }
+      - { icon: "💾", title: "持久记忆", desc: "展示代理跨会话的长期记忆写入情况" }
+      - { icon: "🛠️", title: "调试利器", desc: "开发者调试 AI 代理行为的首选工具" }
+
+  - number: "02"
+    section_title: "Linux 网络监控防火墙"
+    section_en: "Little Snitch Comes to Linux"
+    section_emoji: "🛡️"
+    repo: "obdev/littlesnitch-linux"
+    meta: "⭐ 601 · Rust · macOS 神器移植 Linux"
+    bullets:
+      - { icon: "🔍", title: "进程级监控", desc: "精确追踪每个进程的出入站网络流量" }
+      - { icon: "🦀", title: "Rust 构建", desc: "高性能低开销内存安全网络拦截" }
+      - { icon: "🔒", title: "流量拦截", desc: "可视化管控所有应用网络行为" }
+      - { icon: "🎯", title: "填补空白", desc: "Linux 桌面首次获得 Little Snitch 级体验" }
+
+  - number: "03"
+    section_title: "ML 底层实现刷题平台"
+    section_en: "Self-Hosted ML Practice"
+    section_emoji: "🏋️"
+    repo: "whwangovo/pyre-code"
+    meta: "⭐ 579 · Python · 68 道 ML 核心实现题"
+    bullets:
+      - { icon: "📐", title: "68 道精题", desc: "ReLU 到流匹配完整 ML 知识链覆盖" }
+      - { icon: "⚡", title: "浏览器反馈", desc: "写完代码秒看运行结果无需本地配置" }
+      - { icon: "🧬", title: "全栈 ML 主题", desc: "注意力/RLHF/扩散/Transformer 全涵盖" }
+      - { icon: "🏠", title: "完全自托管", desc: "私有部署数据不出门安全可控" }
+
+  - number: "04"
+    section_title: "AI 技能集体自进化框架"
+    section_en: "Skills Evolve with AI Agents"
+    section_emoji: "🧬"
+    repo: "AMAP-ML/SkillClaw"
+    meta: "⭐ 437 · Python · 代理驱动技能自动迭代"
+    bullets:
+      - { icon: "🤖", title: "自主迭代", desc: "代理自动运行评估并发现技能缺陷" }
+      - { icon: "🔄", title: "闭环进化", desc: "技能改进形成自动化闭环回路" }
+      - { icon: "📊", title: "集体智慧", desc: "多技能协同进化提升整体能力" }
+      - { icon: "🔬", title: "研究平台", desc: "AI 对齐与能力提升自动化实验基础" }
+
+  - number: "05"
+    section_title: "让 LLM 说人话提示词"
+    section_en: "Remove AI Slop Forever"
+    section_emoji: "🗣️"
+    repo: "hexiecs/talk-normal"
+    meta: "⭐ 317 · Shell · 去除 AI 腔系统提示词"
+    bullets:
+      - { icon: "🚫", title: "消灭 AI 腔", desc: "彻底去除冗余开场白与空洞免责声明" }
+      - { icon: "🎯", title: "直接给答案", desc: "不废话不堆砌格式直达用户需求" }
+      - { icon: "🔧", title: "即插即用", desc: "Shell 脚本一键注入任意 LLM 配置" }
+      - { icon: "✨", title: "通用适配", desc: "支持 ChatGPT/Claude/Gemini 等主流模型" }

@@ -29,6 +29,11 @@
     "adamlyttleapps/claude-skill-app-onboarding-questionnaire",
     "nashsu/llm_wiki",
     "tmstack/awesome-persona-skills",
-    "QLHazyCoder/codex-oauth-automation-extension"
+    "QLHazyCoder/codex-oauth-automation-extension",
+    "joeynyc/hermes-hudui",
+    "obdev/littlesnitch-linux",
+    "whwangovo/pyre-code",
+    "AMAP-ML/SkillClaw",
+    "hexiecs/talk-normal"
   ]
 }

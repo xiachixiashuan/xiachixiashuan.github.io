@@ -52,6 +52,19 @@ layout: default
 })();
 </script>
 
+<script type="module">
+import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+mermaid.initialize({ startOnLoad: false, theme: 'dark', themeVariables: { primaryColor: '#4f46e5', primaryTextColor: '#e2e8f0', lineColor: '#6366f1', secondaryColor: '#1e293b', tertiaryColor: '#0f172a' } });
+document.querySelectorAll('pre code.language-mermaid').forEach(function(block) {
+  var pre = block.parentElement;
+  var div = document.createElement('div');
+  div.className = 'mermaid';
+  div.textContent = block.textContent;
+  pre.parentElement.replaceChild(div, pre);
+});
+mermaid.run();
+</script>
+
 {% if site.giscus %}
 <script src="https://giscus.app/client.js"
         data-repo="{{ site.giscus.repo }}"

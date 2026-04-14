@@ -1,0 +1,71 @@
+date: "2026-04-14"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-04-14"
+items:
+  - number: "01"
+    section_title: "零追踪 Mac 清理神器"
+    section_en: "Open-Source macOS Cleaner"
+    section_emoji: "🍎"
+    repo: "momenbasel/PureMac"
+    meta: "⭐ 900 · Swift · 免费开源替代 CleanMyMac"
+    bullets:
+      - { icon: "🔒", title: "零遥测设计", desc: "不收集任何用户数据完全透明" }
+      - { icon: "💸", title: "完全免费", desc: "无订阅无内购永久免费使用" }
+      - { icon: "🔍", title: "代码可审计", desc: "每项清理逻辑均可自行查看" }
+      - { icon: "🛠️", title: "功能全面", desc: "垃圾清理系统优化一站完成" }
+
+  - number: "02"
+    section_title: "Rust 极简终端动效"
+    section_en: "Minimal Terminal Spinners"
+    section_emoji: "🦀"
+    repo: "vyfor/rattles"
+    meta: "⭐ 803 · Rust · 零依赖终端 spinner 库"
+    bullets:
+      - { icon: "⚡", title: "零依赖轻量", desc: "不引入任何第三方 crate" }
+      - { icon: "🎨", title: "样式丰富", desc: "内置多种动画风格可选择" }
+      - { icon: "🧩", title: "API 简洁", desc: "几行代码即可集成到项目" }
+      - { icon: "📦", title: "高度可定制", desc: "颜色速度帧序列均可配置" }
+
+  - number: "03"
+    section_title: "AI 重建第二大脑"
+    section_en: "Obsidian × Claude Code"
+    section_emoji: "🧠"
+    repo: "alchaincyf/obsidian-ai-orange-book"
+    meta: "⭐ 548 · 橙皮书系列 · Obsidian+AI 实战"
+    bullets:
+      - { icon: "📒", title: "Obsidian 集成", desc: "插件配置与工作流详细说明" }
+      - { icon: "✍️", title: "AI 辅助写作", desc: "Claude 自动化笔记生成流程" }
+      - { icon: "🕸️", title: "知识图谱", desc: "自动生成笔记关联与图谱" }
+      - { icon: "🚀", title: "效率革命", desc: "让第二大脑真正智能运转" }
+
+  - number: "04"
+    section_title: "MD3 组件技能包"
+    section_en: "Material Design 3 Skill"
+    section_emoji: "🎨"
+    repo: "hamen/material-3-skill"
+    meta: "⭐ 491 · TypeScript · Claude Code 专用技能"
+    bullets:
+      - { icon: "🧱", title: "30+ 组件", desc: "涵盖 MD3 全套 UI 组件实现" }
+      - { icon: "🎭", title: "设计 Token", desc: "完整颜色排版间距系统" }
+      - { icon: "🌗", title: "主题切换", desc: "亮色暗色自适应一键切换" }
+      - { icon: "🤖", title: "AI 代码生成", desc: "Claude 按 MD3 规范输出前端代码" }
+
+  - number: "05"
+    section_title: "AI 全天候实验代理"
+    section_en: "24/7 AI Research Agent"
+    section_emoji: "🔬"
+    repo: "Xiangyue-Zhang/auto-deep-researcher-24x7"
+    meta: "⭐ 387 · Python · 自主 AI 研究自动化"
+    bullets:
+      - { icon: "⏰", title: "全天候运行", desc: "睡觉时自动执行深度学习实验" }
+      - { icon: "🔁", title: "超参数搜索", desc: "自动调参并记录最优结果" }
+      - { icon: "🛡️", title: "异常自恢复", desc: "错误自动重试保障实验连续" }
+      - { icon: "📊", title: "结果可追溯", desc: "实验日志与可视化自动生成" }

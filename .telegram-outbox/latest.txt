@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-04-13
+📈 GitHub 周榜 Top5 | 2026-04-14
 
-1. joeynyc/hermes-hudui ⭐701
-   Hermes AI 代理 Web 监控仪表盘，实时可视化代理意识状态与记忆链路
-   https://github.com/joeynyc/hermes-hudui
+1. momenbasel/PureMac ⭐900
+   免费开源 macOS 清理工具，CleanMyMac 零遥测替代品
+   https://github.com/momenbasel/PureMac
 
-2. obdev/littlesnitch-linux ⭐601
-   Little Snitch 正式登陆 Linux，Rust 构建进程级网络监控防火墙
-   https://github.com/obdev/littlesnitch-linux
+2. vyfor/rattles ⭐803
+   Rust 极简终端 spinner 库，零依赖多样式高度可定制
+   https://github.com/vyfor/rattles
 
-3. whwangovo/pyre-code ⭐579
-   自托管 ML 刷题平台，68 道核心实现题覆盖 RLHF/扩散/注意力
-   https://github.com/whwangovo/pyre-code
+3. alchaincyf/obsidian-ai-orange-book ⭐548
+   Obsidian + Claude Code 重建 AI 第二大脑，橙皮书新作
+   https://github.com/alchaincyf/obsidian-ai-orange-book
 
-4. AMAP-ML/SkillClaw ⭐437
-   AI 技能自进化框架，代理自主运行评估迭代形成闭环进化回路
-   https://github.com/AMAP-ML/SkillClaw
+4. hamen/material-3-skill ⭐491
+   Claude Code 专用 Material Design 3 技能包，30+ 组件
+   https://github.com/hamen/material-3-skill
 
-5. hexiecs/talk-normal ⭐317
-   系统提示词集合，让任何 LLM 彻底去除 AI 腔说人话
-   https://github.com/hexiecs/talk-normal
+5. Xiangyue-Zhang/auto-deep-researcher-24x7 ⭐387
+   全天候 AI 研究代理，自动运行深度学习实验 24/7
+   https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7
 
 👉 完整版已发布到博客

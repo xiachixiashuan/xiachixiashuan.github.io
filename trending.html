@@ -1,0 +1,26 @@
+---
+layout: default
+title: GitHub 趋势周榜
+---
+<div class="container">
+  <section style="padding-top: 2rem;">
+    <a href="{{ '/' | relative_url }}" class="back-link">&larr; 返回首页</a>
+    <h2 class="section-title" style="margin-top: 1.5rem;">GitHub 趋势周榜</h2>
+    <p style="color: var(--text-secondary); margin-bottom: 2rem;">每日自动抓取 GitHub 本周最热新项目 Top5，持续更新。</p>
+    <div class="posts-grid">
+      {% assign trending_posts = site.posts | where_exp: "post", "post.categories contains 'GitHub'" %}
+      {% for post in trending_posts %}
+      <a href="{{ post.url | relative_url }}" class="post-card">
+        <div class="post-meta">
+          <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+          {% for cat in post.categories limit:1 %}
+          <span class="post-category">{{ cat }}</span>
+          {% endfor %}
+        </div>
+        <h3 class="post-title">{{ post.title }}</h3>
+        <span class="post-arrow">&rarr;</span>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+</div>

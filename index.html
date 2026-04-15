@@ -14,6 +14,7 @@ layout: home
   <h2 class="section-title">最新文章</h2>
   <div class="posts-grid">
     {% for post in site.posts %}
+    {% if post.categories contains 'GitHub' %}{% continue %}{% endif %}
     <a href="{{ post.url | relative_url }}" class="post-card">
       <div class="post-meta">
         <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>

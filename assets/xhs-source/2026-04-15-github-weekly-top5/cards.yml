@@ -1,0 +1,71 @@
+date: "2026-04-15"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-04-15"
+items:
+  - number: "01"
+    section_title: "AI 编码成本可视化"
+    section_en: "Token Cost Dashboard"
+    section_emoji: "💸"
+    repo: "AgentSeal/codeburn"
+    meta: "⭐ 874 · TypeScript · 交互式 TUI 成本监控"
+    bullets:
+      - { icon: "📊", title: "实时成本图表", desc: "终端内展示每次 AI 会话的 token 开销" }
+      - { icon: "🔍", title: "多工具兼容", desc: "同时支持 Claude Code 和 OpenAI Codex" }
+      - { icon: "🗂️", title: "本地日志解析", desc: "无需联网，自动读取本地编码日志" }
+      - { icon: "⚡", title: "轻量快速", desc: "TypeScript 编写，启动即用无需配置" }
+
+  - number: "02"
+    section_title: "开源极简 TTS 模型"
+    section_en: "Tiny Multilingual TTS"
+    section_emoji: "🎙️"
+    repo: "OpenMOSS/MOSS-TTS-Nano"
+    meta: "⭐ 736 · Python · 多语言本地语音合成"
+    bullets:
+      - { icon: "🌍", title: "多语言支持", desc: "支持中英等多种语言的流畅语音生成" }
+      - { icon: "📦", title: "模型体积极小", desc: "Nano 级别，适合端侧低资源部署" }
+      - { icon: "🔒", title: "完全本地运行", desc: "无需云端 API，保护数据隐私" }
+      - { icon: "🏛️", title: "复旦团队出品", desc: "OpenMOSS + MOSI.AI 联合开源" }
+
+  - number: "03"
+    section_title: "自进化 Skill 系统"
+    section_en: "Self-Evolving AI Skill"
+    section_emoji: "🧬"
+    repo: "alchaincyf/darwin-skill"
+    meta: "⭐ 572 · HTML · Claude Skill 自动优化"
+    bullets:
+      - { icon: "🔄", title: "全自动迭代", desc: "评估→改进→测试→保留，无需人工" }
+      - { icon: "🧠", title: "达尔文进化论", desc: "优胜劣汰，Skill 越跑越强" }
+      - { icon: "↩️", title: "安全回滚机制", desc: "改进失效时自动回退上一版本" }
+      - { icon: "🚀", title: "Claude 生态创新", desc: "开创 Skill 工程化自进化新范式" }
+
+  - number: "04"
+    section_title: "更强 WHOIS 查询工具"
+    section_en: "Better WHOIS Lookup"
+    section_emoji: "🔎"
+    repo: "retlehs/quien"
+    meta: "⭐ 520 · Go · 结构化 WHOIS 查询"
+    bullets:
+      - { icon: "📋", title: "结构化输出", desc: "清晰格式替代传统命令行乱码结果" }
+      - { icon: "🌐", title: "广泛 TLD 支持", desc: "覆盖主流与小众顶级域名后缀" }
+      - { icon: "⚡", title: "Go 极速执行", desc: "单二进制，响应毫秒级无依赖" }
+      - { icon: "🛡️", title: "安全运维必备", desc: "域名溯源与网络排查的利器" }
+
+  - number: "05"
+    section_title: "macOS 开源截图神器"
+    section_en: "Free CleanShot X Alternative"
+    section_emoji: "📸"
+    repo: "lzhgus/Capso"
+    meta: "⭐ 377 · Swift · macOS 截图录屏工具"
+    bullets:
+      - { icon: "🆓", title: "完全免费开源", desc: "无订阅费，功能媲美 CleanShot X" }
+      - { icon: "🍎", title: "Swift 原生开发", desc: "性能流畅，完美融入 macOS 生态" }
+      - { icon: "✏️", title: "截图标注功能", desc: "截图后可直接标注箭头文字框线" }
+      - { icon: "🎬", title: "区域录屏支持", desc: "支持指定区域录制为视频或 GIF" }

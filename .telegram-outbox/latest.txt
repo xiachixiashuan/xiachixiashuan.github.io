@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-04-14
+📈 GitHub 周榜 Top5 | 2026-04-15
 
-1. momenbasel/PureMac ⭐900
-   免费开源 macOS 清理工具，CleanMyMac 零遥测替代品
-   https://github.com/momenbasel/PureMac
+1. AgentSeal/codeburn ⭐874
+   交互式 TUI 仪表板，可视化 Claude Code / Codex 的 Token 成本消耗
+   https://github.com/AgentSeal/codeburn
 
-2. vyfor/rattles ⭐803
-   Rust 极简终端 spinner 库，零依赖多样式高度可定制
-   https://github.com/vyfor/rattles
+2. OpenMOSS/MOSS-TTS-Nano ⭐736
+   复旦 OpenMOSS 出品的开源极简多语言 TTS 模型，支持本地部署
+   https://github.com/OpenMOSS/MOSS-TTS-Nano
 
-3. alchaincyf/obsidian-ai-orange-book ⭐548
-   Obsidian + Claude Code 重建 AI 第二大脑，橙皮书新作
-   https://github.com/alchaincyf/obsidian-ai-orange-book
+3. alchaincyf/darwin-skill ⭐572
+   让 Claude Skill 自主进化的系统：评估→改进→测试→保留或回滚
+   https://github.com/alchaincyf/darwin-skill
 
-4. hamen/material-3-skill ⭐491
-   Claude Code 专用 Material Design 3 技能包，30+ 组件
-   https://github.com/hamen/material-3-skill
+4. retlehs/quien ⭐520
+   Go 编写的新一代 WHOIS 查询工具，结构化输出更易读
+   https://github.com/retlehs/quien
 
-5. Xiangyue-Zhang/auto-deep-researcher-24x7 ⭐387
-   全天候 AI 研究代理，自动运行深度学习实验 24/7
-   https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7
+5. lzhgus/Capso ⭐377
+   macOS 开源截图录屏工具，CleanShot X 的免费原生替代品
+   https://github.com/lzhgus/Capso
 
 👉 完整版已发布到博客

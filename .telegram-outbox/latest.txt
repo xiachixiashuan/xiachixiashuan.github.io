@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-04-15
+📈 GitHub 周榜 Top5 | 2026-04-16
 
-1. AgentSeal/codeburn ⭐874
-   交互式 TUI 仪表板，可视化 Claude Code / Codex 的 Token 成本消耗
-   https://github.com/AgentSeal/codeburn
+1. Mouseww/anything-analyzer ⭐796
+   CDP + AI 自动生成协议分析文档，傻瓜式逆向工程神器
+   https://github.com/Mouseww/anything-analyzer
 
-2. OpenMOSS/MOSS-TTS-Nano ⭐736
-   复旦 OpenMOSS 出品的开源极简多语言 TTS 模型，支持本地部署
-   https://github.com/OpenMOSS/MOSS-TTS-Nano
+2. sterlingcrispin/nothing-ever-happens ⭐771
+   Polymarket 机器人，对所有非体育事件全押 No
+   https://github.com/sterlingcrispin/nothing-ever-happens
 
-3. alchaincyf/darwin-skill ⭐572
-   让 Claude Skill 自主进化的系统：评估→改进→测试→保留或回滚
-   https://github.com/alchaincyf/darwin-skill
+3. yaojingang/GEOFlow ⭐673
+   开源 GEO 内容生产系统，AI 任务 + 审核工作流 + 多平台发布
+   https://github.com/yaojingang/GEOFlow
 
-4. retlehs/quien ⭐520
-   Go 编写的新一代 WHOIS 查询工具，结构化输出更易读
-   https://github.com/retlehs/quien
+4. patterniha/SNI-Spoofing ⭐603
+   修改 IP/TCP 头部绕过 DPI 深度包检测的安全研究工具
+   https://github.com/patterniha/SNI-Spoofing
 
-5. lzhgus/Capso ⭐377
-   macOS 开源截图录屏工具，CleanShot X 的免费原生替代品
-   https://github.com/lzhgus/Capso
+5. sogonov/anubis ⭐602
+   Android 应用管理器，根据 VPN 状态自动冻结/解冻应用分组
+   https://github.com/sogonov/anubis
 
 👉 完整版已发布到博客

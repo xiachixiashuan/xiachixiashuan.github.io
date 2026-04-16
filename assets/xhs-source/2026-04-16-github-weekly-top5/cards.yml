@@ -1,0 +1,71 @@
+date: "2026-04-16"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-04-16"
+items:
+  - number: "01"
+    section_title: "AI协议逆向神器"
+    section_en: "Protocol Auto-Analyzer"
+    section_emoji: "🔬"
+    repo: "Mouseww/anything-analyzer"
+    meta: "⭐ 0.8k · TypeScript · CDP + AI 自动生成协议文档"
+    bullets:
+      - { icon: "🤖", title: "AI驱动分析", desc: "结合 AI 自动解读捕获的网络行为" }
+      - { icon: "📡", title: "CDP实时捕获", desc: "浏览器调试协议无感抓取流量" }
+      - { icon: "📄", title: "文档自动生成", desc: "傻瓜式输出可读协议分析报告" }
+      - { icon: "🔌", title: "多场景支持", desc: "注册机、2API、任意客户端均适用" }
+
+  - number: "02"
+    section_title: "预测市场反向押注"
+    section_en: "Polymarket No-Bot"
+    section_emoji: "📊"
+    repo: "sterlingcrispin/nothing-ever-happens"
+    meta: "⭐ 0.8k · Python · 非体育市场全押 No"
+    bullets:
+      - { icon: "💰", title: "自动下注", desc: "对所有非体育事件自动买入 No" }
+      - { icon: "🧠", title: "反直觉策略", desc: "利用大众高估事件发生率的偏差" }
+      - { icon: "🐍", title: "轻量Python", desc: "代码精简，易于理解和二次改造" }
+      - { icon: "📈", title: "量化起点", desc: "可作为预测市场策略研究模板" }
+
+  - number: "03"
+    section_title: "GEO内容生产系统"
+    section_en: "GEO Content Pipeline"
+    section_emoji: "🌐"
+    repo: "yaojingang/GEOFlow"
+    meta: "⭐ 0.7k · PHP · AI任务 + 审核 + 多平台发布"
+    bullets:
+      - { icon: "🤖", title: "AI任务调度", desc: "自动化生成对 AI 搜索友好的内容" }
+      - { icon: "✅", title: "多级审核流", desc: "内置工作流保障内容质量管控" }
+      - { icon: "🚀", title: "多平台发布", desc: "一键同步内容到多个发布渠道" }
+      - { icon: "🔍", title: "GEO优化", desc: "SEO 向生成引擎优化时代的工程方案" }
+
+  - number: "04"
+    section_title: "绕过DPI流量工具"
+    section_en: "SNI Spoofing Tool"
+    section_emoji: "🛡️"
+    repo: "patterniha/SNI-Spoofing"
+    meta: "⭐ 0.6k · Python · IP/TCP头部修改绕过DPI"
+    bullets:
+      - { icon: "🔒", title: "SNI混淆", desc: "扰乱 TLS 握手中的域名暴露字段" }
+      - { icon: "🧰", title: "头部操控", desc: "在 IP/TCP 层面干扰深度包检测" }
+      - { icon: "🎯", title: "研究向工具", desc: "适合安全研究者和 CTF 参赛者" }
+      - { icon: "📚", title: "原理透明", desc: "代码清晰易读，适合学习流量混淆" }
+
+  - number: "05"
+    section_title: "安卓应用冻结管理"
+    section_en: "VPN-Aware App Manager"
+    section_emoji: "📱"
+    repo: "sogonov/anubis"
+    meta: "⭐ 0.6k · Kotlin · VPN 状态联动冻结应用"
+    bullets:
+      - { icon: "🔐", title: "VPN联动", desc: "依据 VPN 连接状态自动切换应用组" }
+      - { icon: "❄️", title: "冻结解冻", desc: "按分组一键冻结或唤醒应用" }
+      - { icon: "⚡", title: "模式快切", desc: "工作/娱乐场景秒速切换" }
+      - { icon: "🤫", title: "隐私保护", desc: "断 VPN 时自动隐藏敏感应用" }

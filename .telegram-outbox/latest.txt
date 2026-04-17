@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-04-16
+📈 GitHub 周榜 Top5 | 2026-04-17
 
-1. Mouseww/anything-analyzer ⭐796
-   CDP + AI 自动生成协议分析文档，傻瓜式逆向工程神器
-   https://github.com/Mouseww/anything-analyzer
+1. vercel-labs/wterm ⭐1.0k
+   Vercel 出品的 Web 浏览器终端模拟器，Cloud IDE 基础设施首选
+   https://github.com/vercel-labs/wterm
 
-2. sterlingcrispin/nothing-ever-happens ⭐771
-   Polymarket 机器人，对所有非体育事件全押 No
-   https://github.com/sterlingcrispin/nothing-ever-happens
+2. BuilderPulse/BuilderPulse ⭐0.7k
+   AI 驱动的独立开发者每日情报，10+ 源聚合 20 个核心问题
+   https://github.com/BuilderPulse/BuilderPulse
 
-3. yaojingang/GEOFlow ⭐673
-   开源 GEO 内容生产系统，AI 任务 + 审核工作流 + 多平台发布
-   https://github.com/yaojingang/GEOFlow
+3. Manavarya09/design-extract ⭐0.7k
+   一行命令提取任意网站完整设计语言，支持 Claude Code 插件
+   https://github.com/Manavarya09/design-extract
 
-4. patterniha/SNI-Spoofing ⭐603
-   修改 IP/TCP 头部绕过 DPI 深度包检测的安全研究工具
-   https://github.com/patterniha/SNI-Spoofing
+4. WeaveMindAI/weft ⭐0.7k
+   专为 AI 系统设计的新编程语言，Rust 高性能运行时
+   https://github.com/WeaveMindAI/weft
 
-5. sogonov/anubis ⭐602
-   Android 应用管理器，根据 VPN 状态自动冻结/解冻应用分组
-   https://github.com/sogonov/anubis
+5. lewislulu/html-ppt-skill ⭐0.6k
+   24 主题 31 布局 20+ 动画的 HTML PPT 生成 Claude Code 技能
+   https://github.com/lewislulu/html-ppt-skill
 
 👉 完整版已发布到博客

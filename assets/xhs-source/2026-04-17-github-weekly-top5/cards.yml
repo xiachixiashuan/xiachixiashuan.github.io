@@ -1,0 +1,71 @@
+date: "2026-04-17"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-04-17"
+items:
+  - number: "01"
+    section_title: "Vercel Web 终端模拟器"
+    section_en: "Browser-Native Terminal"
+    section_emoji: "💻"
+    repo: "vercel-labs/wterm"
+    meta: "⭐ 1.0k · TypeScript · 浏览器终端解决方案"
+    bullets:
+      - { icon: "🌐", title: "Web 原生运行", desc: "浏览器直接运行完整终端环境" }
+      - { icon: "🔌", title: "无缝集成", desc: "可嵌入任何 Web 应用或 IDE" }
+      - { icon: "⚡", title: "高性能渲染", desc: "基于 xterm.js 协议高效渲染" }
+      - { icon: "🛠️", title: "Vercel 出品", desc: "官方实验室背书，稳定可靠" }
+
+  - number: "02"
+    section_title: "AI 驱动开发者日报"
+    section_en: "AI Daily Builder Intel"
+    section_emoji: "📊"
+    repo: "BuilderPulse/BuilderPulse"
+    meta: "⭐ 0.7k · 多源聚合 · 独立开发者必备"
+    bullets:
+      - { icon: "🤖", title: "AI 自动聚合", desc: "每天自动处理 10+ 信息源" }
+      - { icon: "❓", title: "20 个核心问题", desc: "精准回答创业者最关心的问题" }
+      - { icon: "⏰", title: "每日早晨推送", desc: "喝咖啡时掌握全球创业动态" }
+      - { icon: "🎯", title: "个性化定制", desc: "根据兴趣筛选最相关情报" }
+
+  - number: "03"
+    section_title: "网站设计语言提取器"
+    section_en: "Design Token Extractor"
+    section_emoji: "🎨"
+    repo: "Manavarya09/design-extract"
+    meta: "⭐ 0.7k · JavaScript · 设计提取神器"
+    bullets:
+      - { icon: "🎨", title: "一键提取", desc: "颜色字体间距阴影全自动输出" }
+      - { icon: "📦", title: "npx 直接用", desc: "无需安装，一行命令即可运行" }
+      - { icon: "🔧", title: "Claude Code 插件", desc: "支持 AI 编程助手直接调用" }
+      - { icon: "📋", title: "设计 Token 导出", desc: "输出标准化设计语言规范" }
+
+  - number: "04"
+    section_title: "AI 原生编程语言"
+    section_en: "AI-Native Language"
+    section_emoji: "🦾"
+    repo: "WeaveMindAI/weft"
+    meta: "⭐ 0.7k · Rust · AI 系统专用语言"
+    bullets:
+      - { icon: "🧠", title: "AI 场景优化", desc: "专为大模型推理和 Agent 设计" }
+      - { icon: "🦀", title: "Rust 高性能", desc: "底层 Rust 实现内存安全高效" }
+      - { icon: "🔒", title: "类型安全", desc: "强类型系统防止 AI 逻辑错误" }
+      - { icon: "🌊", title: "工作流编排", desc: "内置 AI 工作流编排原语支持" }
+
+  - number: "05"
+    section_title: "HTML PPT 生成技能"
+    section_en: "HTML Presentation Skill"
+    section_emoji: "📽️"
+    repo: "lewislulu/html-ppt-skill"
+    meta: "⭐ 0.6k · HTML · 24 主题 31 布局"
+    bullets:
+      - { icon: "🎭", title: "24 套主题", desc: "专业设计主题开箱即用" }
+      - { icon: "📐", title: "31 种布局", desc: "灵活布局适配各种演示场景" }
+      - { icon: "✨", title: "20+ 动画", desc: "炫酷动效让演示更生动" }
+      - { icon: "🌍", title: "浏览器分享", desc: "纯 HTML 无需安装即可分享" }

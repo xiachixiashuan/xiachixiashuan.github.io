@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-04-17
+📈 GitHub 周榜 Top5 | 2026-04-18
 
-1. vercel-labs/wterm ⭐1.0k
-   Vercel 出品的 Web 浏览器终端模拟器，Cloud IDE 基础设施首选
-   https://github.com/vercel-labs/wterm
+1. NousResearch/hermes-agent ⭐+47.1k
+   与你共同进化的 AI Agent 框架，内置自适应技能树
+   https://github.com/NousResearch/hermes-agent
 
-2. BuilderPulse/BuilderPulse ⭐0.7k
-   AI 驱动的独立开发者每日情报，10+ 源聚合 20 个核心问题
-   https://github.com/BuilderPulse/BuilderPulse
+2. forrestchang/andrej-karpathy-skills ⭐+42.3k
+   Karpathy 总结的 CLAUDE.md 神配置，让 Claude Code 脱胎换骨
+   https://github.com/forrestchang/andrej-karpathy-skills
 
-3. Manavarya09/design-extract ⭐0.7k
-   一行命令提取任意网站完整设计语言，支持 Claude Code 插件
-   https://github.com/Manavarya09/design-extract
+3. thedotmack/claude-mem ⭐+14k
+   Claude Code 跨会话记忆插件，自动捕获编码决策
+   https://github.com/thedotmack/claude-mem
 
-4. WeaveMindAI/weft ⭐0.7k
-   专为 AI 系统设计的新编程语言，Rust 高性能运行时
-   https://github.com/WeaveMindAI/weft
+4. microsoft/markitdown ⭐+13.2k
+   微软出品万能文档转 Markdown，Word/PDF/PPT 一行搞定
+   https://github.com/microsoft/markitdown
 
-5. lewislulu/html-ppt-skill ⭐0.6k
-   24 主题 31 布局 20+ 动画的 HTML PPT 生成 Claude Code 技能
-   https://github.com/lewislulu/html-ppt-skill
+5. multica-ai/multica ⭐+10.1k
+   开源多 Agent 协作平台，把 AI 变成真正的工程团队成员
+   https://github.com/multica-ai/multica
 
 👉 完整版已发布到博客

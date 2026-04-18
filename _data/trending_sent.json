@@ -54,6 +54,11 @@
     "BuilderPulse/BuilderPulse",
     "Manavarya09/design-extract",
     "WeaveMindAI/weft",
-    "lewislulu/html-ppt-skill"
+    "lewislulu/html-ppt-skill",
+    "NousResearch/hermes-agent",
+    "forrestchang/andrej-karpathy-skills",
+    "thedotmack/claude-mem",
+    "microsoft/markitdown",
+    "multica-ai/multica"
   ]
 }

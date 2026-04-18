@@ -1,0 +1,71 @@
+date: "2026-04-18"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部来自本周热度飙升项目"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-04-18"
+items:
+  - number: "01"
+    section_title: "自进化 Agent 框架"
+    section_en: "Hermes Agent"
+    section_emoji: "🤖"
+    repo: "NousResearch/hermes-agent"
+    meta: "⭐ 本周 +47.1k · Python · NousResearch"
+    bullets:
+      - { icon: "🧠", title: "自适应技能树", desc: "执行任务时持续积累经验拓展能力" }
+      - { icon: "🔄", title: "多模型切换", desc: "无缝接入不同 LLM 后端" }
+      - { icon: "📈", title: "越用越聪明", desc: "Agent 会随项目积累不断进化" }
+      - { icon: "🛠️", title: "开箱即用", desc: "内置任务规划与自主执行机制" }
+
+  - number: "02"
+    section_title: "Karpathy Claude 配置"
+    section_en: "Karpathy Skills"
+    section_emoji: "⚙️"
+    repo: "forrestchang/andrej-karpathy-skills"
+    meta: "⭐ 本周 +42.3k · 配置文件 · forrestchang"
+    bullets:
+      - { icon: "📄", title: "一份 CLAUDE.md", desc: "复制即用零依赖极简接入" }
+      - { icon: "🎯", title: "深度代码理解", desc: "提升上下文保持与任务规范性" }
+      - { icon: "👁️", title: "Karpathy 亲测", desc: "来自 AI 传奇人物公开总结" }
+      - { icon: "🚀", title: "一周 4 万星", desc: "提示词工程需求远超想象" }
+
+  - number: "03"
+    section_title: "Claude 完美记忆插件"
+    section_en: "Claude Mem"
+    section_emoji: "💾"
+    repo: "thedotmack/claude-mem"
+    meta: "⭐ 本周 +14k · TypeScript · thedotmack"
+    bullets:
+      - { icon: "🔗", title: "Hook 无侵入接入", desc: "以插件形式自动运行无需改代码" }
+      - { icon: "📋", title: "自动捕获决策", desc: "记录每次会话的修改与推理" }
+      - { icon: "🔮", title: "跨会话记忆", desc: "下次开启自动注入历史上下文" }
+      - { icon: "⚡", title: "告别重复交代", desc: "项目约定和偏好永久留存" }
+
+  - number: "04"
+    section_title: "万能文档转 Markdown"
+    section_en: "MarkItDown"
+    section_emoji: "📝"
+    repo: "microsoft/markitdown"
+    meta: "⭐ 本周 +13.2k · Python · Microsoft"
+    bullets:
+      - { icon: "📂", title: "全格式支持", desc: "Word Excel PPT PDF 图片一网打尽" }
+      - { icon: "🔧", title: "一行命令搞定", desc: "极简 CLI 与 Python API 双模式" }
+      - { icon: "🤖", title: "RAG 数据预处理", desc: "专为 LLM 文档摄取流水线设计" }
+      - { icon: "🏢", title: "微软官方出品", desc: "持续维护已成 AI 工程师标配" }
+
+  - number: "05"
+    section_title: "多 Agent 协作平台"
+    section_en: "Multica"
+    section_emoji: "🌐"
+    repo: "multica-ai/multica"
+    meta: "⭐ 本周 +10.1k · TypeScript · multica-ai"
+    bullets:
+      - { icon: "👥", title: "Agent 变团队成员", desc: "任务分配追踪并行执行全覆盖" }
+      - { icon: "⚡", title: "并行多 Agent", desc: "复杂任务拆解后分发同步处理" }
+      - { icon: "📊", title: "统一监控界面", desc: "实时掌控全部 Agent 执行状态" }
+      - { icon: "🔓", title: "完全开源", desc: "AI 编码规模化落地最佳方案" }

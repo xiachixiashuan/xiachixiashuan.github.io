@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-04-18
+📈 GitHub 周榜 Top5 | 2026-04-20
 
-1. NousResearch/hermes-agent ⭐+47.1k
-   与你共同进化的 AI Agent 框架，内置自适应技能树
-   https://github.com/NousResearch/hermes-agent
+1. Robbyant/lingbot-map ⭐2.6k
+   前馈式3D基础模型，从流式传感器数据实时重建三维场景
+   https://github.com/Robbyant/lingbot-map
 
-2. forrestchang/andrej-karpathy-skills ⭐+42.3k
-   Karpathy 总结的 CLAUDE.md 神配置，让 Claude Code 脱胎换骨
-   https://github.com/forrestchang/andrej-karpathy-skills
+2. browser-use/browser-harness ⭐2.2k
+   自愈式浏览器框架，让LLM完成任意Web操控任务并自动修复
+   https://github.com/browser-use/browser-harness
 
-3. thedotmack/claude-mem ⭐+14k
-   Claude Code 跨会话记忆插件，自动捕获编码决策
-   https://github.com/thedotmack/claude-mem
+3. Nightmare-Eclipse/RedSun ⭐1.6k
+   安全漏洞研究仓库，高质量攻防技术参考资源
+   https://github.com/Nightmare-Eclipse/RedSun
 
-4. microsoft/markitdown ⭐+13.2k
-   微软出品万能文档转 Markdown，Word/PDF/PPT 一行搞定
-   https://github.com/microsoft/markitdown
+4. kyegomez/OpenMythos ⭐1.4k
+   从第一性原理理论复现Claude Mythos大模型架构
+   https://github.com/kyegomez/OpenMythos
 
-5. multica-ai/multica ⭐+10.1k
-   开源多 Agent 协作平台，把 AI 变成真正的工程团队成员
-   https://github.com/multica-ai/multica
+5. wbh604/UZI-Skill ⭐0.8k
+   量化投资AI技能包，A/港/美股全覆盖，51位大佬看盘逻辑
+   https://github.com/wbh604/UZI-Skill
 
 👉 完整版已发布到博客

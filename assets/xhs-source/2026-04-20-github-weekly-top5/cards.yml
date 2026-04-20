@@ -1,0 +1,71 @@
+date: "2026-04-20"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-04-20"
+items:
+  - number: "01"
+    section_title: "3D场景流式重建"
+    section_en: "3D Scene Reconstruction"
+    section_emoji: "🗺️"
+    repo: "Robbyant/lingbot-map"
+    meta: "⭐ 2.6k · Python · 前馈式三维基础模型"
+    bullets:
+      - { icon: "🧠", title: "前馈推理", desc: "无需迭代优化直接完成三维重建" }
+      - { icon: "🌊", title: "流式输入", desc: "实时消化传感器流式数据" }
+      - { icon: "🚗", title: "自动驾驶", desc: "适合机器人与自动驾驶感知场景" }
+      - { icon: "⚡", title: "高速重建", desc: "推理速度远超传统迭代优化方法" }
+
+  - number: "02"
+    section_title: "自愈式LLM浏览器"
+    section_en: "Self-Healing Browser Harness"
+    section_emoji: "🌐"
+    repo: "browser-use/browser-harness"
+    meta: "⭐ 2.2k · Python · LLM驱动Web自动化"
+    bullets:
+      - { icon: "🔧", title: "自动修复", desc: "页面变更时自动修复失效选择器" }
+      - { icon: "🤖", title: "LLM驱动", desc: "让大模型完成任意Web操控任务" }
+      - { icon: "🏭", title: "生产就绪", desc: "面向真实生产环境设计稳定可靠" }
+      - { icon: "🔗", title: "工作流链", desc: "支持多步骤复杂浏览器自动化" }
+
+  - number: "03"
+    section_title: "安全漏洞研究库"
+    section_en: "Vulnerability Research Repo"
+    section_emoji: "🔴"
+    repo: "Nightmare-Eclipse/RedSun"
+    meta: "⭐ 1.6k · C++ · 安全漏洞利用研究"
+    bullets:
+      - { icon: "🛡️", title: "漏洞研究", desc: "收录高质量攻防漏洞技术细节" }
+      - { icon: "🏆", title: "CTF资源", desc: "适合安全竞赛选手学习参考" }
+      - { icon: "🔍", title: "防御用途", desc: "可用于理解漏洞辅助修复加固" }
+      - { icon: "📚", title: "持续更新", desc: "研究员持续贡献新漏洞分析" }
+
+  - number: "04"
+    section_title: "Claude架构开源复现"
+    section_en: "Claude Mythos Open Reimpl"
+    section_emoji: "🧬"
+    repo: "kyegomez/OpenMythos"
+    meta: "⭐ 1.4k · Python · 大模型架构研究"
+    bullets:
+      - { icon: "📖", title: "文献驱动", desc: "基于公开论文从零复现架构" }
+      - { icon: "🔄", title: "循环结构", desc: "探索循环Transformer注意力变体" }
+      - { icon: "🔬", title: "架构实验", desc: "下一代大模型架构实验平台" }
+      - { icon: "🌟", title: "第一原理", desc: "追求透明可解释的模型设计" }
+
+  - number: "05"
+    section_title: "AI量化投资技能包"
+    section_en: "Quant Trading AI Skills"
+    section_emoji: "📈"
+    repo: "wbh604/UZI-Skill"
+    meta: "⭐ 0.8k · Python · A股港股美股量化"
+    bullets:
+      - { icon: "💹", title: "多市场", desc: "同时支持A股港股和美股行情" }
+      - { icon: "📊", title: "多维数据", desc: "22维数据180条量化规则覆盖" }
+      - { icon: "🏦", title: "机构方法", desc: "集成17种机构级别分析模型" }
+      - { icon: "👥", title: "大佬智慧", desc: "融合51位投资大佬看盘逻辑" }

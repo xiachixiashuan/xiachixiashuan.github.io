@@ -1,0 +1,71 @@
+date: "2026-04-21"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-04-21"
+items:
+  - number: "01"
+    section_title: "极简图表神器"
+    section_en: "Diagram Design for AI"
+    section_emoji: "📊"
+    repo: "cathrynlavery/diagram-design"
+    meta: "⭐ 961 · HTML · 专为 Claude Code 打造"
+    bullets:
+      - { icon: "🎨", title: "13种图表类型", desc: "覆盖流程图信息图等多种编辑级别" }
+      - { icon: "⚡", title: "零外部依赖", desc: "纯HTML+SVG自包含即取即用" }
+      - { icon: "🚫", title: "告别低质输出", desc: "彻底替代冗余Mermaid生成图表" }
+      - { icon: "🤖", title: "AI原生设计", desc: "与Claude Code工作流无缝结合" }
+
+  - number: "02"
+    section_title: "GPT图像提示词库"
+    section_en: "Awesome GPT-Image-2 Prompts"
+    section_emoji: "🖼️"
+    repo: "EvoLinkAI/awesome-gpt-image-2-prompts"
+    meta: "⭐ 838 · 无主语言 · 社区精选合集"
+    bullets:
+      - { icon: "🗂️", title: "多场景覆盖", desc: "人像海报UI线框角色设定全收录" }
+      - { icon: "📸", title: "效果对照", desc: "每条提示词附真实生成示例图" }
+      - { icon: "🌐", title: "社区共建", desc: "持续收录社区最新实验成果" }
+      - { icon: "💡", title: "即学即用", desc: "直接复用高质提示词提升出图质量" }
+
+  - number: "03"
+    section_title: "BTC实盘数据公开"
+    section_en: "BTC Trading Since 2020"
+    section_emoji: "₿"
+    repo: "bwjoke/BTC-Trading-Since-2020"
+    meta: "⭐ 782 · 无主语言 · 2020年起完整记录"
+    bullets:
+      - { icon: "📅", title: "6年交易上下文", desc: "从2020年起完整BTC实盘记录" }
+      - { icon: "🔬", title: "量化研究素材", desc: "策略回测与分析的高价值数据集" }
+      - { icon: "📈", title: "真实交易视角", desc: "含完整市场判断与操作背景" }
+      - { icon: "🤝", title: "社区分析热潮", desc: "已吸引多维度量化分析跟进" }
+
+  - number: "04"
+    section_title: "跨平台Agent配置包"
+    section_en: "Agentic Stack"
+    section_emoji: "🧠"
+    repo: "codejunkie99/agentic-stack"
+    meta: "⭐ 760 · Python · 多工具通用"
+    bullets:
+      - { icon: "📦", title: "可移植配置", desc: ".agent/文件夹记忆技能协议一包" }
+      - { icon: "🔌", title: "多平台兼容", desc: "接入Claude Code/Cursor等6种工具" }
+      - { icon: "🔄", title: "切换不丢失", desc: "换工具时知识库与技能完整保留" }
+      - { icon: "🛠️", title: "DIY友好", desc: "支持自定义Python工作流扩展" }
+
+  - number: "05"
+    section_title: "设计系统灵感合集"
+    section_en: "Awesome Claude Design"
+    section_emoji: "✨"
+    repo: "VoltAgent/awesome-claude-design"
+    meta: "⭐ 724 · 无主语言 · 68个即用模板"
+    bullets:
+      - { icon: "🎯", title: "68个设计模板", desc: "DESIGN.md格式即放即用" }
+      - { icon: "🚀", title: "一键搭建UI", desc: "单次对话生成完整UI框架" }
+      - { icon: "🎨", title: "多风格覆盖", desc: "涵盖主流UI设计系统风格" }
+      - { icon: "⏱️", title: "大幅提速", desc: "缩短从创意到原型的全链路时间" }

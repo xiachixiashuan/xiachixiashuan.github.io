@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-04-20
+📈 GitHub 周榜 Top5 | 2026-04-21
 
-1. Robbyant/lingbot-map ⭐2.6k
-   前馈式3D基础模型，从流式传感器数据实时重建三维场景
-   https://github.com/Robbyant/lingbot-map
+1. cathrynlavery/diagram-design ⭐961
+   13种编辑图表类型，纯HTML+SVG零依赖，专为Claude Code打造
+   https://github.com/cathrynlavery/diagram-design
 
-2. browser-use/browser-harness ⭐2.2k
-   自愈式浏览器框架，让LLM完成任意Web操控任务并自动修复
-   https://github.com/browser-use/browser-harness
+2. EvoLinkAI/awesome-gpt-image-2-prompts ⭐838
+   精选GPT-Image-2提示词合集，覆盖人像/海报/UI线框等多场景
+   https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts
 
-3. Nightmare-Eclipse/RedSun ⭐1.6k
-   安全漏洞研究仓库，高质量攻防技术参考资源
-   https://github.com/Nightmare-Eclipse/RedSun
+3. bwjoke/BTC-Trading-Since-2020 ⭐782
+   2020年起BTC实盘交易全记录公开，量化研究高价值数据集
+   https://github.com/bwjoke/BTC-Trading-Since-2020
 
-4. kyegomez/OpenMythos ⭐1.4k
-   从第一性原理理论复现Claude Mythos大模型架构
-   https://github.com/kyegomez/OpenMythos
+4. codejunkie99/agentic-stack ⭐760
+   可移植.agent/文件夹，兼容Claude Code/Cursor等6种AI工具
+   https://github.com/codejunkie99/agentic-stack
 
-5. wbh604/UZI-Skill ⭐0.8k
-   量化投资AI技能包，A/港/美股全覆盖，51位大佬看盘逻辑
-   https://github.com/wbh604/UZI-Skill
+5. VoltAgent/awesome-claude-design ⭐724
+   68个DESIGN.md格式设计系统模板，一键搭建完整UI框架
+   https://github.com/VoltAgent/awesome-claude-design
 
 👉 完整版已发布到博客

@@ -1,0 +1,71 @@
+date: "2026-04-22"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-04-22"
+items:
+  - number: "01"
+    section_title: "AI 原生设计 Skill"
+    section_en: "HTML Design for Claude Code"
+    section_emoji: "🎨"
+    repo: "alchaincyf/huashu-design"
+    meta: "⭐ 3.1k · HTML · Claude Code 高保真设计工具"
+    bullets:
+      - { icon: "🖼️", title: "高保真原型", desc: "直接生成幻灯片与交互动画" }
+      - { icon: "📐", title: "20 设计哲学", desc: "内置系统化设计规范与框架" }
+      - { icon: "🔍", title: "5 维评审", desc: "自动对输出做多维质量审查" }
+      - { icon: "🎬", title: "MP4 导出", desc: "一键将设计转为视频文件" }
+
+  - number: "02"
+    section_title: "内容排版美化工具"
+    section_en: "Good Content, Good Paper"
+    section_emoji: "📄"
+    repo: "tw93/Kami"
+    meta: "⭐ 1.6k · HTML · 极简内容排版输出"
+    bullets:
+      - { icon: "✍️", title: "纯 HTML 实现", desc: "无框架依赖轻量开箱即用" }
+      - { icon: "🎯", title: "内容优先", desc: "专注让文字以精致形式呈现" }
+      - { icon: "📝", title: "博客友好", desc: "适合内容创作者与技术写手" }
+      - { icon: "🌿", title: "零外部依赖", desc: "纯静态部署无需任何构建步骤" }
+
+  - number: "03"
+    section_title: "便携 PDF 编辑器"
+    section_en: "No Install, No Account, No Telemetry"
+    section_emoji: "📋"
+    repo: "SteveTheKiller/KillerPDF"
+    meta: "⭐ 639 · C# · Windows 便携免安装"
+    bullets:
+      - { icon: "🚀", title: "解压即用", desc: "无安装包直接双击运行" }
+      - { icon: "🔒", title: "无遥测", desc: "零数据收集完全离线使用" }
+      - { icon: "🆓", title: "GPLv3 开源", desc: "完全免费无任何订阅费用" }
+      - { icon: "🖥️", title: "WPF 构建", desc: "原生 Windows 界面流畅体验" }
+
+  - number: "04"
+    section_title: "AI Agent 设计规范"
+    section_en: "Design Skill for AI Agents"
+    section_emoji: "🤖"
+    repo: "ZeroZ-lab/cc-design"
+    meta: "⭐ 563 · JavaScript · 高保真 HTML 原型指导"
+    bullets:
+      - { icon: "🧩", title: "通用 Agent", desc: "适配多种 AI 编程助手使用" }
+      - { icon: "📏", title: "设计规范化", desc: "系统化提示提升输出品质" }
+      - { icon: "💡", title: "前端对齐", desc: "生成接近真实产品的界面" }
+      - { icon: "⚡", title: "即插即用", desc: "作为 Skill 快速集成到工作流" }
+
+  - number: "05"
+    section_title: "微信收藏可视化"
+    section_en: "WeChat Favorites Dashboard"
+    section_emoji: "💬"
+    repo: "zhuyansen/wx-favorites-report"
+    meta: "⭐ 532 · Python · 端到端本地数据管线"
+    bullets:
+      - { icon: "🗄️", title: "读本地数据库", desc: "解析设备加密 SQLite 文件" }
+      - { icon: "📊", title: "交互式报告", desc: "生成可搜索统计 HTML 面板" }
+      - { icon: "🔐", title: "完全本地", desc: "无需联网无服务器端依赖" }
+      - { icon: "🛠️", title: "Skill 形态", desc: "在 Claude Code 中一键运行" }

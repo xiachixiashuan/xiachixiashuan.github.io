@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-04-21
+📈 GitHub 周榜 Top5 | 2026-04-22
 
-1. cathrynlavery/diagram-design ⭐961
-   13种编辑图表类型，纯HTML+SVG零依赖，专为Claude Code打造
-   https://github.com/cathrynlavery/diagram-design
+1. alchaincyf/huashu-design ⭐3.1k
+   Claude Code 专属 HTML 原生设计 Skill，高保真原型/幻灯片/动画，内置 20 设计哲学+5 维评审+MP4 导出
+   https://github.com/alchaincyf/huashu-design
 
-2. EvoLinkAI/awesome-gpt-image-2-prompts ⭐838
-   精选GPT-Image-2提示词合集，覆盖人像/海报/UI线框等多场景
-   https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts
+2. tw93/Kami ⭐1.6k
+   纯 HTML 内容排版美化工具——好内容值得好纸，零框架依赖，开箱即用
+   https://github.com/tw93/Kami
 
-3. bwjoke/BTC-Trading-Since-2020 ⭐782
-   2020年起BTC实盘交易全记录公开，量化研究高价值数据集
-   https://github.com/bwjoke/BTC-Trading-Since-2020
+3. SteveTheKiller/KillerPDF ⭐639
+   Windows 便携 PDF 编辑器，解压即用，无安装/无账号/无订阅/零遥测，GPLv3 开源
+   https://github.com/SteveTheKiller/KillerPDF
 
-4. codejunkie99/agentic-stack ⭐760
-   可移植.agent/文件夹，兼容Claude Code/Cursor等6种AI工具
-   https://github.com/codejunkie99/agentic-stack
+4. ZeroZ-lab/cc-design ⭐563
+   为通用 AI Agent 提供高保真 HTML 设计规范与原型指导 Skill，前端输出品质大幅提升
+   https://github.com/ZeroZ-lab/cc-design
 
-5. VoltAgent/awesome-claude-design ⭐724
-   68个DESIGN.md格式设计系统模板，一键搭建完整UI框架
-   https://github.com/VoltAgent/awesome-claude-design
+5. zhuyansen/wx-favorites-report ⭐532
+   微信收藏可视化 Claude Code Skill，从本地加密 SQLite 到交互式 HTML 报告全程本地处理
+   https://github.com/zhuyansen/wx-favorites-report
 
 👉 完整版已发布到博客

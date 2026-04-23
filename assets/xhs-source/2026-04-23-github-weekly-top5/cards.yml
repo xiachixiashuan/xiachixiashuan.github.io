@@ -1,0 +1,71 @@
+date: "2026-04-23"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-04-23"
+items:
+  - number: "01"
+    section_title: "开源 Claude Design 替代"
+    section_en: "Open Design Alternative"
+    section_emoji: "🎨"
+    repo: "OpenCoworkAI/open-codesign"
+    meta: "⭐ 1.2k · TypeScript · Prompt 生成原型/PDF"
+    bullets:
+      - { icon: "🤖", title: "多模型支持", desc: "兼容 Claude/GPT/Gemini/Kimi/GLM/Ollama" }
+      - { icon: "🔑", title: "自带密钥", desc: "BYOK 本地优先无需订阅 Claude Max" }
+      - { icon: "📄", title: "多格式输出", desc: "Prompt 直出原型、幻灯片、PDF" }
+      - { icon: "🆓", title: "MIT 开源", desc: "完全免费可商用可二次开发" }
+
+  - number: "02"
+    section_title: "GPT 逆向 API 网关"
+    section_en: "GPT Reverse API Gateway"
+    section_emoji: "🔄"
+    repo: "432539/gpt2api"
+    meta: "⭐ 794 · Go · GPT-IMAGE-2 批量出图"
+    bullets:
+      - { icon: "🖼️", title: "图像批量生成", desc: "GPT-IMAGE-2 稳定接入批量调度" }
+      - { icon: "👥", title: "多账号池", desc: "自动轮转账号高并发不限速" }
+      - { icon: "💰", title: "积分计费", desc: "内置计费系统适合团队自建中转" }
+      - { icon: "⚡", title: "Go 高性能", desc: "低资源消耗轻松支撑高并发场景" }
+
+  - number: "03"
+    section_title: "营销决策数字孪生"
+    section_en: "Marketing Digital Twin"
+    section_emoji: "📊"
+    repo: "OranAi-Ltd/oransim"
+    meta: "⭐ 556 · Python · 因果推断预测投放效果"
+    bullets:
+      - { icon: "🧬", title: "因果数字孪生", desc: "花钱前先模拟每个营销决策结果" }
+      - { icon: "🔬", title: "因果推断", desc: "非统计相关而是可解释的因果分析" }
+      - { icon: "💡", title: "方案推演", desc: "A/B 预算方案在投放前量化比较" }
+      - { icon: "📈", title: "规模化运营", desc: "支持大规模营销场景的数字孪生" }
+
+  - number: "04"
+    section_title: "网页一键转 Markdown"
+    section_en: "Page to Markdown"
+    section_emoji: "📝"
+    repo: "Ademking/MD-This-Page"
+    meta: "⭐ 500 · TypeScript · Chrome/Firefox 扩展"
+    bullets:
+      - { icon: "🌐", title: "任意网页转换", desc: "一键将网页变为干净 Markdown 文本" }
+      - { icon: "🦊", title: "双浏览器支持", desc: "同时支持 Chrome 和 Firefox 扩展" }
+      - { icon: "🔒", title: "纯本地处理", desc: "无服务器数据不上传隐私安全" }
+      - { icon: "🤖", title: "LLM 喂料神器", desc: "完美适配将网页内容投喂给 AI" }
+
+  - number: "05"
+    section_title: "灵魂驱动 AI Agent"
+    section_en: "Soul-Driven AI Agent"
+    section_emoji: "🤖"
+    repo: "cosmicstack-labs/mercury-agent"
+    meta: "⭐ 479 · TypeScript · 24/7 全天候运行"
+    bullets:
+      - { icon: "🛡️", title: "权限硬化", desc: "工具集内置权限管控防越权操作" }
+      - { icon: "💰", title: "Token 预算", desc: "内置 Token 消耗上限避免超支" }
+      - { icon: "📡", title: "多渠道接入", desc: "支持 CLI 和 Telegram 双渠道访问" }
+      - { icon: "⏰", title: "全天候运行", desc: "设计用于 24/7 长期稳定自主运行" }

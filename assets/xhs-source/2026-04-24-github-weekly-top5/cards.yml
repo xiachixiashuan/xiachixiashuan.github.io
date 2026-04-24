@@ -1,0 +1,71 @@
+date: "2026-04-24"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-04-24"
+items:
+  - number: "01"
+    section_title: "开源 HWP 文档编辑器"
+    section_en: "Open HWP Document Editor"
+    section_emoji: "📄"
+    repo: "golbin/hop"
+    meta: "⭐ 920 · TypeScript · 跨平台 HWP/HWPX 文档编辑"
+    bullets:
+      - { icon: "🖥️", title: "三平台支持", desc: "macOS/Windows/Linux 全覆盖" }
+      - { icon: "📑", title: "格式完整", desc: "支持 HWP/HWPX 读写与 PDF 导出" }
+      - { icon: "🔌", title: "OS 深度集成", desc: "文件关联、拖拽、打印全支持" }
+      - { icon: "🔓", title: "MIT 开源", desc: "基于 rhwp 引擎可免费商用" }
+
+  - number: "02"
+    section_title: "域前置代理 VPN 工具"
+    section_en: "Domain-Fronted Proxy VPN"
+    section_emoji: "🔒"
+    repo: "masterking32/MasterHttpRelayVPN"
+    meta: "⭐ 903 · Python · 基于 Google 基础设施的隐私代理"
+    bullets:
+      - { icon: "🌐", title: "域前置技术", desc: "流量经 Google Apps Script 中继" }
+      - { icon: "🛡️", title: "DPI 绕过", desc: "抵抗深度包检测与流量分析" }
+      - { icon: "⚡", title: "多路复用", desc: "支持 HTTP/1 和 HTTP/2 协议" }
+      - { icon: "🔑", title: "MITM TLS", desc: "内置 TLS 拦截与分析能力" }
+
+  - number: "03"
+    section_title: "AI 网页设计增强技能"
+    section_en: "AI Web Design Skill"
+    section_emoji: "🎨"
+    repo: "ConardLi/web-design-skill"
+    meta: "⭐ 739 · CSS · 让 AI 生成的网页从能用到好看"
+    bullets:
+      - { icon: "✨", title: "设计即插即用", desc: "一键注入专业设计规则" }
+      - { icon: "🎯", title: "灵感来源", desc: "受 Claude Design 启发打造" }
+      - { icon: "🖌️", title: "现代设计原则", desc: "自动应用排版与配色规范" }
+      - { icon: "🤖", title: "Agent 兼容", desc: "适配主流 AI 编码助手工具" }
+
+  - number: "04"
+    section_title: "游戏 Agentic 编程框架"
+    section_en: "Open Agentic Coding for Games"
+    section_emoji: "🎮"
+    repo: "leigest519/OpenGame"
+    meta: "⭐ 729 · TypeScript · 大模型驱动的游戏 AI 框架"
+    bullets:
+      - { icon: "🧠", title: "Agent 驱动", desc: "LLM 自主感知并决策游戏行为" }
+      - { icon: "⚙️", title: "现代工程结构", desc: "TypeScript 实现易于二次开发" }
+      - { icon: "🕹️", title: "游戏逻辑融合", desc: "Agent 与游戏状态深度耦合" }
+      - { icon: "🔬", title: "研究友好", desc: "适合游戏 AI 与自动化测试" }
+
+  - number: "05"
+    section_title: "开源 AI 持久记忆层"
+    section_en: "Open-source Local-first Agent Memory"
+    section_emoji: "🧩"
+    repo: "Einsia/OpenChronicle"
+    meta: "⭐ 640 · Python · OpenAI Chronicle 的开源替代"
+    bullets:
+      - { icon: "💾", title: "本地优先", desc: "记忆数据全留在本机不上传" }
+      - { icon: "🔄", title: "模型无关", desc: "兼容 Ollama/OpenAI/Anthropic" }
+      - { icon: "📝", title: "Markdown 存储", desc: "可读可查的结构化记忆文件" }
+      - { icon: "🔌", title: "MCP 兼容", desc: "无缝接入工具调用 Agent" }

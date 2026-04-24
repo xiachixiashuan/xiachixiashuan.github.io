@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-04-23
+📈 GitHub 周榜 Top5 | 2026-04-24
 
-1. OpenCoworkAI/open-codesign ⭐1.2k
-   Claude Design 开源替代，BYOK 本地优先，多模型 Prompt 生成原型/PDF
-   https://github.com/OpenCoworkAI/open-codesign
+1. golbin/hop ⭐920
+   首款开源跨平台 HWP/HWPX 文档编辑器，支持 macOS/Windows/Linux
+   https://github.com/golbin/hop
 
-2. 432539/gpt2api ⭐794
-   GPT 逆向 OpenAI 兼容网关，GPT-IMAGE-2 批量出图，多账号池高并发
-   https://github.com/432539/gpt2api
+2. masterking32/MasterHttpRelayVPN ⭐903
+   基于 Google Apps Script 的域前置 HTTP/SOCKS5 代理，内置 DPI 绕过
+   https://github.com/masterking32/MasterHttpRelayVPN
 
-3. OranAi-Ltd/oransim ⭐556
-   营销因果数字孪生，花钱前先模拟预测每个营销决策效果
-   https://github.com/OranAi-Ltd/oransim
+3. ConardLi/web-design-skill ⭐739
+   AI Agent 设计技能插件，让 AI 生成的网页从功能可用升级为视觉精良
+   https://github.com/ConardLi/web-design-skill
 
-4. Ademking/MD-This-Page ⭐500
-   一键将任意网页转为干净 Markdown，Chrome/Firefox 扩展，纯本地处理
-   https://github.com/Ademking/MD-This-Page
+4. leigest519/OpenGame ⭐729
+   面向游戏的开放式 Agentic 编程框架，大模型驱动游戏 AI 自主决策
+   https://github.com/leigest519/OpenGame
 
-5. cosmicstack-labs/mercury-agent ⭐479
-   权限硬化 AI Agent，Token 预算控制，支持 Telegram 接入，24/7 全天候运行
-   https://github.com/cosmicstack-labs/mercury-agent
+5. Einsia/OpenChronicle ⭐640
+   OpenAI Chronicle 开源替代，本地优先的 AI Agent 持久记忆层
+   https://github.com/Einsia/OpenChronicle
 
 👉 完整版已发布到博客

@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-04-24
+📈 GitHub 周榜 Top5 | 2026-04-25
 
-1. golbin/hop ⭐920
-   首款开源跨平台 HWP/HWPX 文档编辑器，支持 macOS/Windows/Linux
-   https://github.com/golbin/hop
+1. op7418/guizang-ppt-skill ⭐1.9k
+   提示词一键生成杂志风 HTML 幻灯片的 Claude Code 技能插件
+   https://github.com/op7418/guizang-ppt-skill
 
-2. masterking32/MasterHttpRelayVPN ⭐903
-   基于 Google Apps Script 的域前置 HTTP/SOCKS5 代理，内置 DPI 绕过
-   https://github.com/masterking32/MasterHttpRelayVPN
+2. deepseek-ai/TileKernels ⭐1.1k
+   DeepSeek 开源的 TileLang 高性能算子库，覆盖深度学习推理训练核心
+   https://github.com/deepseek-ai/TileKernels
 
-3. ConardLi/web-design-skill ⭐739
-   AI Agent 设计技能插件，让 AI 生成的网页从功能可用升级为视觉精良
-   https://github.com/ConardLi/web-design-skill
+3. TheRealSeanDonahoe/agents-md ⭐504
+   一个配置文件让所有 AI 编码 Agent 像高级工程师一样工作
+   https://github.com/TheRealSeanDonahoe/agents-md
 
-4. leigest519/OpenGame ⭐729
-   面向游戏的开放式 Agentic 编程框架，大模型驱动游戏 AI 自主决策
-   https://github.com/leigest519/OpenGame
+4. earthtojake/text-to-cad ⭐348
+   开源文字转 CAD 模型框架，自然语言描述生成三维设计文件
+   https://github.com/earthtojake/text-to-cad
 
-5. Einsia/OpenChronicle ⭐640
-   OpenAI Chronicle 开源替代，本地优先的 AI Agent 持久记忆层
-   https://github.com/Einsia/OpenChronicle
+5. GammaLabTechnologies/harmonist ⭐324
+   内置 186 个 Agent 的可移植 AI 编排系统，协议强制执行提升可靠性
+   https://github.com/GammaLabTechnologies/harmonist
 
 👉 完整版已发布到博客

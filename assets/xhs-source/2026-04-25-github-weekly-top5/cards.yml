@@ -1,0 +1,71 @@
+date: "2026-04-25"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-04-25"
+items:
+  - number: "01"
+    section_title: "提示词秒变杂志 PPT"
+    section_en: "Prompt to Magazine Slides"
+    section_emoji: "🎨"
+    repo: "op7418/guizang-ppt-skill"
+    meta: "⭐ 1.9k · HTML · Claude Code 技能插件"
+    bullets:
+      - { icon: "✍️", title: "自然语言输入", desc: "提示词直接生成横向滑动 HTML" }
+      - { icon: "🖼️", title: "杂志风排版", desc: "高保真原型级幻灯片自动输出" }
+      - { icon: "🔌", title: "即插即用", desc: "无需 PPT 或 Keynote 依赖" }
+      - { icon: "🚀", title: "大幅提效", desc: "开发者内容创作者首选工具" }
+
+  - number: "02"
+    section_title: "DeepSeek 高性能算子库"
+    section_en: "TileKernels by DeepSeek"
+    section_emoji: "⚡"
+    repo: "deepseek-ai/TileKernels"
+    meta: "⭐ 1.1k · Python · 深度学习内核"
+    bullets:
+      - { icon: "🧱", title: "Tile 级抽象", desc: "比 CUDA 手写核更灵活可组合" }
+      - { icon: "📈", title: "极限吞吐量", desc: "性能接近硬件理论上限" }
+      - { icon: "🤖", title: "TileLang 编写", desc: "覆盖推理训练常见计算核心" }
+      - { icon: "🌐", title: "DeepSeek 出品", desc: "算子层面重要开源贡献" }
+
+  - number: "03"
+    section_title: "让 Agent 像高级工程师"
+    section_en: "AGENTS.md Drop-in Config"
+    section_emoji: "🤝"
+    repo: "TheRealSeanDonahoe/agents-md"
+    meta: "⭐ 504 · Markdown · AI 编码规范"
+    bullets:
+      - { icon: "📋", title: "即投即用", desc: "放入根目录立即生效" }
+      - { icon: "🎯", title: "行为约束", desc: "规范代码风格提交习惯" }
+      - { icon: "🛡️", title: "防止乱重构", desc: "减少 AI 胡乱修改代码" }
+      - { icon: "🔗", title: "多 Agent 协同", desc: "适配 Claude Cursor Codex" }
+
+  - number: "04"
+    section_title: "文字直接生成 CAD 模型"
+    section_en: "Text to CAD Open Source"
+    section_emoji: "🏗️"
+    repo: "earthtojake/text-to-cad"
+    meta: "⭐ 348 · JavaScript · 生成式设计"
+    bullets:
+      - { icon: "💬", title: "自然语言描述", desc: "直接输出三维 CAD 模型文件" }
+      - { icon: "🔧", title: "开放架构", desc: "Harness 架构接入不同大模型" }
+      - { icon: "🎲", title: "生成式设计", desc: "机械工程产品设计新工具链" }
+      - { icon: "📦", title: "开源免费", desc: "JavaScript 构建易于二次开发" }
+
+  - number: "05"
+    section_title: "186 个 Agent 编排系统"
+    section_en: "Harmonist Agent Orchestration"
+    section_emoji: "🎼"
+    repo: "GammaLabTechnologies/harmonist"
+    meta: "⭐ 324 · Python · Agent 编排"
+    bullets:
+      - { icon: "🔄", title: "协议优先", desc: "严格协议替代模糊自然语言" }
+      - { icon: "🤖", title: "186 个 Agent", desc: "预置专用 Agent 开箱即用" }
+      - { icon: "🛠️", title: "机械强制执行", desc: "大幅提升流水线可靠性" }
+      - { icon: "🔍", title: "易于调试", desc: "协议化设计让问题可溯源" }

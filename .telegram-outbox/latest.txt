@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-04-25
+📈 GitHub 周榜 Top5 | 2026-04-26
 
-1. op7418/guizang-ppt-skill ⭐1.9k
-   提示词一键生成杂志风 HTML 幻灯片的 Claude Code 技能插件
-   https://github.com/op7418/guizang-ppt-skill
+1. ConardLi/garden-skills ⭐1.2k
+   Claude Code 开源 Skills 合集，含网页设计、知识检索、图像生成等模块
+   https://github.com/ConardLi/garden-skills
 
-2. deepseek-ai/TileKernels ⭐1.1k
-   DeepSeek 开源的 TileLang 高性能算子库，覆盖深度学习推理训练核心
-   https://github.com/deepseek-ai/TileKernels
+2. victorchen96/deepseek_v4_rolepaly_instruct ⭐827
+   DeepSeek-V4 角色扮演特殊控制指令说明，Prompt 工程师必收藏
+   https://github.com/victorchen96/deepseek_v4_rolepaly_instruct
 
-3. TheRealSeanDonahoe/agents-md ⭐504
-   一个配置文件让所有 AI 编码 Agent 像高级工程师一样工作
-   https://github.com/TheRealSeanDonahoe/agents-md
+3. openclaw/clawsweeper ⭐619
+   AI 驱动仓库维护工具，自动扫描 Issues/PR 并给出关闭建议
+   https://github.com/openclaw/clawsweeper
 
-4. earthtojake/text-to-cad ⭐348
-   开源文字转 CAD 模型框架，自然语言描述生成三维设计文件
-   https://github.com/earthtojake/text-to-cad
+4. tashfeenahmed/freellmapi ⭐428
+   聚合约 14 家 AI 提供商免费配额的 OpenAI 兼容代理，零成本使用
+   https://github.com/tashfeenahmed/freellmapi
 
-5. GammaLabTechnologies/harmonist ⭐324
-   内置 186 个 Agent 的可移植 AI 编排系统，协议强制执行提升可靠性
-   https://github.com/GammaLabTechnologies/harmonist
+5. future-agi/future-agi ⭐412
+   开源端到端 LLM 应用评估平台，评估/观察/改进全流程覆盖
+   https://github.com/future-agi/future-agi
 
 👉 完整版已发布到博客

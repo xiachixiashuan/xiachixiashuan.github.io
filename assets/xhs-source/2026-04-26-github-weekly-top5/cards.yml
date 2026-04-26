@@ -1,0 +1,67 @@
+date: "2026-04-26"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-04-26"
+items:
+  - number: "01"
+    section_title: "Claude Skills 全家桶"
+    section_en: "Skills Collection"
+    section_emoji: "🎨"
+    repo: "ConardLi/garden-skills"
+    meta: "⭐ 1.2k · JavaScript · 开源 Skills 合集"
+    bullets:
+      - { icon: "🧠", title: "功能丰富", desc: "网页设计知识检索图像生成一站式" }
+      - { icon: "🧩", title: "模块化设计", desc: "每个技能独立可单独安装使用" }
+      - { icon: "💼", title: "即插即用", desc: "兼容 Claude Code 直接调用" }
+      - { icon: "🛠️", title: "持续更新", desc: "作者活跃持续添加新技能模块" }
+  - number: "02"
+    section_title: "DeepSeek V4 角色扮演"
+    section_en: "Roleplay Instructions"
+    section_emoji: "🎭"
+    repo: "victorchen96/deepseek_v4_rolepaly_instruct"
+    meta: "⭐ 827 · 中文 · V4 角色控制指令"
+    bullets:
+      - { icon: "🎮", title: "角色精控", desc: "精细化 V4 模型角色扮演行为" }
+      - { icon: "📝", title: "指令详解", desc: "特殊控制指令语法与效果说明" }
+      - { icon: "🚀", title: "沉浸提升", desc: "大幅提升角色扮演真实感" }
+      - { icon: "🔓", title: "开源共享", desc: "社区实战经验可自由使用" }
+  - number: "03"
+    section_title: "Issue PR 智能清理"
+    section_en: "ClawSweeper"
+    section_emoji: "🧹"
+    repo: "openclaw/clawsweeper"
+    meta: "⭐ 619 · JavaScript · 仓库卫生工具"
+    bullets:
+      - { icon: "🔍", title: "自动扫描", desc: "扫描全部 Issues 和 PR 状态" }
+      - { icon: "💡", title: "智能建议", desc: "给出关闭原因辅助维护决策" }
+      - { icon: "⚡", title: "效率倍增", desc: "大仓库积压问题一键整理" }
+      - { icon: "🤖", title: "语义理解", desc: "基于上下文而非简单规则" }
+  - number: "04"
+    section_title: "免费 LLM API 聚合"
+    section_en: "Free LLM API Proxy"
+    section_emoji: "🔗"
+    repo: "tashfeenahmed/freellmapi"
+    meta: "⭐ 428 · TypeScript · 免费 API 中转"
+    bullets:
+      - { icon: "🌐", title: "多源聚合", desc: "整合约 14 家 AI 提供商免费配额" }
+      - { icon: "🔄", title: "接口兼容", desc: "无缝替换 OpenAI API 接口" }
+      - { icon: "💰", title: "完全免费", desc: "利用各平台免费层零成本使用" }
+      - { icon: "🛡️", title: "私有部署", desc: "自部署数据不经第三方" }
+  - number: "05"
+    section_title: "LLM 应用评估平台"
+    section_en: "Future AGI Platform"
+    section_emoji: "📊"
+    repo: "future-agi/future-agi"
+    meta: "⭐ 412 · Python · LLM 评估框架"
+    bullets:
+      - { icon: "📈", title: "全链路评估", desc: "覆盖评估观察改进全流程" }
+      - { icon: "🧪", title: "开源方案", desc: "端到端平台无需商业订阅" }
+      - { icon: "🔬", title: "多维分析", desc: "质量延迟成本多角度洞察" }
+      - { icon: "🏗️", title: "易于集成", desc: "几行代码接入现有 LLM 应用" }

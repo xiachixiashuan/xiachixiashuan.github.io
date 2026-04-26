@@ -89,6 +89,11 @@
     "deepseek-ai/TileKernels",
     "TheRealSeanDonahoe/agents-md",
     "earthtojake/text-to-cad",
-    "GammaLabTechnologies/harmonist"
+    "GammaLabTechnologies/harmonist",
+    "ConardLi/garden-skills",
+    "victorchen96/deepseek_v4_rolepaly_instruct",
+    "openclaw/clawsweeper",
+    "tashfeenahmed/freellmapi",
+    "future-agi/future-agi"
   ]
 }

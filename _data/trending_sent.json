@@ -94,6 +94,11 @@
     "victorchen96/deepseek_v4_rolepaly_instruct",
     "openclaw/clawsweeper",
     "tashfeenahmed/freellmapi",
-    "future-agi/future-agi"
+    "future-agi/future-agi",
+    "freestylefly/awesome-gpt-image-2",
+    "0x0funky/agent-sprite-forge",
+    "NullLatency/FlowDriver",
+    "chekusu/wanman",
+    "Tencent-Hunyuan/Hy3-preview"
   ]
 }

@@ -1,0 +1,71 @@
+date: "2026-04-27"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-04-27"
+items:
+  - number: "01"
+    section_title: "GPT图像提示词引擎"
+    section_en: "GPT-Image-2 Prompt Engine"
+    section_emoji: "🎨"
+    repo: "freestylefly/awesome-gpt-image-2"
+    meta: "⭐ 612 · 综合 · 329 案例逆向工程"
+    bullets:
+      - { icon: "🔍", title: "逆向工程", desc: "329 个真实案例拆解提炼最优提示词" }
+      - { icon: "📐", title: "工业级模板", desc: "13 套覆盖电商广告产品设计等场景" }
+      - { icon: "⚡", title: "即开即用", desc: "新手与专业用户均可直接复用参考" }
+      - { icon: "🏗️", title: "提示即代码", desc: "Prompt as Code 工程化思维管理提示词" }
+
+  - number: "02"
+    section_title: "AI游戏精灵图生成器"
+    section_en: "AI Game Sprite Forge"
+    section_emoji: "🎮"
+    repo: "0x0funky/agent-sprite-forge"
+    meta: "⭐ 567 · Python · Agent Skill"
+    bullets:
+      - { icon: "🖼️", title: "自动生成图表", desc: "批量输出带透明通道的 PNG 帧序列" }
+      - { icon: "🗺️", title: "地图生成", desc: "同时支持游戏地图自动生成" }
+      - { icon: "🎯", title: "引擎直接导入", desc: "兼容 Unity Godot 等主流游戏引擎" }
+      - { icon: "🧑‍💻", title: "独立开发加速", desc: "描述角色即可批量产出游戏美术资产" }
+
+  - number: "03"
+    section_title: "隐蔽网络穿透工具"
+    section_en: "Covert Network Tunnel"
+    section_emoji: "🌐"
+    repo: "NullLatency/FlowDriver"
+    meta: "⭐ 377 · Go · SOCKS5 over Google"
+    bullets:
+      - { icon: "🔒", title: "DPI 绕过", desc: "将 SOCKS5 流量伪装成 Google 服务请求" }
+      - { icon: "🚀", title: "单二进制部署", desc: "无额外依赖开箱即用极简运维" }
+      - { icon: "🛡️", title: "严格网络适配", desc: "专为企业与国家级防火墙环境设计" }
+      - { icon: "⚙️", title: "Go 高性能", desc: "并发模型保证低延迟稳定连接" }
+
+  - number: "04"
+    section_title: "智能体矩阵运行时"
+    section_en: "Agent Matrix Runtime"
+    section_emoji: "🚃"
+    repo: "chekusu/wanman"
+    meta: "⭐ 362 · TypeScript · 受日本列车调度启发"
+    bullets:
+      - { icon: "🎯", title: "单驾驶员理念", desc: "最少资源驱动最多任务并行运行" }
+      - { icon: "🔗", title: "Node.js 集成", desc: "TypeScript 原生适配现代 Web 生态" }
+      - { icon: "📊", title: "高并发低开销", desc: "矩阵式调度实现智能体高效协作" }
+      - { icon: "🧪", title: "开源可扩展", desc: "灵活插件架构方便自定义 Pipeline" }
+
+  - number: "05"
+    section_title: "腾讯混元推理大模型"
+    section_en: "Tencent Hunyuan Reasoning"
+    section_emoji: "🧬"
+    repo: "Tencent-Hunyuan/Hy3-preview"
+    meta: "⭐ 250 · Python · 295B A21B 推理模型"
+    bullets:
+      - { icon: "🏆", title: "295B 超大规模", desc: "21B 激活参数同规模领先水平" }
+      - { icon: "🔮", title: "复杂推理优化", desc: "专为多步骤规划与工具调用任务设计" }
+      - { icon: "📚", title: "长上下文支持", desc: "长文本 Agent 任务处理能力出色" }
+      - { icon: "🇨🇳", title: "国产重磅首发", desc: "腾讯首个公开大规模推理模型预览" }

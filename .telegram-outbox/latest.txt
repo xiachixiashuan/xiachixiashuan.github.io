@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-04-26
+📈 GitHub 周榜 Top5 | 2026-04-27
 
-1. ConardLi/garden-skills ⭐1.2k
-   Claude Code 开源 Skills 合集，含网页设计、知识检索、图像生成等模块
-   https://github.com/ConardLi/garden-skills
+1. freestylefly/awesome-gpt-image-2 ⭐612
+   GPT-Image-2 工业级提示词库，329 案例逆向工程 + 13 套模板
+   https://github.com/freestylefly/awesome-gpt-image-2
 
-2. victorchen96/deepseek_v4_rolepaly_instruct ⭐827
-   DeepSeek-V4 角色扮演特殊控制指令说明，Prompt 工程师必收藏
-   https://github.com/victorchen96/deepseek_v4_rolepaly_instruct
+2. 0x0funky/agent-sprite-forge ⭐567
+   AI 自动生成 2D 精灵图和游戏地图，Agent Skill 封装即开即用
+   https://github.com/0x0funky/agent-sprite-forge
 
-3. openclaw/clawsweeper ⭐619
-   AI 驱动仓库维护工具，自动扫描 Issues/PR 并给出关闭建议
-   https://github.com/openclaw/clawsweeper
+3. NullLatency/FlowDriver ⭐377
+   Go 实现的隐蔽网络穿透工具，SOCKS5 流量伪装为 Google 服务
+   https://github.com/NullLatency/FlowDriver
 
-4. tashfeenahmed/freellmapi ⭐428
-   聚合约 14 家 AI 提供商免费配额的 OpenAI 兼容代理，零成本使用
-   https://github.com/tashfeenahmed/freellmapi
+4. chekusu/wanman ⭐362
+   受日本单人列车调度启发的开源智能体矩阵运行时（TypeScript）
+   https://github.com/chekusu/wanman
 
-5. future-agi/future-agi ⭐412
-   开源端到端 LLM 应用评估平台，评估/观察/改进全流程覆盖
-   https://github.com/future-agi/future-agi
+5. Tencent-Hunyuan/Hy3-preview ⭐250
+   腾讯混元 295B A21B 推理与智能体模型预览，同规模领先水平
+   https://github.com/Tencent-Hunyuan/Hy3-preview
 
 👉 完整版已发布到博客

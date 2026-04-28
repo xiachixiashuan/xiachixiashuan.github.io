@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-04-27
+📈 GitHub 周榜 Top5 | 2026-04-28
 
-1. freestylefly/awesome-gpt-image-2 ⭐612
-   GPT-Image-2 工业级提示词库，329 案例逆向工程 + 13 套模板
-   https://github.com/freestylefly/awesome-gpt-image-2
+1. Russell-cell/PPT-Design-Prompt ⭐830
+   AI 幻灯片提示词合集，商务/学术/科技场景全覆盖
+   https://github.com/Russell-cell/PPT-Design-Prompt
 
-2. 0x0funky/agent-sprite-forge ⭐567
-   AI 自动生成 2D 精灵图和游戏地图，Agent Skill 封装即开即用
-   https://github.com/0x0funky/agent-sprite-forge
+2. wuyoscar/gpt_image_2_skill ⭐817
+   GPT Image 2 提示词画廊 + CLI，可接入 Claude Code 等 AI 编辑器
+   https://github.com/wuyoscar/gpt_image_2_skill
 
-3. NullLatency/FlowDriver ⭐377
-   Go 实现的隐蔽网络穿透工具，SOCKS5 流量伪装为 Google 服务
-   https://github.com/NullLatency/FlowDriver
+3. epoko77-ai/im-not-ai ⭐514
+   让 AI 生成文字「去 AI 味」，绕过 AI 检测工具
+   https://github.com/epoko77-ai/im-not-ai
 
-4. chekusu/wanman ⭐362
-   受日本单人列车调度启发的开源智能体矩阵运行时（TypeScript）
-   https://github.com/chekusu/wanman
+4. alash3al/stash ⭐422
+   Go 语言 AI Agent 持久记忆层，支持跨会话存储知识与上下文
+   https://github.com/alash3al/stash
 
-5. Tencent-Hunyuan/Hy3-preview ⭐250
-   腾讯混元 295B A21B 推理与智能体模型预览，同规模领先水平
-   https://github.com/Tencent-Hunyuan/Hy3-preview
+5. levelsio/superlevels ⭐420
+   levelsio 自用开源 Chrome 扩展集，代码全透明可审计
+   https://github.com/levelsio/superlevels
 
 👉 完整版已发布到博客

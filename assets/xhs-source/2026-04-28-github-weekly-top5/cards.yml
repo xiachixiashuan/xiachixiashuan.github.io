@@ -1,0 +1,71 @@
+date: "2026-04-28"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-04-28"
+items:
+  - number: "01"
+    section_title: "AI PPT提示词合集"
+    section_en: "PPT Design Prompts"
+    section_emoji: "📊"
+    repo: "Russell-cell/PPT-Design-Prompt"
+    meta: "⭐ 830 · Python · AI幻灯片提示词模板库"
+    bullets:
+      - { icon: "🧩", title: "多场景覆盖", desc: "商务学术科技模板一应俱全" }
+      - { icon: "🎨", title: "布局色彩全", desc: "从排版到配色系统整理" }
+      - { icon: "⚡", title: "即拿即用", desc: "精准提示词告别反复调试" }
+      - { icon: "🛠️", title: "AI编辑器适配", desc: "与主流AI工具无缝集成" }
+
+  - number: "02"
+    section_title: "GPT图像2技能库"
+    section_en: "GPT Image 2 Skill"
+    section_emoji: "🖼️"
+    repo: "wuyoscar/gpt_image_2_skill"
+    meta: "⭐ 817 · Python · OpenAI图像提示词画廊与CLI"
+    bullets:
+      - { icon: "🗂️", title: "结构化模板", desc: "提示词资产库可复用" }
+      - { icon: "💻", title: "命令行调用", desc: "CLI直接驱动图片生成" }
+      - { icon: "🤖", title: "Agentic集成", desc: "支持接入Claude Code等编辑器" }
+      - { icon: "✅", title: "实战验证", desc: "模板均经过真实场景测试" }
+
+  - number: "03"
+    section_title: "AI文字去味工具"
+    section_en: "AI Text Humanizer"
+    section_emoji: "✍️"
+    repo: "epoko77-ai/im-not-ai"
+    meta: "⭐ 514 · Python · 让AI写的文章不像AI"
+    bullets:
+      - { icon: "🕵️", title: "规避AI检测", desc: "绕过主流AI内容识别器" }
+      - { icon: "🔄", title: "自动改写", desc: "一键让机器文本更自然" }
+      - { icon: "🌐", title: "通用方案", desc: "技术框架支持多语言迁移" }
+      - { icon: "📝", title: "创作辅助", desc: "保留语义同时提升可读性" }
+
+  - number: "04"
+    section_title: "Agent持久记忆层"
+    section_en: "AI Agent Memory"
+    section_emoji: "🧠"
+    repo: "alash3al/stash"
+    meta: "⭐ 422 · Go · AI Agent跨会话持久化记忆"
+    bullets:
+      - { icon: "💾", title: "三类存储", desc: "片段事实上下文分层管理" }
+      - { icon: "🔗", title: "跨会话记忆", desc: "Agent不再每次「失忆」" }
+      - { icon: "🚀", title: "轻量部署", desc: "Go写就开箱即用极简架构" }
+      - { icon: "🔌", title: "快速集成", desc: "自建Agent接入几行代码" }
+
+  - number: "05"
+    section_title: "超级Chrome扩展"
+    section_en: "Super Chrome Extension"
+    section_emoji: "🔒"
+    repo: "levelsio/superlevels"
+    meta: "⭐ 420 · JavaScript · levelsio自用开源扩展集"
+    bullets:
+      - { icon: "👁️", title: "全程透明", desc: "代码开源每步行为可审计" }
+      - { icon: "🛡️", title: "安全可信", desc: "比闭源第三方扩展更安全" }
+      - { icon: "⚒️", title: "自用优先", desc: "真实需求驱动功能设计" }
+      - { icon: "📦", title: "一键安装", desc: "无需信任陌生开发者代码" }

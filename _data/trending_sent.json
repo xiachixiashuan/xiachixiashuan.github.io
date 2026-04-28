@@ -99,6 +99,11 @@
     "0x0funky/agent-sprite-forge",
     "NullLatency/FlowDriver",
     "chekusu/wanman",
-    "Tencent-Hunyuan/Hy3-preview"
+    "Tencent-Hunyuan/Hy3-preview",
+    "Russell-cell/PPT-Design-Prompt",
+    "wuyoscar/gpt_image_2_skill",
+    "epoko77-ai/im-not-ai",
+    "alash3al/stash",
+    "levelsio/superlevels"
   ]
 }

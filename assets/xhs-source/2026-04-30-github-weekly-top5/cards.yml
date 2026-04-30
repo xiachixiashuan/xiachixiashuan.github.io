@@ -1,0 +1,67 @@
+date: "2026-04-30"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-04-30"
+items:
+  - number: "01"
+    section_title: "开源 Claude Design 替代品"
+    section_en: "Open-Source Design Alternative"
+    section_emoji: "🎨"
+    repo: "nexu-io/open-design"
+    meta: "⭐ 4.3k · TypeScript · 本地优先 AI 设计平台"
+    bullets:
+      - { icon: "🖼️", title: "沙盒预览", desc: "实时查看设计效果，无需部署" }
+      - { icon: "📦", title: "多格式导出", desc: "支持 HTML / PDF / PPTX 一键导出" }
+      - { icon: "🤖", title: "多模型兼容", desc: "Claude Code / Cursor / Gemini 均可用" }
+      - { icon: "🏪", title: "设计系统丰富", desc: "内置 71 套品牌级设计系统资源" }
+  - number: "02"
+    section_title: "Cursor 官方实战案例库"
+    section_en: "Cursor Official Cookbook"
+    section_emoji: "📚"
+    repo: "cursor/cookbook"
+    meta: "⭐ 1.3k · TypeScript · AI 编码最佳实践"
+    bullets:
+      - { icon: "🍳", title: "官方出品", desc: "Cursor 官方维护，质量权威可信" }
+      - { icon: "🔁", title: "可复现示例", desc: "每个案例均可直接运行验证" }
+      - { icon: "📈", title: "效率提升", desc: "系统学习 AI IDE 工作流技巧" }
+      - { icon: "🧩", title: "场景覆盖广", desc: "前端 / 后端 / 全栈多种场景" }
+  - number: "03"
+    section_title: "PS5 运行 Linux 引导器"
+    section_en: "PS5 Linux Bootloader"
+    section_emoji: "🎮"
+    repo: "ps5-linux/ps5-linux-loader"
+    meta: "⭐ 516 · C · 主机底层研究与 Linux 移植"
+    bullets:
+      - { icon: "🔓", title: "漏洞引导", desc: "利用 HV 虚拟机监控漏洞加载系统" }
+      - { icon: "🐧", title: "完整 Linux", desc: "PS5 上运行完整 Linux 操作系统" }
+      - { icon: "🔬", title: "安全研究", desc: "为主机安全研究提供实验平台" }
+      - { icon: "🛠️", title: "自定义引导", desc: "定制化 bootloader 支持灵活扩展" }
+  - number: "04"
+    section_title: "图像优先 PPT 生成技能"
+    section_en: "Image-First PPT Skill"
+    section_emoji: "📊"
+    repo: "NyxTides/ppt-image-first"
+    meta: "⭐ 421 · Python · AI 驱动演示文稿生成"
+    bullets:
+      - { icon: "🖼️", title: "图像优先", desc: "以视觉内容为主体生成幻灯片" }
+      - { icon: "🤖", title: "多平台支持", desc: "兼容 Claude Code / Codex / Opencode" }
+      - { icon: "⚡", title: "一键生成", desc: "一条指令自动完成完整 PPT" }
+      - { icon: "🎨", title: "自动排版", desc: "告别纯文字，配图排版智能完成" }
+  - number: "05"
+    section_title: "Codex 驱动 Chrome 侧边栏"
+    section_en: "Codex-Powered Chrome Assistant"
+    section_emoji: "🌐"
+    repo: "GENEXIS-AI/chromex"
+    meta: "⭐ 406 · TypeScript · 浏览器 AI 工作流助手"
+    bullets:
+      - { icon: "📄", title: "页面感知", desc: "自动读取当前网页内容进行分析" }
+      - { icon: "🎙️", title: "语音输入", desc: "支持语音指令驱动浏览器操作" }
+      - { icon: "🖼️", title: "图片工作流", desc: "图像识别与处理一体化集成" }
+      - { icon: "📑", title: "标签管理", desc: "跨标签页上下文感知与智能管理" }

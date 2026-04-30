@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-04-28
+📈 GitHub 周榜 Top5 | 2026-04-30
 
-1. Russell-cell/PPT-Design-Prompt ⭐830
-   AI 幻灯片提示词合集，商务/学术/科技场景全覆盖
-   https://github.com/Russell-cell/PPT-Design-Prompt
+1. nexu-io/open-design ⭐4.3k
+   Claude Design 开源替代，本地优先，内置 71 套品牌级设计系统，兼容主流 AI 工具
+   https://github.com/nexu-io/open-design
 
-2. wuyoscar/gpt_image_2_skill ⭐817
-   GPT Image 2 提示词画廊 + CLI，可接入 Claude Code 等 AI 编辑器
-   https://github.com/wuyoscar/gpt_image_2_skill
+2. cursor/cookbook ⭐1.3k
+   Cursor AI 官方实战案例库，覆盖前后端全栈开发场景
+   https://github.com/cursor/cookbook
 
-3. epoko77-ai/im-not-ai ⭐514
-   让 AI 生成文字「去 AI 味」，绕过 AI 检测工具
-   https://github.com/epoko77-ai/im-not-ai
+3. ps5-linux/ps5-linux-loader ⭐516
+   利用 PS5 虚拟机监控漏洞，实现自定义引导并运行完整 Linux 系统
+   https://github.com/ps5-linux/ps5-linux-loader
 
-4. alash3al/stash ⭐422
-   Go 语言 AI Agent 持久记忆层，支持跨会话存储知识与上下文
-   https://github.com/alash3al/stash
+4. NyxTides/ppt-image-first ⭐421
+   图像优先 PPT 生成技能，专为 Claude Code / Codex / Opencode CLI 设计
+   https://github.com/NyxTides/ppt-image-first
 
-5. levelsio/superlevels ⭐420
-   levelsio 自用开源 Chrome 扩展集，代码全透明可审计
-   https://github.com/levelsio/superlevels
+5. GENEXIS-AI/chromex ⭐406
+   Codex 驱动的 Chrome 侧边栏 AI 助手，语音 + 页面感知 + 图片工作流
+   https://github.com/GENEXIS-AI/chromex
 
 👉 完整版已发布到博客

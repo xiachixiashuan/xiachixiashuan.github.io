@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-04-30
+📈 GitHub 周榜 Top5 | 2026-05-01
 
-1. nexu-io/open-design ⭐4.3k
-   Claude Design 开源替代，本地优先，内置 71 套品牌级设计系统，兼容主流 AI 工具
+1. nexu-io/open-design ⭐8.3k
+   本地优先 Claude Design 开源平替，71套品牌级设计系统
    https://github.com/nexu-io/open-design
 
-2. cursor/cookbook ⭐1.3k
-   Cursor AI 官方实战案例库，覆盖前后端全栈开发场景
+2. cursor/cookbook ⭐2.6k
+   Cursor 官方 AI 编程实践手册，最佳工作流全收录
    https://github.com/cursor/cookbook
 
-3. ps5-linux/ps5-linux-loader ⭐516
-   利用 PS5 虚拟机监控漏洞，实现自定义引导并运行完整 Linux 系统
-   https://github.com/ps5-linux/ps5-linux-loader
+3. freestylefly/awesome-gpt-image-2 ⭐2.6k
+   329个逆向案例+13套工业级提示词模板，GPT-Image-2必备
+   https://github.com/freestylefly/awesome-gpt-image-2
 
-4. NyxTides/ppt-image-first ⭐421
-   图像优先 PPT 生成技能，专为 Claude Code / Codex / Opencode CLI 设计
-   https://github.com/NyxTides/ppt-image-first
+4. willchen96/mike ⭐782
+   开源 AI 法律平台，合同解读全自动，完全可自部署
+   https://github.com/willchen96/mike
 
-5. GENEXIS-AI/chromex ⭐406
-   Codex 驱动的 Chrome 侧边栏 AI 助手，语音 + 页面感知 + 图片工作流
-   https://github.com/GENEXIS-AI/chromex
+5. deepseek-ai/awesome-deepseek-agent ⭐428
+   DeepSeek 官方维护智能体资源集，入坑首选
+   https://github.com/deepseek-ai/awesome-deepseek-agent
 
 👉 完整版已发布到博客

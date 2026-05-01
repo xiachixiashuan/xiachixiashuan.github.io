@@ -1,0 +1,71 @@
+date: "2026-05-01"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-05-01"
+items:
+  - number: "01"
+    section_title: "开源设计系统神器"
+    section_en: "Open-Source AI Design"
+    section_emoji: "🎨"
+    repo: "nexu-io/open-design"
+    meta: "⭐ 8.3k · TypeScript · Claude Design 开源平替"
+    bullets:
+      - { icon: "🎨", title: "本地优先", desc: "数据完全留在本地无需联网" }
+      - { icon: "🧩", title: "71套设计系统", desc: "品牌级模板开箱即用" }
+      - { icon: "📦", title: "多格式导出", desc: "支持 HTML/PDF/PPTX 三种格式" }
+      - { icon: "🤖", title: "多平台兼容", desc: "Claude/Codex/Cursor 全支持" }
+
+  - number: "02"
+    section_title: "Cursor官方实践手册"
+    section_en: "Cursor AI Cookbook"
+    section_emoji: "📖"
+    repo: "cursor/cookbook"
+    meta: "⭐ 2.6k · TypeScript · Cursor 官方示例集"
+    bullets:
+      - { icon: "📖", title: "官方维护", desc: "Cursor 团队亲自出品教程库" }
+      - { icon: "🛠️", title: "实战案例", desc: "覆盖常见开发场景代码示例" }
+      - { icon: "🧠", title: "最佳工作流", desc: "AI 辅助编程最优实践路径" }
+      - { icon: "🚀", title: "新手友好", desc: "快速上手降低学习门槛" }
+
+  - number: "03"
+    section_title: "GPT图像提示词库"
+    section_en: "GPT-Image-2 Prompt Engine"
+    section_emoji: "🖼️"
+    repo: "freestylefly/awesome-gpt-image-2"
+    meta: "⭐ 2.6k · 多语言 · 工业级提示词模板库"
+    bullets:
+      - { icon: "🖼️", title: "329个案例", desc: "逆向工程解析顶级图像提示词" }
+      - { icon: "🏭", title: "13套模板", desc: "工业级可复用提示词模板" }
+      - { icon: "🔍", title: "提示即代码", desc: "系统化管理图像生成指令" }
+      - { icon: "📚", title: "持续更新", desc: "社区贡献模板不断扩充" }
+
+  - number: "04"
+    section_title: "AI法律援助平台"
+    section_en: "OSS AI Legal Platform"
+    section_emoji: "⚖️"
+    repo: "willchen96/mike"
+    meta: "⭐ 782 · TypeScript · 开源 AI 法律服务平台"
+    bullets:
+      - { icon: "⚖️", title: "合同解读", desc: "自动分析合同及法律文件" }
+      - { icon: "🔓", title: "完全开源", desc: "代码透明可审计可自部署" }
+      - { icon: "🌏", title: "普惠法律", desc: "降低法律服务获取门槛" }
+      - { icon: "🏢", title: "企业可用", desc: "适合律所与合规团队接入" }
+
+  - number: "05"
+    section_title: "DeepSeek精选合集"
+    section_en: "DeepSeek Agent Resources"
+    section_emoji: "🤖"
+    repo: "deepseek-ai/awesome-deepseek-agent"
+    meta: "⭐ 428 · 官方维护 · DeepSeek 智能体资源集"
+    bullets:
+      - { icon: "🤖", title: "官方背书", desc: "DeepSeek 官方亲自维护列表" }
+      - { icon: "🔗", title: "生态聚合", desc: "汇聚优质 Agent 框架与工具" }
+      - { icon: "💡", title: "入门首选", desc: "快速了解 DeepSeek 智能体生态" }
+      - { icon: "📈", title: "持续扩充", desc: "社区贡献优质项目不断增加" }

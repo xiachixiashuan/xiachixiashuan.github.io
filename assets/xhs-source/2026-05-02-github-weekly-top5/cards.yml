@@ -1,0 +1,71 @@
+date: "2026-05-02"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-05-02"
+items:
+  - number: "01"
+    section_title: "工程师专属技能包"
+    section_en: "Claude Skills for Engineers"
+    section_emoji: "🛠️"
+    repo: "mattpocock/skills"
+    meta: "⭐ 33.6k · Shell · Claude 工作流即插即用"
+    bullets:
+      - { icon: "🧠", title: "实战技能集合", desc: "源自作者真实 .claude 目录，开箱即用" }
+      - { icon: "⚡", title: "零配置接入", desc: "无需复杂设置，直接增强 Claude Code 能力" }
+      - { icon: "📦", title: "覆盖全流程", desc: "代码审查、重构、文档生成一站搞定" }
+      - { icon: "🚀", title: "本周增速最快", desc: "7 天内冲上 33k star，GitHub 周榜第一" }
+
+  - number: "02"
+    section_title: "免费用 Claude Code"
+    section_en: "Free Claude Code in Terminal"
+    section_emoji: "💡"
+    repo: "Alishahryar1/free-claude-code"
+    meta: "⭐ 12.9k · Python · 支持语音 · 无需订阅"
+    bullets:
+      - { icon: "🖥️", title: "多端支持", desc: "终端、VS Code 插件、Discord 均可使用" }
+      - { icon: "🎙️", title: "语音输入", desc: "支持语音交互，对标 OpenClaw 体验" }
+      - { icon: "🆓", title: "无需付费", desc: "通过代理层绕过订阅限制，完全免费" }
+      - { icon: "🔥", title: "社区爆火", desc: "一周近 13k star，开发者圈广泛讨论" }
+
+  - number: "03"
+    section_title: "黑客工具全家桶"
+    section_en: "All-in-One Hacking Toolkit"
+    section_emoji: "🔐"
+    repo: "Z4nzu/hackingtool"
+    meta: "⭐ 7.9k · Python · 70+ 安全工具集合"
+    bullets:
+      - { icon: "🕵️", title: "信息收集", desc: "覆盖侦察、扫描、枚举全流程工具" }
+      - { icon: "🔑", title: "密码破解", desc: "集成主流密码爆破与哈希恢复工具" }
+      - { icon: "📡", title: "无线攻击", desc: "支持 WiFi 渗透与无线安全测试" }
+      - { icon: "🗂️", title: "菜单式操作", desc: "一键安装，界面清晰，降低学习门槛" }
+
+  - number: "04"
+    section_title: "多智能体量化交易"
+    section_en: "Multi-Agent LLM Trading Framework"
+    section_emoji: "📈"
+    repo: "TauricResearch/TradingAgents"
+    meta: "⭐ 6.2k · Python · AI+金融 本周焦点"
+    bullets:
+      - { icon: "🤖", title: "多 Agent 协作", desc: "分析、风控、执行由不同 AI 分工完成" }
+      - { icon: "🧮", title: "接入主流模型", desc: "兼容 GPT、Claude 等大模型即插即用" }
+      - { icon: "📊", title: "量化策略灵活", desc: "可扩展框架，支持自定义策略模块" }
+      - { icon: "💰", title: "AI 金融新热点", desc: "本周 AI+金融 赛道最受关注开源项目" }
+
+  - number: "05"
+    section_title: "零服务器代码智能"
+    section_en: "Zero-Server Code Intelligence"
+    section_emoji: "🕸️"
+    repo: "abhigyanpatwari/GitNexus"
+    meta: "⭐ 5.4k · TypeScript · 纯前端知识图谱"
+    bullets:
+      - { icon: "🗺️", title: "仓库知识图谱", desc: "客户端构建代码依赖与语义关系图" }
+      - { icon: "🔍", title: "语义代码搜索", desc: "超越关键词，理解代码含义精准检索" }
+      - { icon: "🌐", title: "无需后端部署", desc: "纯前端运行，零服务器成本即刻体验" }
+      - { icon: "⚡", title: "快速上手", desc: "TypeScript 实现，开发者友好易扩展" }

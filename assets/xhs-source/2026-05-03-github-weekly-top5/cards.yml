@@ -1,0 +1,71 @@
+date: "2026-05-03"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-05-03"
+items:
+  - number: "01"
+    section_title: "USB-C 线功能一眼看穿"
+    section_en: "WhatCable for macOS"
+    section_emoji: "🔌"
+    repo: "darrylmorley/whatcable"
+    meta: "⭐ 1.3k · Swift · macOS 菜单栏小工具"
+    bullets:
+      - { icon: "🍎", title: "苹果芯片支持", desc: "基于 IOKit 读取硬件信息原生适配" }
+      - { icon: "⚡", title: "充电功率显示", desc: "一眼看出这根线支持多少瓦快充" }
+      - { icon: "📺", title: "视频输出检测", desc: "确认线缆是否支持外接显示器" }
+      - { icon: "🛠️", title: "SwiftUI 原生界面", desc: "轻量干净无广告无订阅费" }
+
+  - number: "02"
+    section_title: "Codex 桌面扩展神器"
+    section_en: "Codex++ Tweak System"
+    section_emoji: "⚙️"
+    repo: "b-nnett/codex-plusplus"
+    meta: "⭐ 836 · TypeScript · Codex 客户端扩展"
+    bullets:
+      - { icon: "🧩", title: "tweak 注入机制", desc: "无需修改官方客户端即可扩展功能" }
+      - { icon: "🎛️", title: "自定义配置", desc: "突破默认限制按需定制行为" }
+      - { icon: "💻", title: "TypeScript 构建", desc: "代码结构清晰易于二次开发" }
+      - { icon: "🚀", title: "重度用户必备", desc: "高级玩法解锁 Codex 全部潜力" }
+
+  - number: "03"
+    section_title: "多数据库统一客户端"
+    section_en: "dbx Database Client"
+    section_emoji: "🗄️"
+    repo: "t8y2/dbx"
+    meta: "⭐ 712 · Vue + Rust · 跨平台数据库 GUI"
+    bullets:
+      - { icon: "🌐", title: "十种数据库", desc: "MySQL/Redis/Mongo/DuckDB 等一网打尽" }
+      - { icon: "🦀", title: "Tauri 底层", desc: "Rust 驱动启动快资源占用极低" }
+      - { icon: "🖥️", title: "跨平台运行", desc: "Windows/macOS/Linux 全支持" }
+      - { icon: "🧪", title: "开发者日常首选", desc: "比臃肿企业工具更轻更快" }
+
+  - number: "04"
+    section_title: "AI 编程术语词典"
+    section_en: "Dictionary of AI Coding"
+    section_emoji: "📖"
+    repo: "mattpocock/dictionary-of-ai-coding"
+    meta: "⭐ 677 · TypeScript · AI 编程参考手册"
+    bullets:
+      - { icon: "🧠", title: "大白话解释", desc: "vibe coding / agentic loop 全收录" }
+      - { icon: "📚", title: "词条场景丰富", desc: "每条术语附清晰定义和使用场景" }
+      - { icon: "🎯", title: "快速入门 AI 开发", desc: "帮助工程师跟上范式转变节奏" }
+      - { icon: "✍️", title: "Matt Pocock 出品", desc: "TypeScript 社区知名教程博主背书" }
+
+  - number: "05"
+    section_title: "软著材料一键生成"
+    section_en: "SoftwareCopyright Skill"
+    section_emoji: "📝"
+    repo: "Fokkyp/SoftwareCopyright-Skill"
+    meta: "⭐ 636 · Python · 软著申请自动化工具"
+    bullets:
+      - { icon: "🇨🇳", title: "中国开发者专属", desc: "符合国家版权局格式要求全套材料" }
+      - { icon: "📄", title: "自动生成 docx", desc: "读取本地代码自动产出申请文档" }
+      - { icon: "💰", title: "完全免费开源", desc: "无需付费中介省下几百元服务费" }
+      - { icon: "⚡", title: "一键全套搞定", desc: "代码清单操作说明书一次性生成" }

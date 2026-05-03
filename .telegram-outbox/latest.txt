@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-05-02
+📈 GitHub 周榜 Top5 | 2026-05-03
 
-1. mattpocock/skills ⭐33.6k
-   工程师专属 Claude 技能包，源自作者 .claude 目录，开箱即用
-   https://github.com/mattpocock/skills
+1. darrylmorley/whatcable ⭐1.3k
+   macOS 菜单栏工具，插上 USB-C 线立即告诉你能做什么
+   https://github.com/darrylmorley/whatcable
 
-2. Alishahryar1/free-claude-code ⭐12.9k
-   免费在终端/VS Code/Discord 使用 Claude Code，支持语音输入
-   https://github.com/Alishahryar1/free-claude-code
+2. b-nnett/codex-plusplus ⭐836
+   Codex 桌面应用的 tweak 扩展系统，解锁高级自定义能力
+   https://github.com/b-nnett/codex-plusplus
 
-3. Z4nzu/hackingtool ⭐7.9k
-   70+ 安全工具一键集合，菜单驱动界面，降低渗透测试学习门槛
-   https://github.com/Z4nzu/hackingtool
+3. t8y2/dbx ⭐712
+   轻量跨平台数据库客户端，支持 MySQL/PostgreSQL/Redis/MongoDB 等十余种
+   https://github.com/t8y2/dbx
 
-4. TauricResearch/TradingAgents ⭐6.2k
-   多 Agent LLM 量化交易框架，AI 负责分析、风控与策略执行
-   https://github.com/TauricResearch/TradingAgents
+4. mattpocock/dictionary-of-ai-coding ⭐677
+   AI 编程行话大白话词典，vibe coding / agentic loop 全收录
+   https://github.com/mattpocock/dictionary-of-ai-coding
 
-5. abhigyanpatwari/GitNexus ⭐5.4k
-   零服务器代码智能引擎，纯前端构建仓库知识图谱，语义搜索
-   https://github.com/abhigyanpatwari/GitNexus
+5. Fokkyp/SoftwareCopyright-Skill ⭐636
+   中国软著申请材料自动生成器，读取项目代码输出全套 docx，完全免费
+   https://github.com/Fokkyp/SoftwareCopyright-Skill
 
 👉 完整版已发布到博客

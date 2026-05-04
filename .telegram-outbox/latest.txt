@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-05-03
+📈 GitHub 周榜 Top5 | 2026-05-04
 
-1. darrylmorley/whatcable ⭐1.3k
-   macOS 菜单栏工具，插上 USB-C 线立即告诉你能做什么
-   https://github.com/darrylmorley/whatcable
+1. wrongly-cuddly-obsession/NTSB_FOIA_MU5735 ⭐808
+   FOIA申请获得的MU5735空难NTSB全套调查文件，航空安全数据透明化存档
+   https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735
 
-2. b-nnett/codex-plusplus ⭐836
-   Codex 桌面应用的 tweak 扩展系统，解锁高级自定义能力
-   https://github.com/b-nnett/codex-plusplus
+2. EvanBacon/serve-sim ⭐553
+   Apple模拟器的npx serve，一行命令启动iOS模拟器，零配置极速开发
+   https://github.com/EvanBacon/serve-sim
 
-3. t8y2/dbx ⭐712
-   轻量跨平台数据库客户端，支持 MySQL/PostgreSQL/Redis/MongoDB 等十余种
-   https://github.com/t8y2/dbx
+3. vibeforge1111/keep-codex-fast ⭐514
+   Codex CLI专属技能，自动备份+缓存清理，保持本地Codex始终高速响应
+   https://github.com/vibeforge1111/keep-codex-fast
 
-4. mattpocock/dictionary-of-ai-coding ⭐677
-   AI 编程行话大白话词典，vibe coding / agentic loop 全收录
-   https://github.com/mattpocock/dictionary-of-ai-coding
+4. noonghunna/club-3090 ⭐445
+   RTX 3090跑LLM社区配方集，支持vLLM/llama.cpp/SGLang，Shell脚本开箱即用
+   https://github.com/noonghunna/club-3090
 
-5. Fokkyp/SoftwareCopyright-Skill ⭐636
-   中国软著申请材料自动生成器，读取项目代码输出全套 docx，完全免费
-   https://github.com/Fokkyp/SoftwareCopyright-Skill
+5. Cuimao777/cuimao-translator ⭐332
+   一键将英文PDF翻译为流畅中文的Claude Code技能，学术论文技术文档均适用
+   https://github.com/Cuimao777/cuimao-translator
 
 👉 完整版已发布到博客

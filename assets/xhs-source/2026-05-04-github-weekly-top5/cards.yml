@@ -1,0 +1,71 @@
+date: "2026-05-04"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-05-04"
+items:
+  - number: "01"
+    section_title: "飞行安全FOIA数据集"
+    section_en: "Aviation Safety FOIA"
+    section_emoji: "✈️"
+    repo: "wrongly-cuddly-obsession/NTSB_FOIA_MU5735"
+    meta: "⭐ 808 · 文档 · MU5735事故调查原始档案"
+    bullets:
+      - { icon: "🔍", title: "信息公开", desc: "FOIA申请获得的NTSB全套调查文件" }
+      - { icon: "📊", title: "原始数据", desc: "官方报告与证据材料完整存档" }
+      - { icon: "📂", title: "可检索归档", desc: "方便研究人员与公众自由访问" }
+      - { icon: "🌐", title: "透明化意义", desc: "推动航空安全数据向社会开放" }
+
+  - number: "02"
+    section_title: "苹果模拟器一键启动"
+    section_en: "Apple Simulator Serve"
+    section_emoji: "📱"
+    repo: "EvanBacon/serve-sim"
+    meta: "⭐ 553 · TypeScript · Expo核心开发者出品"
+    bullets:
+      - { icon: "⚡", title: "极速启动", desc: "一行命令启动iOS模拟器服务" }
+      - { icon: "🛠️", title: "零配置", desc: "无需繁琐Xcode环境预配置" }
+      - { icon: "🔄", title: "开发提效", desc: "媲美Web开发的即时反馈体验" }
+      - { icon: "🧩", title: "RN/Expo友好", desc: "专为React Native生态优化" }
+
+  - number: "03"
+    section_title: "Codex本地状态加速"
+    section_en: "Keep Codex Fast"
+    section_emoji: "🚀"
+    repo: "vibeforge1111/keep-codex-fast"
+    meta: "⭐ 514 · Python · Codex CLI专属技能"
+    bullets:
+      - { icon: "💾", title: "备份优先", desc: "自动备份防止本地状态意外丢失" }
+      - { icon: "🧹", title: "自动清理", desc: "定期清除冗余缓存保持高速响应" }
+      - { icon: "🔧", title: "无缝集成", desc: "直接融入现有Codex工作流使用" }
+      - { icon: "📈", title: "性能保障", desc: "长期稳定维持Codex运行速度" }
+
+  - number: "04"
+    section_title: "RTX3090跑大模型"
+    section_en: "LLM on RTX 3090"
+    section_emoji: "🎮"
+    repo: "noonghunna/club-3090"
+    meta: "⭐ 445 · Shell · 消费级GPU部署LLM社区"
+    bullets:
+      - { icon: "🤖", title: "多引擎支持", desc: "vLLM/llama.cpp/SGLang全覆盖" }
+      - { icon: "📖", title: "社区配方", desc: "经验证的RTX3090最优配置合集" }
+      - { icon: "💡", title: "开箱即用", desc: "Shell脚本直接运行无需折腾" }
+      - { icon: "👥", title: "社区共建", desc: "持续收录社区实战部署经验" }
+
+  - number: "05"
+    section_title: "英文PDF秒译中文"
+    section_en: "PDF to Chinese Translator"
+    section_emoji: "📄"
+    repo: "Cuimao777/cuimao-translator"
+    meta: "⭐ 332 · Claude Code Skill · 中文优化翻译"
+    bullets:
+      - { icon: "⚡", title: "一键翻译", desc: "英文PDF无需配置直接生成中文" }
+      - { icon: "🧠", title: "语义级别", desc: "Claude驱动超越逐字机器翻译" }
+      - { icon: "🇨🇳", title: "中文地道", desc: "输出符合中文阅读习惯的译文" }
+      - { icon: "📚", title: "学术适配", desc: "技术文档与学术论文翻译友好" }

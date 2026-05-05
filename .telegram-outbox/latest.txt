@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-05-04
+📈 GitHub 周榜 Top5 | 2026-05-05
 
-1. wrongly-cuddly-obsession/NTSB_FOIA_MU5735 ⭐808
-   FOIA申请获得的MU5735空难NTSB全套调查文件，航空安全数据透明化存档
-   https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735
+1. theori-io/copy-fail-CVE-2026-31431 ⭐3.2k
+   AI发现的9年老Linux内核提权漏洞，附完整PoC脚本与技术报告
+   https://github.com/theori-io/copy-fail-CVE-2026-31431
 
-2. EvanBacon/serve-sim ⭐553
-   Apple模拟器的npx serve，一行命令启动iOS模拟器，零配置极速开发
-   https://github.com/EvanBacon/serve-sim
+2. aattaran/deepclaude ⭐1.0k
+   Claude Code接入DeepSeek推理，用廉价模型规划+Claude执行降低成本
+   https://github.com/aattaran/deepclaude
 
-3. vibeforge1111/keep-codex-fast ⭐514
-   Codex CLI专属技能，自动备份+缓存清理，保持本地Codex始终高速响应
-   https://github.com/vibeforge1111/keep-codex-fast
+3. Tommy-yw/RunbookHermes ⭐503
+   Hermes框架AIOps事故响应Agent，自动诊断根因并附人工审批机制
+   https://github.com/Tommy-yw/RunbookHermes
 
-4. noonghunna/club-3090 ⭐445
-   RTX 3090跑LLM社区配方集，支持vLLM/llama.cpp/SGLang，Shell脚本开箱即用
-   https://github.com/noonghunna/club-3090
+4. tddworks/baguette ⭐451
+   无头iOS 26模拟器农场管理工具，API批量控制多设备告别Xcode
+   https://github.com/tddworks/baguette
 
-5. Cuimao777/cuimao-translator ⭐332
-   一键将英文PDF翻译为流畅中文的Claude Code技能，学术论文技术文档均适用
-   https://github.com/Cuimao777/cuimao-translator
+5. techjarves/OpenClaude-Portable ⭐356
+   把Claude Code装进U盘，任意PC插入即用无需安装Node.js环境
+   https://github.com/techjarves/OpenClaude-Portable
 
 👉 完整版已发布到博客

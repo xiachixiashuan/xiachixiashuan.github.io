@@ -1,0 +1,71 @@
+date: "2026-05-05"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-05-05"
+items:
+  - number: "01"
+    section_title: "Linux内核9年老漏洞"
+    section_en: "Linux Kernel LPE CVE-2026-31431"
+    section_emoji: "🔓"
+    repo: "theori-io/copy-fail-CVE-2026-31431"
+    meta: "⭐ 3.2k · Python · AI发现的内核提权漏洞"
+    bullets:
+      - { icon: "🧠", title: "AI辅助挖掘", desc: "Xint Code自动化分析发现9年老漏洞" }
+      - { icon: "⚠️", title: "真实威胁", desc: "无需root即可在主流Linux发行版提权" }
+      - { icon: "📄", title: "完整PoC", desc: "附技术报告与Python利用脚本可复现" }
+      - { icon: "🛡️", title: "安全研究", desc: "已提交官方补丁供防御方参考修复" }
+
+  - number: "02"
+    section_title: "Claude接DeepSeek推理"
+    section_en: "DeepClaude Hybrid Agent"
+    section_emoji: "🤖"
+    repo: "aattaran/deepclaude"
+    meta: "⭐ 1.0k · JavaScript · DeepSeek推理+Claude执行"
+    bullets:
+      - { icon: "🧩", title: "双模型协作", desc: "DeepSeek规划+Claude工具执行降本提效" }
+      - { icon: "💰", title: "成本可控", desc: "推理阶段替换为廉价模型大幅降低费用" }
+      - { icon: "🔌", title: "OpenRouter兼容", desc: "支持任意OpenRouter兼容的推理模型" }
+      - { icon: "⚡", title: "零侵入接入", desc: "复用Claude Code原生Agent循环无缝切换" }
+
+  - number: "03"
+    section_title: "AI驱动故障响应"
+    section_en: "AIOps Incident Agent"
+    section_emoji: "🚨"
+    repo: "Tommy-yw/RunbookHermes"
+    meta: "⭐ 503 · Python · 证据驱动的AIOps代理"
+    bullets:
+      - { icon: "🔍", title: "自动诊断", desc: "自动采集日志指标链路追踪推断根因" }
+      - { icon: "✅", title: "人工审批", desc: "高风险操作需确认兼顾效率与安全" }
+      - { icon: "📋", title: "Runbook自动化", desc: "基于Hermes框架快速定制响应流程" }
+      - { icon: "🏭", title: "生产就绪", desc: "SRE团队可直接落地的事故处理助手" }
+
+  - number: "04"
+    section_title: "无头iOS模拟器农场"
+    section_en: "Headless iOS Simulator Farm"
+    section_emoji: "📱"
+    repo: "tddworks/baguette"
+    meta: "⭐ 451 · Swift · iOS 26模拟器批量管理"
+    bullets:
+      - { icon: "🏗️", title: "农场调度", desc: "API批量控制多台模拟器并行运行测试" }
+      - { icon: "👆", title: "手势注入", desc: "宿主机侧模拟点击滑动键盘输入操作" }
+      - { icon: "🚫", title: "无需Xcode", desc: "完全摆脱Xcode GUI依赖命令行驱动" }
+      - { icon: "🔄", title: "CI友好", desc: "专为持续集成流水线UI测试优化设计" }
+
+  - number: "05"
+    section_title: "U盘随身Claude Code"
+    section_en: "Portable Claude Code on USB"
+    section_emoji: "💾"
+    repo: "techjarves/OpenClaude-Portable"
+    meta: "⭐ 356 · HTML · 免安装即插即用版Claude Code"
+    bullets:
+      - { icon: "🔌", title: "插入即用", desc: "U盘携带Claude Code任意PC免安装运行" }
+      - { icon: "📦", title: "运行时内置", desc: "内置Node.js运行时无需预装开发环境" }
+      - { icon: "🏫", title: "受限环境适用", desc: "办公室学校等禁止安装软件场景可用" }
+      - { icon: "🖱️", title: "一键启动", desc: "启动脚本自动配置环境变量零折腾" }

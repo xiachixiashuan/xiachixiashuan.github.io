@@ -131,6 +131,11 @@
     "aattaran/deepclaude",
     "Tommy-yw/RunbookHermes",
     "tddworks/baguette",
-    "techjarves/OpenClaude-Portable"
+    "techjarves/OpenClaude-Portable",
+    "vercel-labs/deepsec",
+    "raiyanyahya/how-to-train-your-gpt",
+    "crafter-station/petdex",
+    "matthart1983/syswatch",
+    "simchowitzlabpublic/nano-world-model"
   ]
 }

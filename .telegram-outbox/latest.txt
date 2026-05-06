@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-05-05
+📈 GitHub 周榜 Top5 | 2026-05-06
 
-1. theori-io/copy-fail-CVE-2026-31431 ⭐3.2k
-   AI发现的9年老Linux内核提权漏洞，附完整PoC脚本与技术报告
-   https://github.com/theori-io/copy-fail-CVE-2026-31431
+1. vercel-labs/deepsec ⭐1.1k
+   AI 编程 Agent 驱动的代码安全漏洞扫描框架，零规则配置，接入 CI/CD 实现安全左移
+   https://github.com/vercel-labs/deepsec
 
-2. aattaran/deepclaude ⭐1.0k
-   Claude Code接入DeepSeek推理，用廉价模型规划+Claude执行降低成本
-   https://github.com/aattaran/deepclaude
+2. raiyanyahya/how-to-train-your-gpt ⭐445
+   从零构建现代 LLM 的教学项目，每行代码都有注释，Jupyter Notebook 交互式学习
+   https://github.com/raiyanyahya/how-to-train-your-gpt
 
-3. Tommy-yw/RunbookHermes ⭐503
-   Hermes框架AIOps事故响应Agent，自动诊断根因并附人工审批机制
-   https://github.com/Tommy-yw/RunbookHermes
+3. crafter-station/petdex ⭐369
+   Codex 宠物社区公开画廊，收录动态像素宠物，开发者文化社区项目
+   https://github.com/crafter-station/petdex
 
-4. tddworks/baguette ⭐451
-   无头iOS 26模拟器农场管理工具，API批量控制多设备告别Xcode
-   https://github.com/tddworks/baguette
+4. matthart1983/syswatch ⭐358
+   Rust 构建的单主机系统诊断 TUI，十二标签页覆盖 CPU/内存/磁盘/网络，平实英语洞察
+   https://github.com/matthart1983/syswatch
 
-5. techjarves/OpenClaude-Portable ⭐356
-   把Claude Code装进U盘，任意PC插入即用无需安装Node.js环境
-   https://github.com/techjarves/OpenClaude-Portable
+5. simchowitzlabpublic/nano-world-model ⭐353
+   极简开箱即用的世界模型研究框架，自带完整训练与评测管线，专为 AI 科研设计
+   https://github.com/simchowitzlabpublic/nano-world-model
 
 👉 完整版已发布到博客

@@ -1,0 +1,71 @@
+date: "2026-05-06"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-05-06"
+items:
+  - number: "01"
+    section_title: "AI驱动代码安全扫描"
+    section_en: "AI-powered Security Harness"
+    section_emoji: "🔐"
+    repo: "vercel-labs/deepsec"
+    meta: "⭐ 1.1k · TypeScript · AI 编程 Agent 驱动的漏洞扫描框架"
+    bullets:
+      - { icon: "🤖", title: "Agent 自动扫描", desc: "用 AI 编程 Agent 主动探测代码库漏洞" }
+      - { icon: "📋", title: "结构化报告", desc: "输出可操作的漏洞报告，无需手动分析" }
+      - { icon: "🔗", title: "CI/CD 集成", desc: "无缝接入流水线，实现安全左移" }
+      - { icon: "⚡", title: "零规则配置", desc: "无需手写测试规则，开箱即用" }
+
+  - number: "02"
+    section_title: "从零构建大语言模型"
+    section_en: "Build LLM from Scratch"
+    section_emoji: "🧠"
+    repo: "raiyanyahya/how-to-train-your-gpt"
+    meta: "⭐ 445 · Jupyter Notebook · 每行注释的 LLM 实战教程"
+    bullets:
+      - { icon: "📖", title: "逐行注释讲解", desc: "每行代码都有解释，适合零基础入门" }
+      - { icon: "🏗️", title: "完整训练流程", desc: "覆盖预训练、微调全流程" }
+      - { icon: "🔬", title: "注意力机制", desc: "深入剖析 Transformer 核心架构" }
+      - { icon: "▶️", title: "可交互 Notebook", desc: "边看边跑，即时验证学习效果" }
+
+  - number: "03"
+    section_title: "Codex 宠物社区图鉴"
+    section_en: "Codex Pet Gallery"
+    section_emoji: "🐾"
+    repo: "crafter-station/petdex"
+    meta: "⭐ 369 · TypeScript · 社区共建的动态像素宠物展示台"
+    bullets:
+      - { icon: "🎮", title: "像素宠物展示", desc: "收录社区各种动态 Codex 宠物形象" }
+      - { icon: "🌐", title: "公开画廊", desc: "开发者分享发现专属虚拟伴侣" }
+      - { icon: "🤝", title: "社区共建", desc: "任何人均可提交自己的宠物设计" }
+      - { icon: "✨", title: "个性文化", desc: "让开发工具拥有更多趣味与个性" }
+
+  - number: "04"
+    section_title: "Rust 系统诊断终端工具"
+    section_en: "System Diagnostics TUI"
+    section_emoji: "🖥️"
+    repo: "matthart1983/syswatch"
+    meta: "⭐ 358 · Rust · 十二标签页单主机系统诊断工具"
+    bullets:
+      - { icon: "📊", title: "十二维度视图", desc: "CPU 内存磁盘网络进程全覆盖" }
+      - { icon: "🦀", title: "Rust 高性能", desc: "轻量快速，资源占用极低" }
+      - { icon: "💬", title: "平实英语洞察", desc: "无需专业背景也能看懂诊断结果" }
+      - { icon: "📡", title: "会话级记录", desc: "支持会话内历史数据持久查看" }
+
+  - number: "05"
+    section_title: "极简世界模型研究框架"
+    section_en: "Minimalist World Model Repo"
+    section_emoji: "🌍"
+    repo: "simchowitzlabpublic/nano-world-model"
+    meta: "⭐ 353 · Python · 开箱即用的世界模型科学研究仓库"
+    bullets:
+      - { icon: "🔋", title: "自带电池", desc: "开箱即用，无需繁琐工程配置" }
+      - { icon: "🔬", title: "研究向设计", desc: "聚焦算法创新而非基础工程搭建" }
+      - { icon: "⚖️", title: "方案对比", desc: "快速复现并横向对比多种世界模型" }
+      - { icon: "🧪", title: "完整管线", desc: "提供训练与评测全流程支持" }

@@ -1,0 +1,71 @@
+date: "2026-05-07"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-05-07"
+items:
+  - number: "01"
+    section_title: "AI 内容自动化作弊码"
+    section_en: "AI Content Automation"
+    section_emoji: "🚀"
+    repo: "XBuilderLAB/cheat-on-content"
+    meta: "⭐ 775 · Python · Claude Code 内容增长工作流"
+    bullets:
+      - { icon: "🧠", title: "账号专属学习", desc: "学你的账号数据而非全局均值" }
+      - { icon: "🔄", title: "策略自动迭代", desc: "内容策略持续进化不需手动调优" }
+      - { icon: "📈", title: "增长效果显著", desc: "1 个月涨粉 100 万的实战案例" }
+      - { icon: "🛠️", title: "Claude Code 驱动", desc: "以 AI agent 跑通内容运营闭环" }
+
+  - number: "02"
+    section_title: "汽车安全 Claude 技能包"
+    section_en: "Automotive Safety Skills"
+    section_emoji: "🚗"
+    repo: "jherrodthomas/automotive-skills-suite"
+    meta: "⭐ 729 · 汽车工程 · 100+ 标准对齐技能"
+    bullets:
+      - { icon: "🛡️", title: "功能安全覆盖", desc: "ISO 26262 / SOTIF / 21434 全覆盖" }
+      - { icon: "🔍", title: "双人审查设计", desc: "每技能均配构建者与审查者" }
+      - { icon: "📋", title: "质量标准支持", desc: "APQP PPAP FMEA 合规自动化" }
+      - { icon: "⚙️", title: "ASPICE 整合", desc: "Automotive SPICE 流程一键辅助" }
+
+  - number: "03"
+    section_title: "机器人工程 Claude 技能"
+    section_en: "Robotics Skills Suite"
+    section_emoji: "🤖"
+    repo: "jherrodthomas/robotics-skills-suite"
+    meta: "⭐ 514 · 工业机器人 · 76 个审计级技能"
+    bullets:
+      - { icon: "🦾", title: "覆盖全机器人类型", desc: "工业臂 协作臂 AMR 全兼容" }
+      - { icon: "🌐", title: "ROS2 深度整合", desc: "支持 ROS2 Nav2 URDF 工作流" }
+      - { icon: "🔐", title: "OT 网络安全", desc: "IEC 62443 安全生命周期对齐" }
+      - { icon: "✅", title: "ISO 标准锚定", desc: "ISO 10218 13849 62061 全支持" }
+
+  - number: "04"
+    section_title: "技术书 PDF 变 Claude 技能"
+    section_en: "Book to Skill"
+    section_emoji: "📚"
+    repo: "virgiliojr94/book-to-skill"
+    meta: "⭐ 418 · Python · 一键把书变成 AI 技能"
+    bullets:
+      - { icon: "📄", title: "PDF 一键解析", desc: "任意技术书 PDF 直接输入即可" }
+      - { icon: "🧩", title: "技能即装即用", desc: "生成可调用的 Claude Code 技能" }
+      - { icon: "💡", title: "边工作边查书", desc: "编码时随时调用书中知识点" }
+      - { icon: "🎓", title: "降低学习门槛", desc: "新框架新标准快速上手利器" }
+
+  - number: "05"
+    section_title: "Roblox 客户端定制利器"
+    section_en: "Voidstrap"
+    section_emoji: "🎮"
+    repo: "NamKhoa-07/Voidstrap"
+    meta: "⭐ 483 · C# · Bloxstrap 高级定制分支"
+    bullets:
+      - { icon: "🔧", title: "深度自定义", desc: "Roblox 客户端更多自定义选项" }
+      - { icon: "⚡", title: "性能改进", desc: "在原版基础上优化稳定性" }
+      - { icon: "🌍", title: "社区驱动", desc: "玩家社区主导的开源定制项目" }
+      - { icon: "🆓", title: "完全开源", desc: "MIT 精神共建共享无需付费" }

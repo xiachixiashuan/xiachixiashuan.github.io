@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-05-06
+📈 GitHub 周榜 Top5 | 2026-05-07
 
-1. vercel-labs/deepsec ⭐1.1k
-   AI 编程 Agent 驱动的代码安全漏洞扫描框架，零规则配置，接入 CI/CD 实现安全左移
-   https://github.com/vercel-labs/deepsec
+1. XBuilderLAB/cheat-on-content ⭐775
+   Claude Code 驱动的 AI 内容自动化工作流，学你账号数据，1 个月涨粉 100 万
+   https://github.com/XBuilderLAB/cheat-on-content
 
-2. raiyanyahya/how-to-train-your-gpt ⭐445
-   从零构建现代 LLM 的教学项目，每行代码都有注释，Jupyter Notebook 交互式学习
-   https://github.com/raiyanyahya/how-to-train-your-gpt
+2. jherrodthomas/automotive-skills-suite ⭐729
+   100+ Claude 技能覆盖 ISO 26262 / SOTIF / 21434 等汽车功能安全标准
+   https://github.com/jherrodthomas/automotive-skills-suite
 
-3. crafter-station/petdex ⭐369
-   Codex 宠物社区公开画廊，收录动态像素宠物，开发者文化社区项目
-   https://github.com/crafter-station/petdex
+3. jherrodthomas/robotics-skills-suite ⭐514
+   76 个审计级 Claude 技能，工业机器人 ROS2 IEC 62443 全支持
+   https://github.com/jherrodthomas/robotics-skills-suite
 
-4. matthart1983/syswatch ⭐358
-   Rust 构建的单主机系统诊断 TUI，十二标签页覆盖 CPU/内存/磁盘/网络，平实英语洞察
-   https://github.com/matthart1983/syswatch
+4. NamKhoa-07/Voidstrap ⭐483
+   Bloxstrap 高级定制分支，Roblox 客户端深度自定义利器
+   https://github.com/NamKhoa-07/Voidstrap
 
-5. simchowitzlabpublic/nano-world-model ⭐353
-   极简开箱即用的世界模型研究框架，自带完整训练与评测管线，专为 AI 科研设计
-   https://github.com/simchowitzlabpublic/nano-world-model
+5. virgiliojr94/book-to-skill ⭐418
+   把任意技术书 PDF 一键变成 Claude Code 技能，边写代码边查书
+   https://github.com/virgiliojr94/book-to-skill
 
 👉 完整版已发布到博客

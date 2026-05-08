@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-05-07
+📈 GitHub 周榜 Top5 | 2026-05-08
 
-1. XBuilderLAB/cheat-on-content ⭐775
-   Claude Code 驱动的 AI 内容自动化工作流，学你账号数据，1 个月涨粉 100 万
-   https://github.com/XBuilderLAB/cheat-on-content
+1. yaojingang/yao-open-prompts ⭐1.1k
+   中文AI提示词库，覆盖工作学习内容营销生活场景
+   https://github.com/yaojingang/yao-open-prompts
 
-2. jherrodthomas/automotive-skills-suite ⭐729
-   100+ Claude 技能覆盖 ISO 26262 / SOTIF / 21434 等汽车功能安全标准
-   https://github.com/jherrodthomas/automotive-skills-suite
+2. strukto-ai/mirage ⭐993
+   AI Agent统一虚拟文件系统，沙盒安全文件操作
+   https://github.com/strukto-ai/mirage
 
-3. jherrodthomas/robotics-skills-suite ⭐514
-   76 个审计级 Claude 技能，工业机器人 ROS2 IEC 62443 全支持
-   https://github.com/jherrodthomas/robotics-skills-suite
+3. lightseekorg/tokenspeed ⭐641
+   光速LLM推理引擎，支持DeepSeek/Qwen等国产模型
+   https://github.com/lightseekorg/tokenspeed
 
-4. NamKhoa-07/Voidstrap ⭐483
-   Bloxstrap 高级定制分支，Roblox 客户端深度自定义利器
-   https://github.com/NamKhoa-07/Voidstrap
+4. antirez/ds4 ⭐573
+   Redis作者新作：纯C实现DeepSeek4 Apple Silicon本地推理
+   https://github.com/antirez/ds4
 
-5. virgiliojr94/book-to-skill ⭐418
-   把任意技术书 PDF 一键变成 Claude Code 技能，边写代码边查书
-   https://github.com/virgiliojr94/book-to-skill
+5. MayersScott/rkn-block-checker ⭐512
+   网络封锁分层诊断工具，精准定位DNS/TCP/TLS/HTTP拦截层级
+   https://github.com/MayersScott/rkn-block-checker
 
 👉 完整版已发布到博客

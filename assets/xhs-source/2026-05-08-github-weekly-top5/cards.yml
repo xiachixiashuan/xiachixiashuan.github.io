@@ -1,0 +1,67 @@
+date: "2026-05-08"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-05-08"
+items:
+  - number: "01"
+    section_title: "中文AI提示词宝库"
+    section_en: "Chinese AI Prompt Library"
+    section_emoji: "📝"
+    repo: "yaojingang/yao-open-prompts"
+    meta: "⭐ 1.1k · Python · 中文场景全覆盖"
+    bullets:
+      - { icon: "🧠", title: "场景全覆盖", desc: "工作学习内容营销生活五大场景" }
+      - { icon: "✍️", title: "中文优化", desc: "专为中文用户设计高质量提示词" }
+      - { icon: "📦", title: "分类整理", desc: "按场景分类方便直接复用改造" }
+      - { icon: "🌐", title: "社区驱动", desc: "开放贡献持续扩充内容库" }
+  - number: "02"
+    section_title: "Agent虚拟文件系统"
+    section_en: "Virtual Filesystem for AI Agents"
+    section_emoji: "🗂️"
+    repo: "strukto-ai/mirage"
+    meta: "⭐ 993 · TypeScript · Agent沙盒文件层"
+    bullets:
+      - { icon: "🔒", title: "沙盒隔离", desc: "Agent在隔离环境中安全操作文件" }
+      - { icon: "🔌", title: "多框架接入", desc: "支持Claude Code/LangChain/OpenAI" }
+      - { icon: "⚡", title: "FUSE驱动", desc: "跨平台高性能虚拟文件抽象层" }
+      - { icon: "🛠️", title: "工具支持", desc: "内置Bash脚本Python执行能力" }
+  - number: "03"
+    section_title: "光速LLM推理引擎"
+    section_en: "Speed-of-Light LLM Engine"
+    section_emoji: "⚡"
+    repo: "lightseekorg/tokenspeed"
+    meta: "⭐ 641 · Python · 最大化推理吞吐"
+    bullets:
+      - { icon: "🚀", title: "极致吞吐", desc: "比vLLM更高token每秒吞吐量" }
+      - { icon: "🖥️", title: "Blackwell优化", desc: "针对最新GPU架构深度优化" }
+      - { icon: "🤖", title: "国产模型", desc: "支持DeepSeek/Qwen/Kimi/MiniMax" }
+      - { icon: "📉", title: "激进量化", desc: "算子融合量化策略大幅降显存" }
+  - number: "04"
+    section_title: "Redis作者造推理引擎"
+    section_en: "DeepSeek4 Inference by antirez"
+    section_emoji: "🔧"
+    repo: "antirez/ds4"
+    meta: "⭐ 573 · C · Apple Silicon本地推理"
+    bullets:
+      - { icon: "👾", title: "极简实现", desc: "纯C零依赖体积极小好部署" }
+      - { icon: "🍎", title: "Metal加速", desc: "通过Apple Metal调用GPU推理" }
+      - { icon: "💻", title: "本地运行", desc: "MacBook上流畅运行DeepSeek4" }
+      - { icon: "🏆", title: "大师出品", desc: "Redis创始人antirez亲自操刀" }
+  - number: "05"
+    section_title: "网络封锁分层诊断"
+    section_en: "Network Block Diagnostic Tool"
+    section_emoji: "🔍"
+    repo: "MayersScott/rkn-block-checker"
+    meta: "⭐ 512 · Python · 逐层检测封锁机制"
+    bullets:
+      - { icon: "🌐", title: "分层检测", desc: "DNS/TCP/TLS/HTTP逐层诊断" }
+      - { icon: "🎯", title: "精准定位", desc: "精确识别封锁发生在哪一层" }
+      - { icon: "🔬", title: "DPI识别", desc: "深度包检测干扰分析能力" }
+      - { icon: "🛡️", title: "审查研究", desc: "网络安全研究员必备诊断工具" }

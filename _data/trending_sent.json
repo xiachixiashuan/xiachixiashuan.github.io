@@ -141,6 +141,11 @@
     "jherrodthomas/automotive-skills-suite",
     "jherrodthomas/robotics-skills-suite",
     "NamKhoa-07/Voidstrap",
-    "virgiliojr94/book-to-skill"
+    "virgiliojr94/book-to-skill",
+    "yaojingang/yao-open-prompts",
+    "strukto-ai/mirage",
+    "lightseekorg/tokenspeed",
+    "antirez/ds4",
+    "MayersScott/rkn-block-checker"
   ]
 }

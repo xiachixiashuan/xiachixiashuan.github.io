@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-05-08
+📈 GitHub 周榜 Top5 | 2026-05-09
 
-1. yaojingang/yao-open-prompts ⭐1.1k
-   中文AI提示词库，覆盖工作学习内容营销生活场景
-   https://github.com/yaojingang/yao-open-prompts
+1. V4bel/dirtyfrag ⭐2.9k
+   Linux 内核内存碎片化提权漏洞 PoC，安全研究必看
+   https://github.com/V4bel/dirtyfrag
 
-2. strukto-ai/mirage ⭐993
-   AI Agent统一虚拟文件系统，沙盒安全文件操作
-   https://github.com/strukto-ai/mirage
+2. LayrKits/Sprite-Pipeline ⭐429
+   2D 精灵图自动化生成流水线，Python 实现
+   https://github.com/LayrKits/Sprite-Pipeline
 
-3. lightseekorg/tokenspeed ⭐641
-   光速LLM推理引擎，支持DeepSeek/Qwen等国产模型
-   https://github.com/lightseekorg/tokenspeed
+3. WenyuChiou/awesome-agentic-ai-zh ⭐410
+   AI Agent 中文学习地图，繁简英三语结构化路径
+   https://github.com/WenyuChiou/awesome-agentic-ai-zh
 
-4. antirez/ds4 ⭐573
-   Redis作者新作：纯C实现DeepSeek4 Apple Silicon本地推理
-   https://github.com/antirez/ds4
+4. facebookresearch/ProgramBench ⭐370
+   Meta 出品 LLM 代码重建能力基准测试集
+   https://github.com/facebookresearch/ProgramBench
 
-5. MayersScott/rkn-block-checker ⭐512
-   网络封锁分层诊断工具，精准定位DNS/TCP/TLS/HTTP拦截层级
-   https://github.com/MayersScott/rkn-block-checker
+5. thcp/stemdeck ⭐368
+   AI 驱动音频轨道分离平台，浏览器即开即用
+   https://github.com/thcp/stemdeck
 
 👉 完整版已发布到博客

@@ -1,0 +1,71 @@
+date: "2026-05-09"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-05-09"
+items:
+  - number: "01"
+    section_title: "Linux内核碎片漏洞利用"
+    section_en: "Kernel Exploit PoC"
+    section_emoji: "🛡️"
+    repo: "V4bel/dirtyfrag"
+    meta: "⭐ 2.9k · C · Linux 内核提权研究"
+    bullets:
+      - { icon: "🔍", title: "漏洞挖掘", desc: "聚焦内核内存碎片化路径的安全漏洞" }
+      - { icon: "⚡", title: "纯C实现", desc: "代码简洁精炼，易于审计与复现" }
+      - { icon: "🎯", title: "CTF利器", desc: "理解现代内核提权链路的实战参考" }
+      - { icon: "📚", title: "研究价值", desc: "延续DirtyCow/DirtyPipe系列传统" }
+
+  - number: "02"
+    section_title: "2D精灵图自动化流水线"
+    section_en: "Sprite Sheet Pipeline"
+    section_emoji: "🎮"
+    repo: "LayrKits/Sprite-Pipeline"
+    meta: "⭐ 429 · Python · 游戏资产自动化生成"
+    bullets:
+      - { icon: "🖼️", title: "批量生成", desc: "自动切割打包2D精灵动画素材" }
+      - { icon: "⚙️", title: "高度可配", desc: "自定义参数控制输出风格与尺寸" }
+      - { icon: "🚀", title: "降本增效", desc: "独立开发者低成本批量产出素材" }
+      - { icon: "🐍", title: "Python生态", desc: "流程清晰，易于接入现有工作流" }
+
+  - number: "03"
+    section_title: "AI Agent中文学习地图"
+    section_en: "Agentic AI Chinese Guide"
+    section_emoji: "🗺️"
+    repo: "WenyuChiou/awesome-agentic-ai-zh"
+    meta: "⭐ 410 · Python · AI Agent 学习路径"
+    bullets:
+      - { icon: "📖", title: "结构化路径", desc: "从零开始每阶段配必做练习与必修读物" }
+      - { icon: "🌏", title: "三语对照", desc: "繁中／简中／English 三版本同步" }
+      - { icon: "🤖", title: "覆盖全面", desc: "从基础概念到多智能体系统完整体系" }
+      - { icon: "🤝", title: "社区共建", desc: "持续接受贡献，内容不断迭代更新" }
+
+  - number: "04"
+    section_title: "LLM程序重建基准测试"
+    section_en: "LLM Code Rebuild Benchmark"
+    section_emoji: "🧪"
+    repo: "facebookresearch/ProgramBench"
+    meta: "⭐ 370 · Python · Meta Research 出品"
+    bullets:
+      - { icon: "🏆", title: "严格评测", desc: "量化LLM从零重建程序的真实能力" }
+      - { icon: "📊", title: "标准框架", desc: "可直接用于现有模型的横向对比" }
+      - { icon: "🔬", title: "研究级", desc: "Meta官方出品，方法论可信度高" }
+      - { icon: "💡", title: "训练信号", desc: "可作为代码智能模型的改进依据" }
+
+  - number: "05"
+    section_title: "AI音频轨道分离平台"
+    section_en: "AI Audio Stem Extraction"
+    section_emoji: "🎵"
+    repo: "thcp/stemdeck"
+    meta: "⭐ 368 · JavaScript · AI音乐制作工具"
+    bullets:
+      - { icon: "🎤", title: "人声分离", desc: "精准提取混音中的人声独立轨道" }
+      - { icon: "🥁", title: "多轨拆分", desc: "鼓点贝斯各轨道独立输出stem文件" }
+      - { icon: "🌐", title: "浏览器运行", desc: "无需本地部署，即开即用" }
+      - { icon: "🎛️", title: "创作友好", desc: "音乐人AI辅助制作工作流起点" }

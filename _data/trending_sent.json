@@ -146,6 +146,11 @@
     "strukto-ai/mirage",
     "lightseekorg/tokenspeed",
     "antirez/ds4",
-    "MayersScott/rkn-block-checker"
+    "MayersScott/rkn-block-checker",
+    "V4bel/dirtyfrag",
+    "LayrKits/Sprite-Pipeline",
+    "WenyuChiou/awesome-agentic-ai-zh",
+    "facebookresearch/ProgramBench",
+    "thcp/stemdeck"
   ]
 }

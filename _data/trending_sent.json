@@ -151,6 +151,11 @@
     "LayrKits/Sprite-Pipeline",
     "WenyuChiou/awesome-agentic-ai-zh",
     "facebookresearch/ProgramBench",
-    "thcp/stemdeck"
+    "thcp/stemdeck",
+    "vercel-labs/zero-native",
+    "zarazhangrui/beautiful-html-templates",
+    "kitft/natural_language_autoencoders",
+    "PentHertz/LUKSbox",
+    "jmerelnyc/Photo-agents"
   ]
 }

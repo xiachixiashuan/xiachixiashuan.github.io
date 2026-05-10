@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-05-09
+📈 GitHub 周榜 Top5 | 2026-05-10
 
-1. V4bel/dirtyfrag ⭐2.9k
-   Linux 内核内存碎片化提权漏洞 PoC，安全研究必看
-   https://github.com/V4bel/dirtyfrag
+1. vercel-labs/zero-native ⭐1.6k
+   Zig 语言驱动的跨平台原生应用框架，支持 Web UI 前端，Vercel 实验室出品
+   https://github.com/vercel-labs/zero-native
 
-2. LayrKits/Sprite-Pipeline ⭐429
-   2D 精灵图自动化生成流水线，Python 实现
-   https://github.com/LayrKits/Sprite-Pipeline
+2. zarazhangrui/beautiful-html-templates ⭐0.6k
+   专为 AI 编程助手设计的 HTML 幻灯片模板库，让 AI 代理自动生成精美演示文稿
+   https://github.com/zarazhangrui/beautiful-html-templates
 
-3. WenyuChiou/awesome-agentic-ai-zh ⭐410
-   AI Agent 中文学习地图，繁简英三语结构化路径
-   https://github.com/WenyuChiou/awesome-agentic-ai-zh
+3. kitft/natural_language_autoencoders ⭐0.4k
+   自然语言自编码器研究项目，探索语言隐空间压缩与可控文本生成
+   https://github.com/kitft/natural_language_autoencoders
 
-4. facebookresearch/ProgramBench ⭐370
-   Meta 出品 LLM 代码重建能力基准测试集
-   https://github.com/facebookresearch/ProgramBench
+4. PentHertz/LUKSbox ⭐0.4k
+   Rust 编写的后量子加密容器工具，支持 FIDO2、TPM 2.0 和 ML-KEM 密钥槽
+   https://github.com/PentHertz/LUKSbox
 
-5. thcp/stemdeck ⭐368
-   AI 驱动音频轨道分离平台，浏览器即开即用
-   https://github.com/thcp/stemdeck
+5. jmerelnyc/Photo-agents ⭐0.4k
+   视觉感知的自主 LLM 智能体，能操控真实计算机并自编写技能持续进化
+   https://github.com/jmerelnyc/Photo-agents
 
 👉 完整版已发布到博客

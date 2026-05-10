@@ -1,0 +1,71 @@
+date: "2026-05-10"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-05-10"
+items:
+  - number: "01"
+    section_title: "Zig驱动跨平台框架"
+    section_en: "Native Apps with Zig + Web UI"
+    section_emoji: "⚡"
+    repo: "vercel-labs/zero-native"
+    meta: "⭐ 1.6k · Zig · Vercel Labs 出品"
+    bullets:
+      - { icon: "🏗️", title: "跨端统一构建", desc: "一套代码同时产出桌面和移动原生应用" }
+      - { icon: "🌐", title: "Web UI 前端", desc: "用熟悉的 Web 技术栈编写界面层" }
+      - { icon: "🦎", title: "Zig 底层驱动", desc: "编译期内存安全保障系统级性能" }
+      - { icon: "🏢", title: "Vercel 背书", desc: "官方实验室孵化，工程质量有保障" }
+
+  - number: "02"
+    section_title: "AI专属PPT模板库"
+    section_en: "HTML Slide Templates for AI Agents"
+    section_emoji: "🎨"
+    repo: "zarazhangrui/beautiful-html-templates"
+    meta: "⭐ 0.6k · HTML · AI 编程助手适配"
+    bullets:
+      - { icon: "🤖", title: "AI自动选模板", desc: "模板有语义标注，代理可直接推理选择" }
+      - { icon: "📊", title: "多场景覆盖", desc: "技术演讲与业务汇报风格均有收录" }
+      - { icon: "✨", title: "视觉精美输出", desc: "无需手动调布局即可生成精美幻灯片" }
+      - { icon: "🔌", title: "编程助手友好", desc: "专为 Codex、Cursor 等 AI 工具设计" }
+
+  - number: "03"
+    section_title: "自然语言自编码器"
+    section_en: "Natural Language Autoencoders"
+    section_emoji: "🧠"
+    repo: "kitft/natural_language_autoencoders"
+    meta: "⭐ 0.4k · Python · 语言表示学习研究"
+    bullets:
+      - { icon: "🔬", title: "隐空间建模", desc: "在连续向量空间中压缩和重建语言" }
+      - { icon: "🎛️", title: "可控文本生成", desc: "通过潜空间插值生成语义渐变文本" }
+      - { icon: "📐", title: "弥合离散鸿沟", desc: "专攻 token 离散与潜空间连续的矛盾" }
+      - { icon: "🧪", title: "实验性前沿", desc: "适合语义压缩和表示学习的研究者探索" }
+
+  - number: "04"
+    section_title: "后量子加密容器"
+    section_en: "Post-Quantum Encrypted Container"
+    section_emoji: "🔐"
+    repo: "PentHertz/LUKSbox"
+    meta: "⭐ 0.4k · Rust · 支持 FIDO2 + TPM + PQC"
+    bullets:
+      - { icon: "🛡️", title: "后量子密钥槽", desc: "ML-KEM-768/1024 抵御量子计算攻击" }
+      - { icon: "🔑", title: "硬件密钥支持", desc: "YubiKey、TPM 2.0、Windows Hello 均可用" }
+      - { icon: "💾", title: "三平台挂载", desc: "Linux / macOS / Windows 均可挂载为驱动器" }
+      - { icon: "☁️", title: "云端安全存储", desc: "无需信任存储宿主即可安全上云" }
+
+  - number: "05"
+    section_title: "视觉感知自主智能体"
+    section_en: "Vision-Grounded Self-Evolving Agents"
+    section_emoji: "👁️"
+    repo: "jmerelnyc/Photo-agents"
+    meta: "⭐ 0.4k · Python · 自主操控计算机"
+    bullets:
+      - { icon: "👀", title: "视觉接地记忆", desc: "通过屏幕视觉理解建立分层长期记忆" }
+      - { icon: "🔄", title: "自编写技能", desc: "执行过程中动态生成并持久化新技能" }
+      - { icon: "🖥️", title: "操控真实电脑", desc: "可直接控制应用、文件、浏览器等" }
+      - { icon: "🚀", title: "自我进化能力", desc: "每次任务后积累经验，能力持续增长" }

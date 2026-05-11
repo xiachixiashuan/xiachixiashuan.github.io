@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-05-10
+📈 GitHub 周榜 Top5 | 2026-05-11
 
-1. vercel-labs/zero-native ⭐1.6k
-   Zig 语言驱动的跨平台原生应用框架，支持 Web UI 前端，Vercel 实验室出品
-   https://github.com/vercel-labs/zero-native
+1. huangserva/3DCellForge ⭐738
+   AI 驱动的交互式 3D 细胞生成与探索工作台，纯浏览器运行无需安装
+   https://github.com/huangserva/3DCellForge
 
-2. zarazhangrui/beautiful-html-templates ⭐0.6k
-   专为 AI 编程助手设计的 HTML 幻灯片模板库，让 AI 代理自动生成精美演示文稿
-   https://github.com/zarazhangrui/beautiful-html-templates
+2. BigPizzaV3/CodexPlusPlus ⭐691
+   Codex 增强套件，插件式架构叠加批量调度与上下文优化能力
+   https://github.com/BigPizzaV3/CodexPlusPlus
 
-3. kitft/natural_language_autoencoders ⭐0.4k
-   自然语言自编码器研究项目，探索语言隐空间压缩与可控文本生成
-   https://github.com/kitft/natural_language_autoencoders
+3. mykolaharmash/notelet ⭐398
+   SwiftUI 组件，让 macOS/iOS 应用内显示精美 Markdown 版本更新日志
+   https://github.com/mykolaharmash/notelet
 
-4. PentHertz/LUKSbox ⭐0.4k
-   Rust 编写的后量子加密容器工具，支持 FIDO2、TPM 2.0 和 ML-KEM 密钥槽
-   https://github.com/PentHertz/LUKSbox
+4. fendouai/CodexSaver ⭐397
+   智能路由 DeepSeek 替代简单 Codex 调用，综合 API 成本降低 60%+
+   https://github.com/fendouai/CodexSaver
 
-5. jmerelnyc/Photo-agents ⭐0.4k
-   视觉感知的自主 LLM 智能体，能操控真实计算机并自编写技能持续进化
-   https://github.com/jmerelnyc/Photo-agents
+5. pixel-point/media-downloader ⭐376
+   原生 macOS 视频下载 + 时间轴剪辑一体化应用，设计精美开箱即用
+   https://github.com/pixel-point/media-downloader
 
 👉 完整版已发布到博客

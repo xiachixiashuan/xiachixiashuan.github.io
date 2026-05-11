@@ -1,0 +1,71 @@
+date: "2026-05-11"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-05-11"
+items:
+  - number: "01"
+    section_title: "AI 驱动 3D 细胞建模"
+    section_en: "3D Cell Forge"
+    section_emoji: "🧬"
+    repo: "huangserva/3DCellForge"
+    meta: "⭐ 738 · JavaScript · 浏览器即用 3D 细胞生成"
+    bullets:
+      - { icon: "🧠", title: "AI 自然语言建模", desc: "描述细胞结构即可生成 3D 模型" }
+      - { icon: "🌐", title: "纯浏览器运行", desc: "WebGL 渲染无需本地安装" }
+      - { icon: "🔬", title: "科研教育场景", desc: "适合生物信息可视化与演示" }
+      - { icon: "🎨", title: "交互式探索", desc: "支持旋转剖切实时操控场景" }
+
+  - number: "02"
+    section_title: "Codex 能力增强套件"
+    section_en: "CodexPlusPlus"
+    section_emoji: "⚡"
+    repo: "BigPizzaV3/CodexPlusPlus"
+    meta: "⭐ 691 · Python · Codex 插件式扩展框架"
+    bullets:
+      - { icon: "🔌", title: "插件式架构", desc: "无需改动核心代码即可扩展" }
+      - { icon: "📋", title: "批量任务调度", desc: "并发处理多个编码生成请求" }
+      - { icon: "🗂️", title: "上下文优化", desc: "智能压缩管理长上下文窗口" }
+      - { icon: "🛠️", title: "CLI 与 Python API", desc: "双接口满足脚本与集成需求" }
+
+  - number: "03"
+    section_title: "SwiftUI 版本日志组件"
+    section_en: "Notelet"
+    section_emoji: "📝"
+    repo: "mykolaharmash/notelet"
+    meta: "⭐ 398 · Swift · 应用内富文本更新日志"
+    bullets:
+      - { icon: "✨", title: "Markdown 渲染", desc: "支持富文本格式的版本说明" }
+      - { icon: "🌙", title: "深色模式适配", desc: "自动跟随系统外观无缝切换" }
+      - { icon: "📦", title: "SPM 即插即用", desc: "Swift Package Manager 一行集成" }
+      - { icon: "🎞️", title: "动画版本分组", desc: "流畅过渡提升用户阅读体验" }
+
+  - number: "04"
+    section_title: "DeepSeek 替代降低成本"
+    section_en: "CodexSaver"
+    section_emoji: "💰"
+    repo: "fendouai/CodexSaver"
+    meta: "⭐ 397 · Python · Codex+DeepSeek 智能路由"
+    bullets:
+      - { icon: "🤖", title: "复杂度分类器", desc: "动态判断任务走哪个模型" }
+      - { icon: "📉", title: "成本降低 60%+", desc: "简单任务路由至 DeepSeek" }
+      - { icon: "🎯", title: "质量无损", desc: "复杂生成仍保留 Codex 调用" }
+      - { icon: "📊", title: "内置成本基准", desc: "详细对比报告量化节省效果" }
+
+  - number: "05"
+    section_title: "原生 macOS 视频下载器"
+    section_en: "Media Downloader"
+    section_emoji: "🎬"
+    repo: "pixel-point/media-downloader"
+    meta: "⭐ 376 · Swift · 下载与剪辑一体化应用"
+    bullets:
+      - { icon: "⬇️", title: "一键下载视频", desc: "支持多平台在线视频获取" }
+      - { icon: "✂️", title: "内置时间轴剪辑", desc: "下载后直接裁剪无需额外工具" }
+      - { icon: "🖥️", title: "原生 HIG 设计", desc: "遵循 Apple 设计规范体验流畅" }
+      - { icon: "📌", title: "菜单栏快捷入口", desc: "一键唤起常驻系统菜单栏" }

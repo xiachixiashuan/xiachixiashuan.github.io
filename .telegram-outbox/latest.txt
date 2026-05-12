@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-05-11
+📈 GitHub 周榜 Top5 | 2026-05-12
 
-1. huangserva/3DCellForge ⭐738
-   AI 驱动的交互式 3D 细胞生成与探索工作台，纯浏览器运行无需安装
-   https://github.com/huangserva/3DCellForge
+1. alchaincyf/huashu-md-html ⭐435
+   万物↔Markdown↔HTML 三向转换流水线，封装 markitdown + Pandoc，一站式解决格式转换痛点
+   https://github.com/alchaincyf/huashu-md-html
 
-2. BigPizzaV3/CodexPlusPlus ⭐691
-   Codex 增强套件，插件式架构叠加批量调度与上下文优化能力
-   https://github.com/BigPizzaV3/CodexPlusPlus
+2. darkrishabh/agent-skills-eval ⭐425
+   AI Agent 技能 YAML 测试框架，支持 OpenAI-compatible API，JSONL 结果输出，可接入 CI/CD
+   https://github.com/darkrishabh/agent-skills-eval
 
-3. mykolaharmash/notelet ⭐398
-   SwiftUI 组件，让 macOS/iOS 应用内显示精美 Markdown 版本更新日志
-   https://github.com/mykolaharmash/notelet
+3. haydenbleasel/files-sdk ⭐338
+   统一对象存储 SDK，一套 Web Standards API 接入 S3/R2/GCS/MinIO/Vercel Blob
+   https://github.com/haydenbleasel/files-sdk
 
-4. fendouai/CodexSaver ⭐397
-   智能路由 DeepSeek 替代简单 Codex 调用，综合 API 成本降低 60%+
-   https://github.com/fendouai/CodexSaver
+4. setube/stackprism ⭐247
+   Chrome/Edge 浏览器插件，一键检测网页技术栈，覆盖框架/CDN/SaaS/安全组件多维度
+   https://github.com/setube/stackprism
 
-5. pixel-point/media-downloader ⭐376
-   原生 macOS 视频下载 + 时间轴剪辑一体化应用，设计精美开箱即用
-   https://github.com/pixel-point/media-downloader
+5. opensquilla/opensquilla ⭐221
+   Token 高效 AI Agent 框架，相同预算更高智能密度，支持 MCP 协议和跨会话长期记忆
+   https://github.com/opensquilla/opensquilla
 
 👉 完整版已发布到博客

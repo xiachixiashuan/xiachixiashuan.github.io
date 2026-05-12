@@ -1,0 +1,71 @@
+date: "2026-05-12"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-05-12"
+items:
+  - number: "01"
+    section_title: "MD与HTML双向流水线"
+    section_en: "Markdown ↔ HTML Pipeline"
+    section_emoji: "🔄"
+    repo: "alchaincyf/huashu-md-html"
+    meta: "⭐ 435 · CSS · 格式转换一站式工具"
+    bullets:
+      - { icon: "🧠", title: "三向转换", desc: "万物→MD / MD→HTML / HTML→MD 无缝切换" }
+      - { icon: "📦", title: "多库封装", desc: "集成 markitdown Pandoc html-to-markdown" }
+      - { icon: "🎨", title: "主题自定义", desc: "CSS 主题可替换适配各类博客风格" }
+      - { icon: "🛠️", title: "本地部署", desc: "支持自托管数据完全在本地掌控" }
+
+  - number: "02"
+    section_title: "AI Agent技能评估框架"
+    section_en: "Agent Skills Eval Runner"
+    section_emoji: "🧪"
+    repo: "darkrishabh/agent-skills-eval"
+    meta: "⭐ 425 · TypeScript · LLM 评估工具链"
+    bullets:
+      - { icon: "📋", title: "YAML定义用例", desc: "声明式测试配置结构清晰易维护" }
+      - { icon: "📊", title: "JSONL结果输出", desc: "标准化评估报告便于后续分析处理" }
+      - { icon: "🔌", title: "兼容OpenAI接口", desc: "支持所有 OpenAI-compatible API 后端" }
+      - { icon: "⚙️", title: "CI/CD集成", desc: "CLI 驱动可无缝接入自动化流水线" }
+
+  - number: "03"
+    section_title: "统一对象存储SDK"
+    section_en: "Unified Storage SDK"
+    section_emoji: "☁️"
+    repo: "haydenbleasel/files-sdk"
+    meta: "⭐ 338 · TypeScript · 多云存储适配"
+    bullets:
+      - { icon: "🔗", title: "一套API多后端", desc: "同时支持 S3 R2 GCS MinIO Vercel Blob" }
+      - { icon: "🌐", title: "Web标准设计", desc: "遵循 Web Standards I/O 接口规范" }
+      - { icon: "🔒", title: "避免供应商锁定", desc: "几行代码即可切换云存储供应商" }
+      - { icon: "📘", title: "TypeScript友好", desc: "完整类型支持开箱即用无配置负担" }
+
+  - number: "04"
+    section_title: "网页技术栈检测插件"
+    section_en: "Tech Stack Detector"
+    section_emoji: "🔍"
+    repo: "setube/stackprism"
+    meta: "⭐ 247 · TypeScript · Chrome/Edge 插件"
+    bullets:
+      - { icon: "🧩", title: "多维度检测", desc: "框架 CMS CDN 广告 SaaS 安全组件全覆盖" }
+      - { icon: "🛡️", title: "安全研究利器", desc: "快速识别目标站点技术指纹与安全组件" }
+      - { icon: "📱", title: "MV3规范", desc: "采用 Manifest V3 标准更安全更高效" }
+      - { icon: "⚡", title: "即装即用", desc: "Chrome 和 Edge 双端支持界面简洁直观" }
+
+  - number: "05"
+    section_title: "Token高效AI Agent框架"
+    section_en: "Token-Efficient AI Agent"
+    section_emoji: "🦑"
+    repo: "opensquilla/opensquilla"
+    meta: "⭐ 221 · Python · 多 Agent 协作框架"
+    bullets:
+      - { icon: "💰", title: "省Token不省脑", desc: "相同预算下实现更高智能密度输出" }
+      - { icon: "🧠", title: "长期记忆支持", desc: "Agent 跨会话记忆管理告别重复上下文" }
+      - { icon: "🔗", title: "MCP协议兼容", desc: "支持 Model Context Protocol 标准接口" }
+      - { icon: "🤝", title: "多Agent协作", desc: "内置多 Agent 编排机制适合复杂任务" }

@@ -1,0 +1,71 @@
+date: "2026-05-13"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-05-13"
+items:
+  - number: "01"
+    section_title: "3D细胞可视化展馆"
+    section_en: "Interactive 3D Cell Gallery"
+    section_emoji: "🔬"
+    repo: "cclank/cell-architecture-studio"
+    meta: "⭐ 434 · TypeScript · React + Three.js 三维可视化"
+    bullets:
+      - { icon: "🧫", title: "细胞3D建模", desc: "在浏览器中实时展示细胞三维结构" }
+      - { icon: "🖱️", title: "交互探索", desc: "支持旋转缩放自由浏览各部件" }
+      - { icon: "⚛️", title: "React架构", desc: "基于React与Three.js高性能渲染" }
+      - { icon: "📖", title: "科教参考", desc: "适合生物信息学与科学可视化学习" }
+
+  - number: "02"
+    section_title: "Rust版终端Discord"
+    section_en: "TUI Discord Client in Rust"
+    section_emoji: "🦀"
+    repo: "chojs23/concord"
+    meta: "⭐ 300 · Rust · 终端原生 Discord 客户端"
+    bullets:
+      - { icon: "💻", title: "纯终端运行", desc: "无需Electron完全命令行操作" }
+      - { icon: "🚀", title: "Rust性能", desc: "低内存高速响应告别卡顿" }
+      - { icon: "📢", title: "功能完备", desc: "支持频道消息收发与通知" }
+      - { icon: "🛠️", title: "开发者友好", desc: "适合热爱终端工作流的程序员" }
+
+  - number: "03"
+    section_title: "语音实时生成PPT"
+    section_en: "Speech to Slides in Realtime"
+    section_emoji: "🎙️"
+    repo: "kunchenguid/autopreso"
+    meta: "⭐ 291 · JavaScript · AI 语音转演示幻灯片"
+    bullets:
+      - { icon: "🗣️", title: "实时语音", desc: "边说话边自动生成幻灯片内容" }
+      - { icon: "✨", title: "AI驱动", desc: "智能提取关键点排版成幻灯片" }
+      - { icon: "⚡", title: "即兴展示", desc: "会议直播中快速输出可视化内容" }
+      - { icon: "🎯", title: "多场景适用", desc: "演讲教学产品展示均可使用" }
+
+  - number: "04"
+    section_title: "腾讯像素级3D生成"
+    section_en: "Pixel-Aligned 3D Generation"
+    section_emoji: "🏛️"
+    repo: "TencentARC/Pixal3D"
+    meta: "⭐ 262 · Python · SIGGRAPH 2026 论文实现"
+    bullets:
+      - { icon: "🔭", title: "SIGGRAPH论文", desc: "2026年顶会图形学研究成果" }
+      - { icon: "🖼️", title: "图像转3D", desc: "单张图像生成像素对齐三维模型" }
+      - { icon: "⚡", title: "速度精度双优", desc: "超越NeRF与3DGS的生成效率" }
+      - { icon: "🔓", title: "完整开源", desc: "腾讯ARC实验室代码全部开放" }
+
+  - number: "05"
+    section_title: "AI网文连贯写作引擎"
+    section_en: "AI Novel Writer for Long Fiction"
+    section_emoji: "✍️"
+    repo: "zy-zmc/tianming-novel-ai-writer"
+    meta: "⭐ 130 · C# · 12维状态管理 AI 写作系统"
+    bullets:
+      - { icon: "📚", title: "长篇不崩人设", desc: "写到3000章仍保持世界观一致" }
+      - { icon: "🧠", title: "12维事实快照", desc: "每章状态回写替代模型记忆" }
+      - { icon: "🚧", title: "6道生成门禁", desc: "多重校验杜绝前后矛盾内容" }
+      - { icon: "🎭", title: "专为中文网文", desc: "贴合连载小说创作流程设计" }

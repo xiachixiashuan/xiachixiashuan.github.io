@@ -166,6 +166,11 @@
     "darkrishabh/agent-skills-eval",
     "haydenbleasel/files-sdk",
     "setube/stackprism",
-    "opensquilla/opensquilla"
+    "opensquilla/opensquilla",
+    "cclank/cell-architecture-studio",
+    "chojs23/concord",
+    "kunchenguid/autopreso",
+    "TencentARC/Pixal3D",
+    "zy-zmc/tianming-novel-ai-writer"
   ]
 }

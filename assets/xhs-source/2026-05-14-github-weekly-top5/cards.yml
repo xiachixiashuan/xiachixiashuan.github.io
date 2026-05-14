@@ -1,0 +1,71 @@
+date: "2026-05-14"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-05-14"
+items:
+  - number: "01"
+    section_title: "拓竹专属开源切片器"
+    section_en: "OrcaSlicer for Bambu Lab"
+    section_emoji: "🖨️"
+    repo: "FULU-Foundation/OrcaSlicer-bambulab"
+    meta: "⭐ 2.9k · C++ · 深度适配 Bambu Lab 的切片软件"
+    bullets:
+      - { icon: "🎯", title: "深度适配", desc: "专为拓竹系列机型优化切片参数" }
+      - { icon: "🧩", title: "多材料支持", desc: "继承 OrcaSlicer 多丝多色能力" }
+      - { icon: "⚙️", title: "高级控制", desc: "填补官方 Studio 高级场景短板" }
+      - { icon: "🌐", title: "社区驱动", desc: "开源社区最受关注的替代方案" }
+
+  - number: "02"
+    section_title: "Claude Code 硬件用量表"
+    section_en: "ESP32 Claude Code Dashboard"
+    section_emoji: "📟"
+    repo: "HermannBjorgvin/Clawdmeter"
+    meta: "⭐ 679 · C · ESP32 桌面仪表盘实时显示 AI 用量"
+    bullets:
+      - { icon: "📡", title: "WiFi 拉取", desc: "实时同步 Anthropic 账户 API 数据" }
+      - { icon: "💰", title: "费用监控", desc: "显示当日 Token 用量与累计费用" }
+      - { icon: "🔧", title: "低成本硬件", desc: "全套硬件成本不足 20 美元" }
+      - { icon: "📖", title: "完全开源", desc: "代码+硬件电路图全部公开" }
+
+  - number: "03"
+    section_title: "A 股全栈数据工具包"
+    section_en: "China A-Share Data SDK"
+    section_emoji: "📈"
+    repo: "simonlin1212/a-stock-data"
+    meta: "⭐ 471 · Python · 6层架构·15端点·7数据源"
+    bullets:
+      - { icon: "🏗️", title: "6 层架构", desc: "清晰分层设计便于扩展维护" }
+      - { icon: "🔗", title: "多源聚合", desc: "接入沪深交易所等 7 大数据源" }
+      - { icon: "🤖", title: "AI Skill", desc: "可接入大模型实现自然语言查股" }
+      - { icon: "📊", title: "全面数据", desc: "行情·财报·资金流向一站获取" }
+
+  - number: "04"
+    section_title: "Android 开发技能包"
+    section_en: "Kotlin & Compose Skills"
+    section_emoji: "🤖"
+    repo: "chrisbanes/skills"
+    meta: "⭐ 430 · Kotlin · Jetpack Compose 权威开发者出品"
+    bullets:
+      - { icon: "✨", title: "Compose 专项", desc: "动画·状态·架构最佳实践封装" }
+      - { icon: "👨‍💻", title: "权威出品", desc: "Tivi/Accompanist 作者亲自编写" }
+      - { icon: "🧠", title: "AI 增强", desc: "直接接入支持 Skills 协议的 AI 助手" }
+      - { icon: "🎓", title: "生产实践", desc: "来自真实项目而非泛化通用代码" }
+
+  - number: "05"
+    section_title: "macOS 原生 AI 工作台"
+    section_en: "Hermes Desktop OS1"
+    section_emoji: "🖥️"
+    repo: "nickvasilescu/hermes-desktop-os1"
+    meta: "⭐ 397 · Swift · Hermes Agent 的 macOS 原生界面"
+    bullets:
+      - { icon: "🍎", title: "原生 Swift", desc: "纯 Swift 编写极致 macOS 性能" }
+      - { icon: "☁️", title: "云端集成", desc: "深度对接 Orgo 云端计算资源" }
+      - { icon: "🔄", title: "实时协作", desc: "内置 Streaming Sync 协作能力" }
+      - { icon: "🎨", title: "OS1 美学", desc: "致敬早期 macOS 简洁界面风格" }

@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-05-13
+📈 GitHub 周榜 Top5 | 2026-05-14
 
-1. cclank/cell-architecture-studio ⭐434
-   React + Three.js 构建的交互式 3D 细胞架构可视化展馆
-   https://github.com/cclank/cell-architecture-studio
+1. FULU-Foundation/OrcaSlicer-bambulab ⭐2.9k
+   深度适配 Bambu Lab 打印机的开源 3D 切片软件分支
+   https://github.com/FULU-Foundation/OrcaSlicer-bambulab
 
-2. chojs23/concord ⭐300
-   Rust 编写的功能完备终端 Discord 客户端，无需 Electron
-   https://github.com/chojs23/concord
+2. HermannBjorgvin/Clawdmeter ⭐679
+   ESP32 桌面仪表盘，实时显示 Claude Code 用量与费用，硬件成本 20 美元
+   https://github.com/HermannBjorgvin/Clawdmeter
 
-3. kunchenguid/autopreso ⭐291
-   实时语音转演示幻灯片，AI 让白板自己白板自己
-   https://github.com/kunchenguid/autopreso
+3. simonlin1212/a-stock-data ⭐471
+   A 股全栈数据工具包，6 层架构·15 端点·7 数据源，支持 AI Skill 接入
+   https://github.com/simonlin1212/a-stock-data
 
-4. TencentARC/Pixal3D ⭐262
-   腾讯 ARC SIGGRAPH 2026 论文：像素对齐的图像到 3D 生成
-   https://github.com/TencentARC/Pixal3D
+4. chrisbanes/skills ⭐430
+   Kotlin/Jetpack Compose/Android 开发技能包，Tivi 作者出品
+   https://github.com/chrisbanes/skills
 
-5. zy-zmc/tianming-novel-ai-writer ⭐130
-   专为中文网文设计的 AI 写作系统，12 维状态管理写 3000 章不崩人设
-   https://github.com/zy-zmc/tianming-novel-ai-writer
+5. nickvasilescu/hermes-desktop-os1 ⭐397
+   macOS 原生 Swift 编写的 Hermes Agent 工作台，OS1 风格界面
+   https://github.com/nickvasilescu/hermes-desktop-os1
 
 👉 完整版已发布到博客

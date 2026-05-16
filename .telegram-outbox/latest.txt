@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-05-14
+📈 GitHub 周榜 Top5 | 2026-05-16
 
-1. FULU-Foundation/OrcaSlicer-bambulab ⭐2.9k
-   深度适配 Bambu Lab 打印机的开源 3D 切片软件分支
-   https://github.com/FULU-Foundation/OrcaSlicer-bambulab
+1. Nightmare-Eclipse/YellowKey ⭐2.4k
+   Windows BitLocker 绕过漏洞研究，安全圈热门披露
+   https://github.com/Nightmare-Eclipse/YellowKey
 
-2. HermannBjorgvin/Clawdmeter ⭐679
-   ESP32 桌面仪表盘，实时显示 Claude Code 用量与费用，硬件成本 20 美元
-   https://github.com/HermannBjorgvin/Clawdmeter
+2. nexu-io/html-anything ⭐2.0k
+   AI 驱动 HTML 编辑器，75 技能 × 9 种页面格式，零 API Key
+   https://github.com/nexu-io/html-anything
 
-3. simonlin1212/a-stock-data ⭐471
-   A 股全栈数据工具包，6 层架构·15 端点·7 数据源，支持 AI Skill 接入
-   https://github.com/simonlin1212/a-stock-data
+3. yetone/native-feel-skill ⭐1.1k
+   跨平台桌面原生感设计框架，来自 Raycast 逆向工程
+   https://github.com/yetone/native-feel-skill
 
-4. chrisbanes/skills ⭐430
-   Kotlin/Jetpack Compose/Android 开发技能包，Tivi 作者出品
-   https://github.com/chrisbanes/skills
+4. jasonkneen/tiny-world-builder ⭐0.5k
+   纯 HTML 浏览器内世界构建器，零依赖
+   https://github.com/jasonkneen/tiny-world-builder
 
-5. nickvasilescu/hermes-desktop-os1 ⭐397
-   macOS 原生 Swift 编写的 Hermes Agent 工作台，OS1 风格界面
-   https://github.com/nickvasilescu/hermes-desktop-os1
+5. lucasfrre/BongoCat-Desktop ⭐0.4k
+   C++ 直播叠层 Bongo Cat，OBS 插件 + 皮肤定制
+   https://github.com/lucasfrre/BongoCat-Desktop
 
 👉 完整版已发布到博客

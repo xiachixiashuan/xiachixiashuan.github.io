@@ -1,0 +1,67 @@
+date: "2026-05-16"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-05-16"
+items:
+  - number: "01"
+    section_title: "BitLocker 绕过漏洞研究"
+    section_en: "BitLocker Bypass PoC"
+    section_emoji: "🔐"
+    repo: "Nightmare-Eclipse/YellowKey"
+    meta: "⭐ 2.4k · 安全研究 · BitLocker 加密绕过披露"
+    bullets:
+      - { icon: "🛡️", title: "漏洞类别", desc: "Windows BitLocker 磁盘加密机制缺陷" }
+      - { icon: "🔍", title: "研究价值", desc: "提供详细攻击面分析与 PoC 演示" }
+      - { icon: "⚠️", title: "影响范围", desc: "提醒管理员及时跟进安全补丁" }
+      - { icon: "📋", title: "参考意义", desc: "安全研究员的漏洞分析一手材料" }
+  - number: "02"
+    section_title: "AI 驱动 HTML 编辑器"
+    section_en: "Agentic HTML Editor"
+    section_emoji: "✨"
+    repo: "nexu-io/html-anything"
+    meta: "⭐ 2.0k · HTML · 75 技能 × 9 种输出格式"
+    bullets:
+      - { icon: "🤖", title: "Agent 集成", desc: "兼容 Claude / Cursor / Codex 等主流工具" }
+      - { icon: "🎨", title: "9 种页面格式", desc: "海报、PPT、小红书、数据报告全覆盖" }
+      - { icon: "🔒", title: "沙箱预览", desc: "本地隔离环境实时预览生成效果" }
+      - { icon: "📤", title: "一键导出", desc: "支持微信 / X / 知乎 / HTML / PNG" }
+  - number: "03"
+    section_title: "跨平台原生感设计框架"
+    section_en: "Native Feel Design Skill"
+    section_emoji: "🖥️"
+    repo: "yetone/native-feel-skill"
+    meta: "⭐ 1.1k · Skill · Raycast 逆向工程结晶"
+    bullets:
+      - { icon: "🏗️", title: "4 层架构", desc: "从 Raycast 2.0 深度逆向提炼设计体系" }
+      - { icon: "📐", title: "8 条原则", desc: "跨平台原生感 UI 架构核心原则" }
+      - { icon: "🌐", title: "兼容指南", desc: "WebKit / WebView2 生存指南附带" }
+      - { icon: "✅", title: "上线清单", desc: "75 项发布前审查事项一览无遗" }
+  - number: "04"
+    section_title: "浏览器内世界构建器"
+    section_en: "Tiny World Builder"
+    section_emoji: "🌍"
+    repo: "jasonkneen/tiny-world-builder"
+    meta: "⭐ 0.5k · HTML · 零依赖浏览器内交互世界"
+    bullets:
+      - { icon: "🎮", title: "零依赖", desc: "纯 HTML 实现，浏览器直接运行" }
+      - { icon: "🏗️", title: "互动构建", desc: "可视化界面快速搭建微型世界" }
+      - { icon: "🔬", title: "原型验证", desc: "适合快速创意实验与概念验证" }
+      - { icon: "📚", title: "学习示例", desc: "优秀的 HTML Canvas DOM 交互范本" }
+  - number: "05"
+    section_title: "直播桌面 Bongo Cat 工具"
+    section_en: "BongoCat Desktop Overlay"
+    section_emoji: "🐱"
+    repo: "lucasfrre/BongoCat-Desktop"
+    meta: "⭐ 0.4k · C++ · 键鼠追踪 + OBS 插件 + 皮肤定制"
+    bullets:
+      - { icon: "⌨️", title: "输入追踪", desc: "实时跟踪鼠标键盘和绘图板笔压" }
+      - { icon: "🎨", title: "皮肤定制", desc: "内置编辑器支持透明背景自定义" }
+      - { icon: "📹", title: "OBS 集成", desc: "官方插件无缝融入直播工作流" }
+      - { icon: "🎮", title: "手柄支持", desc: "手柄 + RGB 灯光同步 + osu! 模式" }

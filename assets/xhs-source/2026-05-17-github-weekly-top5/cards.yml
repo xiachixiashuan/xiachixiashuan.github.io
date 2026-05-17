@@ -1,0 +1,71 @@
+date: "2026-05-17"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-05-17"
+items:
+  - number: "01"
+    section_title: "Agent 专用编程语言"
+    section_en: "Zero Lang for Agents"
+    section_emoji: "⚡"
+    repo: "vercel-labs/zero"
+    meta: "⭐ 1.0k · C · Vercel Labs 出品"
+    bullets:
+      - { icon: "🧠", title: "显式副作用", desc: "编译器强制标注所有效果边界" }
+      - { icon: "🔧", title: "原生小工具", desc: "极小可信执行单元为 Agent 设计" }
+      - { icon: "🤖", title: "结构化输出", desc: "编译器输出机器可读利于 Agent 调用" }
+      - { icon: "📐", title: "可预测内存", desc: "无 GC 确定性内存管理无运行时意外" }
+
+  - number: "02"
+    section_title: "Agentic 最佳实践集"
+    section_en: "Agents Best Practices"
+    section_emoji: "📋"
+    repo: "DenisSergeevitch/agents-best-practices"
+    meta: "⭐ 578 · Skill · 框架无关通用"
+    bullets:
+      - { icon: "🏗️", title: "Harness 优先", desc: "模型提议 Harness 验证执行记录" }
+      - { icon: "🧩", title: "框架无关", desc: "Codex Claude Code 等均可一键安装" }
+      - { icon: "💼", title: "全场景覆盖", desc: "法务医疗运营等工作流同样适用" }
+      - { icon: "🛠️", title: "一键引入", desc: "npx skills add 秒级完成安装" }
+
+  - number: "03"
+    section_title: "连续扩散语言模型"
+    section_en: "Embedded Language Flows"
+    section_emoji: "🌊"
+    repo: "lillian039/ELF"
+    meta: "⭐ 572 · Python/JAX · arXiv 2605.10938"
+    bullets:
+      - { icon: "🔬", title: "Flow Matching", desc: "连续时间流匹配替代离散扩散步骤" }
+      - { icon: "🧠", title: "连续嵌入", desc: "全程在连续空间去噪末步才离散化" }
+      - { icon: "🎯", title: "CFG 支持", desc: "图像扩散 CFG 技术直接迁移文本" }
+      - { icon: "📦", title: "三档权重", desc: "B/M/L 三规模预训练权重开放下载" }
+
+  - number: "04"
+    section_title: "ChatGPT 促销码扫描"
+    section_en: "GPT Promo Scanner"
+    section_emoji: "🔍"
+    repo: "JUk1-GH/gpt-promo-scanner"
+    meta: "⭐ 503 · Python · 最高折扣 71%"
+    bullets:
+      - { icon: "🌍", title: "17 国覆盖", desc: "支持 17 个国家 34 个促销码扫描" }
+      - { icon: "💰", title: "最高七一折", desc: "标准价基础上最高 71% 折扣发现" }
+      - { icon: "✅", title: "全链路自动", desc: "发现验证比价支付一套工具链" }
+      - { icon: "🛡️", title: "代理切换", desc: "结合 Clash 自动切换多国节点验证" }
+
+  - number: "05"
+    section_title: "DeepSeek V4 桌面端"
+    section_en: "DeepSeek V4 Pro App"
+    section_emoji: "🖥️"
+    repo: "yaassin12/DeepSeek-V4-Pro-App"
+    meta: "⭐ 481 · Python+Rust · 三端跨平台"
+    bullets:
+      - { icon: "🧠", title: "CoT 可视化", desc: "完整思维链推理过程实时可见" }
+      - { icon: "💻", title: "三端覆盖", desc: "Windows macOS Linux 全平台支持" }
+      - { icon: "🔒", title: "隐私优先", desc: "本地存储加密 API 通信数据不出境" }
+      - { icon: "🎨", title: "多模态渲染", desc: "Markdown LaTeX 代码高亮一体化" }

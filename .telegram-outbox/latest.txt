@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-05-16
+📈 GitHub 周榜 Top5 | 2026-05-17
 
-1. Nightmare-Eclipse/YellowKey ⭐2.4k
-   Windows BitLocker 绕过漏洞研究，安全圈热门披露
-   https://github.com/Nightmare-Eclipse/YellowKey
+1. vercel-labs/zero ⭐1.0k
+   Vercel Labs 的 Agent 专用系统语言，显式副作用 + 无 GC 内存 + 结构化编译器输出
+   https://github.com/vercel-labs/zero
 
-2. nexu-io/html-anything ⭐2.0k
-   AI 驱动 HTML 编辑器，75 技能 × 9 种页面格式，零 API Key
-   https://github.com/nexu-io/html-anything
+2. DenisSergeevitch/agents-best-practices ⭐578
+   框架无关 Agentic 最佳实践 Skill，Codex/Claude Code 均可用，覆盖编码到法务全场景
+   https://github.com/DenisSergeevitch/agents-best-practices
 
-3. yetone/native-feel-skill ⭐1.1k
-   跨平台桌面原生感设计框架，来自 Raycast 逆向工程
-   https://github.com/yetone/native-feel-skill
+3. lillian039/ELF ⭐572
+   连续扩散语言模型 ELF：全程嵌入空间去噪，末步离散化，CFG 直接迁移图像→文本
+   https://github.com/lillian039/ELF
 
-4. jasonkneen/tiny-world-builder ⭐0.5k
-   纯 HTML 浏览器内世界构建器，零依赖
-   https://github.com/jasonkneen/tiny-world-builder
+4. JUk1-GH/gpt-promo-scanner ⭐503
+   ChatGPT Business 促销码自动扫描，17 国 34 个码，最高 71% 折扣，全链路工具
+   https://github.com/JUk1-GH/gpt-promo-scanner
 
-5. lucasfrre/BongoCat-Desktop ⭐0.4k
-   C++ 直播叠层 Bongo Cat，OBS 插件 + 皮肤定制
-   https://github.com/lucasfrre/BongoCat-Desktop
+5. yaassin12/DeepSeek-V4-Pro-App ⭐481
+   DeepSeek V4 跨平台桌面端，CoT 可视化 + 多模态 + 隐私本地存储，三端全覆盖
+   https://github.com/yaassin12/DeepSeek-V4-Pro-App
 
 👉 完整版已发布到博客

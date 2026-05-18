@@ -186,6 +186,11 @@
     "DenisSergeevitch/agents-best-practices",
     "lillian039/ELF",
     "JUk1-GH/gpt-promo-scanner",
-    "yaassin12/DeepSeek-V4-Pro-App"
+    "yaassin12/DeepSeek-V4-Pro-App",
+    "facebookresearch/vggt-omega",
+    "Kappaemme-git/codex-complexity-optimizer",
+    "chrisbanes/skills",
+    "gi-dellav/zerostack",
+    "boona13/mykonos-island-voxels"
   ]
 }

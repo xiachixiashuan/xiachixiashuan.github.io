@@ -1,0 +1,71 @@
+date: "2026-05-18"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-05-18"
+items:
+  - number: "01"
+    section_title: "Facebook视觉几何AI"
+    section_en: "VGGT Omega · CVPR 2026"
+    section_emoji: "🏆"
+    repo: "facebookresearch/vggt-omega"
+    meta: "⭐ 611 · Python · CVPR 2026 Oral"
+    bullets:
+      - { icon: "🧠", title: "顶会认证", desc: "CVPR 2026 Oral 荣誉奖项" }
+      - { icon: "📐", title: "几何重建", desc: "图像到三维精确几何还原" }
+      - { icon: "🤖", title: "场景泛化", desc: "机器人与自动驾驶通用底座" }
+      - { icon: "🚀", title: "精度提升", desc: "VGGT 系列全面升级版本" }
+
+  - number: "02"
+    section_title: "代码复杂度优化器"
+    section_en: "Codex Complexity Optimizer"
+    section_emoji: "🔍"
+    repo: "Kappaemme-git/codex-complexity-optimizer"
+    meta: "⭐ 625 · Python · AI编程工具"
+    bullets:
+      - { icon: "📊", title: "复杂度扫描", desc: "识别高复杂度问题模块" }
+      - { icon: "⚡", title: "性能报告", desc: "输出结构化优化建议" }
+      - { icon: "🔒", title: "安全分析", desc: "无副作用只读代码扫描" }
+      - { icon: "🛠️", title: "Codex集成", desc: "与AI助手无缝配合使用" }
+
+  - number: "03"
+    section_title: "Android开发技能包"
+    section_en: "Kotlin & Compose Skills"
+    section_emoji: "📱"
+    repo: "chrisbanes/skills"
+    meta: "⭐ 603 · Kotlin · Android开发"
+    bullets:
+      - { icon: "🎨", title: "Compose实战", desc: "Jetpack Compose最佳实践" }
+      - { icon: "🌐", title: "跨平台支持", desc: "KMP多平台组件设计指南" }
+      - { icon: "⚙️", title: "协程模式", desc: "Coroutines使用场景范式" }
+      - { icon: "📦", title: "状态管理", desc: "复杂UI状态设计方案" }
+
+  - number: "04"
+    section_title: "Rust极简编程Agent"
+    section_en: "ZeroStack · Rust Agent"
+    section_emoji: "🦀"
+    repo: "gi-dellav/zerostack"
+    meta: "⭐ 543 · Rust · 极低内存占用"
+    bullets:
+      - { icon: "💨", title: "极致轻量", desc: "内存占用远低于同类工具" }
+      - { icon: "🔐", title: "安全保障", desc: "Rust所有权模型零风险" }
+      - { icon: "⚡", title: "高性能", desc: "零成本抽象快速代码生成" }
+      - { icon: "🧩", title: "无重依赖", desc: "摒弃复杂框架自主实现" }
+
+  - number: "05"
+    section_title: "浏览器体素岛屿建造"
+    section_en: "Mykonos Island Voxels"
+    section_emoji: "🏝️"
+    repo: "boona13/mykonos-island-voxels"
+    meta: "⭐ 557 · JavaScript · 无框架"
+    bullets:
+      - { icon: "🎮", title: "原生实现", desc: "纯Vanilla JS无需打包工具" }
+      - { icon: "📐", title: "等轴测视角", desc: "希腊小岛风格视觉设计" }
+      - { icon: "📱", title: "移动友好", desc: "支持触控操作全端适配" }
+      - { icon: "🖼️", title: "Canvas渲染", desc: "Canvas 2D精美交互效果" }

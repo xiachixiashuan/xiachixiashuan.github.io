@@ -1,0 +1,71 @@
+date: "2026-05-19"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-05-19"
+items:
+  - number: "01"
+    section_title: "AI代码审查利器"
+    section_en: "AI Code Review & Patch"
+    section_emoji: "🤖"
+    repo: "openclaw/clawpatch"
+    meta: "⭐ 542 · TypeScript · 一键 Review、Patch、合并 PR"
+    bullets:
+      - { icon: "🔍", title: "自动代码审查", desc: "AI 分析变更自动找出潜在问题" }
+      - { icon: "🩹", title: "一键修复 Bug", desc: "生成 patch 并直接提交到仓库" }
+      - { icon: "⚡", title: "流程极速压缩", desc: "多轮人工操作变为单条命令" }
+      - { icon: "🔗", title: "平台无缝集成", desc: "支持主流代码托管平台 API" }
+
+  - number: "02"
+    section_title: "小模型大能力"
+    section_en: "Small LLM Big Power"
+    section_emoji: "🧠"
+    repo: "Doorman11991/smallcode"
+    meta: "⭐ 506 · JavaScript · 4B 参数达 87% 基准分"
+    bullets:
+      - { icon: "📊", title: "87% 基准测试", desc: "仅 4B 激活参数超越众多大模型" }
+      - { icon: "🏠", title: "本地私有部署", desc: "无需联网适合内网离线场景" }
+      - { icon: "💡", title: "精妙提示策略", desc: "深度优化 Prompt 与任务拆解" }
+      - { icon: "📦", title: "边缘端友好", desc: "低资源设备也能跑 AI 编程助手" }
+
+  - number: "03"
+    section_title: "隐私数据自动清除"
+    section_en: "Privacy Data Auto-Removal"
+    section_emoji: "🛡️"
+    repo: "stephenlthorn/auto-identity-remove"
+    meta: "⭐ 493 · JavaScript · 批量撤回数据经纪商个人信息"
+    bullets:
+      - { icon: "🗑️", title: "批量删除请求", desc: "自动向数百家平台提交撤回申请" }
+      - { icon: "🔐", title: "隐私主动防护", desc: "覆盖主要数据经纪商网站" }
+      - { icon: "🔄", title: "定期自动执行", desc: "可定时运行持续维护隐私安全" }
+      - { icon: "🆓", title: "完全开源免费", desc: "无需付费订阅服务即可使用" }
+
+  - number: "04"
+    section_title: "极速本地差异查看"
+    section_en: "Fast Local Diff Viewer"
+    section_emoji: "⚡"
+    repo: "nkzw-tech/codiff"
+    meta: "⭐ 360 · TypeScript · 毫秒级渲染本地代码变更"
+    bullets:
+      - { icon: "🚀", title: "毫秒级渲染", desc: "大型代码变更即时显示无卡顿" }
+      - { icon: "🔌", title: "离线可用", desc: "本地运行无需联网或登录账号" }
+      - { icon: "🎯", title: "专注纯粹体验", desc: "去除干扰聚焦代码差异阅读" }
+      - { icon: "📚", title: "学习价值高", desc: "精简代码库是学习 diff 算法良材" }
+
+  - number: "05"
+    section_title: "双视角推理加速"
+    section_en: "Dual-View LLM Inference"
+    section_emoji: "🔬"
+    repo: "chiennv2000/orthrus"
+    meta: "⭐ 311 · Python · 无损 LLM 推理速度大幅提升"
+    bullets:
+      - { icon: "🧪", title: "无损加速推理", desc: "不牺牲质量前提下压缩延迟" }
+      - { icon: "🔀", title: "双视角解码", desc: "全新扩散解码思路区别于投机解码" }
+      - { icon: "📉", title: "延迟显著下降", desc: "实测推理速度大幅领先基线" }
+      - { icon: "📖", title: "详细技术文档", desc: "附完整原理说明适合深度研究" }

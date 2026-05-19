@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-05-18
+📈 GitHub 周榜 Top5 | 2026-05-19
 
-1. facebookresearch/vggt-omega ⭐611
-   Facebook 视觉几何 AI，CVPR 2026 Oral，图像三维重建新基准
-   https://github.com/facebookresearch/vggt-omega
+1. openclaw/clawpatch ⭐542
+   一键 AI 代码审查 + 自动修复 + 合并 PR
+   https://github.com/openclaw/clawpatch
 
-2. Kappaemme-git/codex-complexity-optimizer ⭐625
-   Codex Skill，自动扫描代码复杂度，生成性能优化报告
-   https://github.com/Kappaemme-git/codex-complexity-optimizer
+2. Doorman11991/smallcode ⭐506
+   专为小 LLM 优化的 AI 编程 Agent，4B 参数达 87% 基准分
+   https://github.com/Doorman11991/smallcode
 
-3. chrisbanes/skills ⭐603
-   Android 大神的 Kotlin/Jetpack Compose/KMP 开发技能包
-   https://github.com/chrisbanes/skills
+3. stephenlthorn/auto-identity-remove ⭐493
+   自动向数百家数据经纪商撤回个人隐私信息
+   https://github.com/stephenlthorn/auto-identity-remove
 
-4. gi-dellav/zerostack ⭐543
-   Rust 编写的极简编程 Agent，极低内存占用高性能
-   https://github.com/gi-dellav/zerostack
+4. nkzw-tech/codiff ⭐360
+   轻量快速的本地代码差异查看器，离线可用
+   https://github.com/nkzw-tech/codiff
 
-5. boona13/mykonos-island-voxels ⭐557
-   纯原生 JS 浏览器端等轴测体素岛屿建造器，无框架移动友好
-   https://github.com/boona13/mykonos-island-voxels
+5. chiennv2000/orthrus ⭐311
+   双视角扩散解码，无损加速 LLM 推理
+   https://github.com/chiennv2000/orthrus
 
 👉 完整版已发布到博客

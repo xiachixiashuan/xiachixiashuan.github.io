@@ -1,0 +1,71 @@
+date: "2026-05-20"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-05-20"
+items:
+  - number: "01"
+    section_title: "字节多模态大模型"
+    section_en: "ByteDance Multimodal LLM"
+    section_emoji: "🎬"
+    repo: "bytedance/Lance"
+    meta: "⭐ 314 · Python · 30亿参数原生多模态"
+    bullets:
+      - { icon: "🧠", title: "统一架构", desc: "图像视频文本同套参数处理" }
+      - { icon: "🎯", title: "无需拼接", desc: "不依赖外挂视觉编码器" }
+      - { icon: "📊", title: "基准竞争", desc: "视频问答媲美同级闭源模型" }
+      - { icon: "🛠️", title: "本地部署", desc: "轻量级适合工程师实验" }
+
+  - number: "02"
+    section_title: "层次推理文本模型"
+    section_en: "HRM Text Generation"
+    section_emoji: "📝"
+    repo: "sapientinc/HRM-Text"
+    meta: "⭐ 400 · Python · 10亿参数HRM架构"
+    bullets:
+      - { icon: "🧩", title: "层次推理", desc: "多层内部思考替代逐token解码" }
+      - { icon: "💡", title: "架构创新", desc: "HRM超越标准Transformer" }
+      - { icon: "🏆", title: "垂直场景", desc: "代码生成逻辑推理更优" }
+      - { icon: "🔓", title: "完全开放", desc: "代码权重均可免费获取" }
+
+  - number: "03"
+    section_title: "自进化个人AI代理"
+    section_en: "Self-Evolving AI Agent"
+    section_emoji: "🐘"
+    repo: "agentic-in/elephant-agent"
+    meta: "⭐ 345 · Python · 长记忆自进化Agent"
+    bullets:
+      - { icon: "🧠", title: "长期记忆", desc: "经验内化无需外部向量库" }
+      - { icon: "🔄", title: "自主进化", desc: "运行中持续更新知识策略" }
+      - { icon: "🧩", title: "插件扩展", desc: "模块化支持搜索代码执行" }
+      - { icon: "🌱", title: "个人优先", desc: "专为单用户深度定制设计" }
+
+  - number: "04"
+    section_title: "8阶段漏洞发现Agent"
+    section_en: "AI Vulnerability Auditor"
+    section_emoji: "🔍"
+    repo: "evilsocket/audit"
+    meta: "⭐ 292 · Python · 自动化安全审计"
+    bullets:
+      - { icon: "🔬", title: "8阶段流程", desc: "侦察假设分析PoC全自动" }
+      - { icon: "🤖", title: "LLM驱动", desc: "减少人工翻阅代码负担" }
+      - { icon: "🛡️", title: "授权审计", desc: "合法渗透测试场景适用" }
+      - { icon: "⚡", title: "名家出品", desc: "bettercap作者evilsocket" }
+
+  - number: "05"
+    section_title: "36章Agent全栈课程"
+    section_en: "AI Agent Full-Stack Course"
+    section_emoji: "📚"
+    repo: "Callous-0923/agent-study"
+    meta: "⭐ 287 · HTML · 36章中文Agent课程"
+    bullets:
+      - { icon: "📖", title: "系统覆盖", desc: "ReAct到MCP/A2A协议全栈" }
+      - { icon: "🐍", title: "代码即文档", desc: "全部可运行Python文件" }
+      - { icon: "🔧", title: "生产实战", desc: "含RAG DSPy可观测性" }
+      - { icon: "🆓", title: "中文资料", desc: "clone即用无需额外配置" }

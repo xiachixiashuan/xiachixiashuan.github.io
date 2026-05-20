@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-05-19
+📈 GitHub 周榜 Top5 | 2026-05-20
 
-1. openclaw/clawpatch ⭐542
-   一键 AI 代码审查 + 自动修复 + 合并 PR
-   https://github.com/openclaw/clawpatch
+1. bytedance/Lance ⭐314
+   字节跳动30亿参数原生统一多模态模型，图像与视频理解
+   https://github.com/bytedance/Lance
 
-2. Doorman11991/smallcode ⭐506
-   专为小 LLM 优化的 AI 编程 Agent，4B 参数达 87% 基准分
-   https://github.com/Doorman11991/smallcode
+2. sapientinc/HRM-Text ⭐400
+   基于HRM架构的10亿参数文本生成模型，层次推理优于标准Transformer
+   https://github.com/sapientinc/HRM-Text
 
-3. stephenlthorn/auto-identity-remove ⭐493
-   自动向数百家数据经纪商撤回个人隐私信息
-   https://github.com/stephenlthorn/auto-identity-remove
+3. agentic-in/elephant-agent ⭐345
+   个人模型优先自进化AI Agent，长期记忆内化无需外部向量库
+   https://github.com/agentic-in/elephant-agent
 
-4. nkzw-tech/codiff ⭐360
-   轻量快速的本地代码差异查看器，离线可用
-   https://github.com/nkzw-tech/codiff
+4. evilsocket/audit ⭐292
+   bettercap作者出品8阶段漏洞发现Agent，LLM驱动自动化安全审计
+   https://github.com/evilsocket/audit
 
-5. chiennv2000/orthrus ⭐311
-   双视角扩散解码，无损加速 LLM 推理
-   https://github.com/chiennv2000/orthrus
+5. Callous-0923/agent-study ⭐287
+   36章AI Agent全栈中文课程，从ReAct到MCP/A2A协议，代码即文档
+   https://github.com/Callous-0923/agent-study
 
 👉 完整版已发布到博客

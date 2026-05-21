@@ -1,0 +1,67 @@
+date: "2026-05-21"
+cover:
+  emoji: "🔥"
+  title_line1: "GitHub 周榜"
+  title_line2: "本周 Top5"
+  subtitle_lines:
+    - "最火的 5 个新项目速览"
+    - "数据 · 功能 · 链接一次看完"
+    - "全部诞生于过去 7 天"
+  tags: [GitHub, 开源速递, AI工具, 每日更新, 技术速览]
+  footer: "GitHub 周榜系列 · 2026-05-21"
+items:
+  - number: "01"
+    section_title: "Agent 专用编程语言"
+    section_en: "Zero Programming Language"
+    section_emoji: "💻"
+    repo: "vercel-labs/zerolang"
+    meta: "⭐ 3.9k · C · Vercel Labs 出品"
+    bullets:
+      - { icon: "🧠", title: "Agent 优先设计", desc: "语法紧凑可预测让 AI 快速学会" }
+      - { icon: "📦", title: "内置标准库", desc: "开箱即用取代散乱依赖管理" }
+      - { icon: "🔍", title: "结构化诊断", desc: "机器可读错误支持自动修复" }
+      - { icon: "🛠️", title: "原生编译", desc: "编译到可执行文件含 VS Code 插件" }
+  - number: "02"
+    section_title: "Claude Code 技能合集"
+    section_en: "9arm Agent Skills"
+    section_emoji: "🦾"
+    repo: "thananon/9arm-skills"
+    meta: "⭐ 874 · Shell · 工程最佳实践封装"
+    bullets:
+      - { icon: "🔧", title: "调试方法论", desc: "结构化 debug 流程减少无效试错" }
+      - { icon: "📋", title: "事后分析", desc: "标准化 postmortem 报告模板" }
+      - { icon: "👀", title: "代码评审", desc: "外部视角代码质量深度审查" }
+      - { icon: "⚡", title: "即插即用", desc: "一键安装到技能目录立刻生效" }
+  - number: "03"
+    section_title: "链上巨鲸实时追踪"
+    section_en: "Hyperliquid Whale Tracker"
+    section_emoji: "🐋"
+    repo: "Glazenovatag/hyperliquid-whale-order-tracking"
+    meta: "⭐ 490 · Python · 链上数据监控"
+    bullets:
+      - { icon: "📊", title: "实时监控", desc: "WebSocket 流式接收链上交易数据" }
+      - { icon: "🔑", title: "零密钥运行", desc: "完全只读无需 API Key 零摩擦" }
+      - { icon: "🔔", title: "Telegram 推送", desc: "批量告警防止 API 限速精准通知" }
+      - { icon: "🎯", title: "分币阈值", desc: "BTC 与小市值代币独立配置触发值" }
+  - number: "04"
+    section_title: "对话生成 API 文档"
+    section_en: "Loom API Doc Agent"
+    section_emoji: "🧶"
+    repo: "husu/loom"
+    meta: "⭐ 329 · TypeScript · Node.js"
+    bullets:
+      - { icon: "💬", title: "对话驱动", desc: "TUI 聊天描述接口自动生成文档" }
+      - { icon: "🔎", title: "源码扫描", desc: "/scan 自动从代码识别现有接口" }
+      - { icon: "🖥️", title: "Web 预览器", desc: "内置 React SPA 浏览文档端点" }
+      - { icon: "🎭", title: "Mock 服务", desc: "一键生成动态 Mock 无需真实后端" }
+  - number: "05"
+    section_title: "AI 创作无限画布"
+    section_en: "Infinite Canvas Workbench"
+    section_emoji: "🎨"
+    repo: "basketikun/infinite-canvas"
+    meta: "⭐ 250 · TypeScript+Go · 开源创作工具"
+    bullets:
+      - { icon: "🖼️", title: "AI 生图集成", desc: "文生图图生图兼容 OpenAI 接口" }
+      - { icon: "🗺️", title: "无限画布", desc: "节点编排小地图导航多画布管理" }
+      - { icon: "📚", title: "提示词库", desc: "聚合数百精选提示词快速创作" }
+      - { icon: "🤖", title: "画布助手", desc: "对话生成结果自动回写到画布节点" }

@@ -1,23 +1,23 @@
-📈 GitHub 周榜 Top5 | 2026-05-20
+📈 GitHub 周榜 Top5 | 2026-05-21
 
-1. bytedance/Lance ⭐314
-   字节跳动30亿参数原生统一多模态模型，图像与视频理解
-   https://github.com/bytedance/Lance
+1. vercel-labs/zerolang ⭐3.9k
+   专为 AI Agent 设计的编程语言，语法从底层重构，Vercel Labs 出品
+   https://github.com/vercel-labs/zerolang
 
-2. sapientinc/HRM-Text ⭐400
-   基于HRM架构的10亿参数文本生成模型，层次推理优于标准Transformer
-   https://github.com/sapientinc/HRM-Text
+2. thananon/9arm-skills ⭐874
+   Claude Code 可复用 Agent Skill 合集，涵盖调试/事后分析/代码评审
+   https://github.com/thananon/9arm-skills
 
-3. agentic-in/elephant-agent ⭐345
-   个人模型优先自进化AI Agent，长期记忆内化无需外部向量库
-   https://github.com/agentic-in/elephant-agent
+3. Glazenovatag/hyperliquid-whale-order-tracking ⭐490
+   实时追踪 Hyperliquid 链上巨鲸订单，Python + WebSocket，无需 API Key
+   https://github.com/Glazenovatag/hyperliquid-whale-order-tracking
 
-4. evilsocket/audit ⭐292
-   bettercap作者出品8阶段漏洞发现Agent，LLM驱动自动化安全审计
-   https://github.com/evilsocket/audit
+4. husu/loom ⭐329
+   对话式 AI API 文档生成器，支持 DeepSeek/OpenAI，内置 Mock 和 Web 预览
+   https://github.com/husu/loom
 
-5. Callous-0923/agent-study ⭐287
-   36章AI Agent全栈中文课程，从ReAct到MCP/A2A协议，代码即文档
-   https://github.com/Callous-0923/agent-study
+5. basketikun/infinite-canvas ⭐250
+   面向 AI 创作的开源无限画布，Next.js + Go，兼容 OpenAI 接口
+   https://github.com/basketikun/infinite-canvas
 
 👉 完整版已发布到博客
